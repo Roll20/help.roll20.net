@@ -4,8 +4,6 @@ title: Terms of Service and Privacy Policy
 categories: site_policy
 ---
 
-#Introduction
-
 ##English, not Legalese
 
 Most Terms of Service and Privacy Policy documents are unreadable. They are written by lawyers and for lawyers, and in our opinion are not very effective.

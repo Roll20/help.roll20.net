@@ -8,7 +8,7 @@ $(function() {
 				$this.find(".results").html($("#tmpl_chatmessage_rollresult").jqote(results.origformula + "|" + results.formula + "|" + results.total));
 			}
 			catch (e) {
-				$(this).find(".results").html("<div class='alert alert-danger'>Invalid roll! Check your formula and try again.</div>");
+				$(this).find(".results").html("<div class='alert alert-danger'>Invalid roll! Check your formula and try again. "+e+"</div>");
 			}
 			
 		}

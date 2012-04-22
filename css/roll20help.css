@@ -70,6 +70,11 @@ h1 {
 	margin-bottom: 20px;
 	border-bottom: 1px solid #D1D1D1;
 	padding-bottom: 5px;
+	margin-top: 25px;
+}
+
+h1.pagetitle {
+	margin-top: 0px;
 }
 
 h2 {
