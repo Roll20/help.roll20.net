@@ -16,7 +16,7 @@ $(function() {
 
 	$(".diceroller").each(function() {
 		var oldval = $(this).text();
-		$(this).html("<div class='results'></div><input type='text' /><small>Click in the box and press enter to roll the dice!</small>");
+		$(this).html("<div class='results'></div><input type='text' /><small>Click in the box and press enter to roll the dice! You can also change the formula.</small>");
 		$(this).find("input").val(oldval);
 	});
 
