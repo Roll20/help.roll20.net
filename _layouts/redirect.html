@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<p>
+  This page has moved.  If the redirect fails,
+  <a href="{{ page.redirect_to }}">click me</a>.
+</p>
+
+<script type="text/javascript">
+  window.location = '{{ page.redirect_to }}'
+</script>
