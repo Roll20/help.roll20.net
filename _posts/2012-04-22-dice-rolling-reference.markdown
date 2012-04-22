@@ -22,6 +22,13 @@ Rolling in Secret
 
 By default, any rolls that you make are seen by everyone in the game with you (including all players). If you want to roll in secret, you can use the <code>/gmroll</code> command to perform a roll that only the GM and the original player who made the roll can see. So if you're the GM, doing a <code>/gmroll</code> will only be visible to you. It's a great way to perform skill checks in secret.
 
+Including Additional Information
+--------------------------------
+
+You can also include non-formula text in your roll to indicate what that roll is for. For example, when rolling for initiative you might enter <code>/roll 1d20+5 Roll for Initiative</code>. The extra text won't affect your roll in any way (as long as it doesn't include numbers or special characters like the plus sign), but it's included in the chat log so that others can see what you're rolling for. It's entirely optional to do this, by the way, but some GMs find it helps keep everything organized a little better.
+
+<div class="diceroller">/roll 1d20+5 Roll for Initiative</div>
+
 Exploding Dice
 --------------
 
