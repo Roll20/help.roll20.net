@@ -27,6 +27,22 @@ Riley and Nolan, the Roll20 Team
   </div>
 </div> -->
 
+<h2>Popular Guides</h2>
+
+<div class="well popular-list">
+
+  <ul>
+  {% for post in site.categories.popular reversed %}
+    <li>
+     
+        <h3> <a href="{{ post.url }}" id="{{ cat }}">{{ post.title }}</a></h3>
+        <p>{{ post.description }}</p>
+      
+    </li>
+  {% endfor %}
+  </ul>
+</div>
+
 <div class="alert alert-success" style="margin-top: 20px;">
   <p><strong>Welcome, brave adventurer!</strong> The Roll20 Help site is still very much a work in progress. We'll be adding more guides as the closed beta gets underway, so check back soon!</p>
 </div>
