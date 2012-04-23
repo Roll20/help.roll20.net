@@ -63,12 +63,12 @@
 .accordion-inner ul li {
 	padding: 10px 10px 10px 20px;
 	margin: 0;
-	border-bottom: 1px solid #E1E1E1;
+	border-bottom: 1px solid #EEE;
 }
 
 h1 {
 	margin-bottom: 20px;
-	border-bottom: 1px solid #D1D1D1;
+	border-bottom: 1px solid #EEE;
 	padding-bottom: 5px;
 	margin-top: 25px;
 }
@@ -89,12 +89,12 @@ h2 {
 
 .header .sidelinks {
 	float: right;
-	margin-top: 5px;
+	margin-top: 10px;
 }
 
 footer {
 	margin-top: 75px;
 	padding-bottom: 50px;
 	padding-top: 10px;
-	border-top: 1px solid #D1D1D1;
+	border-top: 1px solid #EEE;
 }
