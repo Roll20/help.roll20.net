@@ -26,11 +26,11 @@ By default, any rolls that you make are seen by everyone in the game with you (i
 Including Additional Information
 --------------------------------
 
-You can also include non-formula text in your roll to indicate what that roll is for. For example, when rolling for initiative you might enter <code>/roll 1d20+5 Roll for Initiative</code>. The extra text won't affect your roll in any way (as long as it doesn't include numbers or special characters like the plus sign), but it's included in the chat log so that others can see what you're rolling for. It's entirely optional to do this, by the way, but some GMs find it helps keep everything organized a little better.
+You can also include non-formula text in your roll to indicate what that roll is for. For example, when rolling for initiative you might enter <code>/roll 1d20+5 Roll for Initiative</code>. The extra text won't affect your roll in any way, but it's included in the chat log so that others can see what you're rolling for. It's entirely optional to do this, by the way, but some GMs find it helps keep everything organized a little better.
 
 <div class="diceroller">/roll 1d20+5 Roll for Initiative</div>
 
-You shouldn't include any numbers, parentheses, or <code>+</code>, <code>-</code>, <code>*</code>, or <code>/</code> in your additional text, since those will be interpreted as part of a formula and will affect your roll result (or cause you to get an "invalid formula" error).
+**Note:** If you want to include any numbers, parentheses, or <code>+</code>, <code>-</code>, <code>*</code>, or <code>/</code> in your additional text, you can preface it with a <code>\</code> to separate the formula from the text and keep the roller from getting confused. So for example you can do <code>/roll 1d20+5 \ Roll for Initiative +5</code>.
 
 Exploding Dice
 --------------
