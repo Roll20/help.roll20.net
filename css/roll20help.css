@@ -17,6 +17,16 @@
 	color: #888;
 }
 
+.critsuccess {
+	color: #508C4D;
+	font-weight: bold;
+}
+
+.critfail {
+	color: #D61A1A;
+	font-weight: bold;
+}
+
 .diceroller {
 	background-color: #D3E5F5;
 	padding: 10px;

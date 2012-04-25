@@ -18,7 +18,7 @@ sidebar_cats:
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
     <script src="/twitterbootstrap/js/bootstrap.min.js" type="text/javascript"></script>
     <script src="/js/roll20help.js" type="text/javascript"></script>
-    <script type="text/javascript" src="http://app.roll20.net/assets/dice_engine.min.js?v=2"></script>
+    <script type="text/javascript" src="http://app.roll20.net/assets/dice_engine.min.js?v=3"></script>
     <script type="text/javascript" src="http://app.roll20.net/js/jquery.jqote2.js"></script>
     <script type="text/javascript" src="http://app.roll20.net/js/underscore.js"></script>
   </head>
@@ -113,7 +113,7 @@ sidebar_cats:
         </div>
         <div class="clear"></div>
         <div class="formula">
-          <$= s[1].replace(/\[[0-9]+\]/g, function(match) { return match.replace("[", "<span class='dropped'>").replace("]", "</span>"); }) $>
+          <$= s[1].replace(/\[[0-9]+\]/g, function(match) { return match.replace("[", "<span class='dropped'>").replace("]", "</span>"); }).replace(/{@[0-9]+@}/g, function(match) { return match.replace("{@", "<span class='critsuccess'>").replace("@}", "</span>"); }).replace(/{#[0-9]+#}/g, function(match) { return match.replace("{#", "<span class='critfail'>").replace("#}", "</span>"); }) $>
         </div>
         <strong> = </strong>
         <div class="rolled">
