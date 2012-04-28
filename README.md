@@ -1,4 +1,4 @@
-Rol20 Help and Documentation
+Roll20 Help and Documentation
 ============================
 
 This is the Roll20 Help and Documentation site. The logos, design, and trademarks are Copyright (C) 2012 Roll20.net and Tailor Made Solutions, LLC. 
