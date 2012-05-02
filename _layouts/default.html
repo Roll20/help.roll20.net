@@ -13,6 +13,7 @@ sidebar_cats:
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title>{{ page.title }} | Roll20 Help</title>
     <link href="/twitterbootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="/twitterbootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css">
     <link href="/css/pygments.css" media="screen" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="/css/roll20help.css" type="text/css" media="all">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
@@ -25,19 +26,19 @@ sidebar_cats:
 
   <body>
 
-    <div class="container">
+    <div class="container-fluid">
 
-      <div class="row">
+      <div class="row-fluid">
 
         <div class='span12'>
 
           <div class="header">
 
-            <<div class="sidelinks">
+            <div class="sidelinks">
 
               <div class="btn-group">
                 <a class="btn" href="http://community.roll20.net/index.php?p=/entry/jsconnect&client_id=54386393&Target=/categories/help-support">Support Forums</a>
-                <a class="btn" href="http://app.roll20.net/">Back to Roll20</a>
+                <a id="backbutton" class="btn" href="http://app.roll20.net/">Back to Roll20</a>
               </div>
 
             </div>
@@ -52,7 +53,7 @@ sidebar_cats:
 
       </div>
 
-      <div class="row">
+      <div class="row-fluid">
         <div class="span9">
 
           <h1 class="pagetitle">{{page.title}}</h1>
@@ -104,6 +105,14 @@ sidebar_cats:
         </p>
       </div> <!-- /container -->
     </footer>
+
+    <script type="text/javascript">
+      if(window.opener) {
+        $("#backbutton").attr("href", "javascript:void(0);").click(function() {
+          window.close();
+        });
+      }
+    </script>
 
     <script type="text/html" id="tmpl_chatmessage_rollresult">
       <div class='message rollresult you'>
