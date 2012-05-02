@@ -1,20 +1,23 @@
 ---
 layout: default
 title: Maps
-categories: draft
+categories: beginner
 ---
 
-* __Finding and adding maps__
+Finding and adding maps
+-----------------------
 
-  Be certain that you are on the background / map layer (accessed via the left side toolbar).  You can use the Art Library to quickly find maps to use in your campaign, by searching under the "maps" section in the drop down menu. There are some built-in assets, and if you scroll down further you’ll see that it’s also searching popular RPG forums and sites on the web.  After finding the appropriate map, you may simply drag and drop it into the table area.  Additionally, you can drag and drop maps directly from your computer to the Roll20 interface.
-
-
-* __Using map tiles__
-
-  You can make you own environments using tiles.  Search "tiles" via the Art Library, and then drag and drop the relevant tiles so you can arrange them in the table area.  You can also highlight a tile on the board and use Ctrl+C and Ctrl+V to copy and paste it if you need to make several of the same kind. 
+  Be certain that you are on the background / map layer (accessed via the left side toolbar).  You can use the Art Library to quickly find maps to use in your campaign, by searching under the "maps" section in the drop down menu. There are some built-in assets, and if you scroll down further you’ll see that it’s also searching popular RPG forums and sites on the web.  After finding the appropriate map, you may simply drag and drop it into the table area.  Additionally, you can drag and drop images directly from your computer to the Roll20 interface to be used as maps.
 
 
+Using map tiles
+---------------
 
-* __Grids__
+  You can make you own environments using tiles.  Search for keywords such as "grass", "stone", "rock", and even "wall" via the Art Library, and then drag and drop the relevant tiles so you can arrange them in the table area.  To create several of the same map tile in a row, click and drag on the orange handle that appears when you select the tile on the tabletop. You can also use Ctrl+C and Ctrl+V to copy and paste tiles.
 
-  At the top of the screen you can access the "Page Toolbar" menu.  Each individual page of your campaign is listed in the area.  Each section, upon right-clicking, has a unique settings menu which allows you to indicate whether the page will have a square grid, hex grid, or be gridless.
+
+
+Grids
+-----
+
+  At the top of the screen you can access the "Page Toolbar" menu.  Each individual page of your campaign is listed in the area.  Mousing over each page allows you to click on the settings icon to access its settings menu, which allows you to indicate whether the page will have a square grid, hex grid, or be gridless.
