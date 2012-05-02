@@ -4,7 +4,18 @@ title: Tokens
 categories: draft
 ---
 
-* Finding and adding tokens
-* Assigning tokens to players
-* Token settings (bars, auras, etc.)
-* Radial menus
+* __Finding and adding tokens__
+
+  Before you find a token, make _sure_ that you are on the Objects & Token layer (this setting is the second option found on the left side of the Roll20 interface).  Then go to the right side under "Art Library".  From there, with your drop down menu selecting "Tokens" search  for the type of token you are interested in-- goblins, knights, gorillas, etc.  Notice that you can "star" an object you like to make it come up in your Starred Art Library (accessible by the star token at the top of the search area).  To add a token to the gameboard, simply drag and drop the image to the board.
+
+* __Assigning tokens to players__
+
+  Right click on a token and select "Edit" OR click the gear image on the radial menu of the token to access the edit menu screen.  On that screen there will be a "Controlled By" drop down bar.  Note that you can only have tokens controlled by players that have actually entered a session.
+
+* __Token settings (bars, auras, etc.)__
+
+  Right click on a token and select "Edit" OR click the gear image on the radial menu of the token to access the edit menu screen.  From there, you have options to add values and auras to tokens.  Realize that these will only be visible to you as the Game Master unless you click the boxes at the bottom of the Edit screen which allow these functions to be seen by players.  
+
+* __Radial menus__
+
+  The radial menu allows you to quickly change the values of the bars by clicking and typing. For example, by clicking into the health bubble, you could type a set value, or +5 to increase by 5, or -10 to decrease a value by 10. 
