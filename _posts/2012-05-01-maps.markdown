@@ -28,6 +28,12 @@ Adjusting the Map
   Be advised that you can move and scale objects independent of the grid by pressing 'alt' as you resize.
   
 
+Using Fog-of-War
+----------------
+
+  To use Fog-of-War elements (blacking out portions of the screen for players) go to the top "Page Toolbar" area, and click on the individual page you want to have Fog-of-War (this is on the same page as Grid options).  There you can this feature on or off.  Once it is on, you can use the left toolbar to add or subtract visibility for your players.
+  
+
 Pinging the Map
 ---------------
 
