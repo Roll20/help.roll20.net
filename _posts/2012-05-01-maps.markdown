@@ -16,7 +16,6 @@ Using map tiles
   You can make you own environments using tiles.  Search for keywords such as "grass", "stone", "rock", and even "wall" via the Art Library, and then drag and drop the relevant tiles so you can arrange them in the table area.  To create several of the same map tile in a row, click and drag on the orange handle that appears when you select the tile on the tabletop. You can also use Ctrl+C and Ctrl+V to copy and paste tiles.
 
 
-
 Grids
 -----
 
@@ -27,3 +26,9 @@ Adjusting the Map
 -----------------
 
   Be advised that you can move and scale objects independent of the grid by pressing 'alt' as you resize.
+  
+
+Pinging the Map
+---------------
+
+  Game Masters AND players can easily ping the map by left mouse clicking and holding.  A small circular ping should appear.
