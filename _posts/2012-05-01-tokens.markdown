@@ -10,7 +10,7 @@ categories: draft
 
 * __Assigning tokens to players__
 
-  Right click on a token and select "Edit" OR click the gear image on the radial menu of the token to access the edit menu screen.  On that screen there will be a "Controlled By" drop down bar.  Note that you can only have tokens controlled by players that have actually entered a session.
+  Right click on a token and select "Edit" OR click the gear image on the radial menu of the token to access the edit menu screen.  On that screen there will be a "Controlled By" drop down bar.  Note that you can only have tokens controlled by players that have actually entered a session.  You can also allow a token to be controlled by all players.
 
 * __Token settings (bars, auras, etc.)__
 
