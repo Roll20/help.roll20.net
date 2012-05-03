@@ -1,0 +1,48 @@
+---
+layout: default
+title: GM Overview
+categories: basic popular
+---
+
+<iframe width="853" height="480" src="http://www.youtube.com/embed/DXXXFsjUDVI?rel=0&modestbrading=1&hd=1&showsearch=0" frameborder="0" allowfullscreen></iframe>
+
+Transcript
+----------
+
+Welcome to Roll20! We’re very excited that you’re here. To help you get started, we’ve created this quick overview of how to create a campaign. We go over most of the functionality in Roll20 briefly, but for more detailed instructions on any particular part, be sure to check out the Help and Documentation site, which you can access in a handy popup window at any time by clicking on the Help icon. So, let’s get started.
+
+You’re looking at the main Roll20 interface. You’re currently logged in as the Game Master, or “GM”, and you’re editing a campaign. In the middle is the core piece of the interface, the virtual tabletop. Right now it’s pretty empty and boring, so let’s add a token!
+
+You can use the Art Library to quickly find tokens, maps, tiles, and portraits to use in your campaign. Let’s do a search for “goblin.” There are some built-in assets, and if you scroll down further you’ll see that it’s also searching popular RPG forums and sites on the web. Each result has a credit on top so you can see where it’s from. If you find one you really like, you can even star it, and the next time you search for “goblin” it will show up at the top of your list. That’s a great way to be consistent with your art style. This looks like a good one, so I’ll drag and drop to add it to the tabletop. I can resize it and move it around as needed. That’s it, our first token! 
+
+You can add as many tokens as you want to your tabletop. And you can also highlight a token and use Ctrl+C and Ctrl+V to copy and paste it if you need to make several of the same kind. When I click on the token, notice the radial menu that pops open. I’m going to click the settings button to open up the token and change some advanced settings. Here’s where you can let a specific player control the token (note that the list of players is empty since no one has joined this game yet). You can also use up to three bars and two auras to show specific information about the token, and choose if you want players to see that information, or if you want to keep it to yourself. Now when you open up the radial menu, you can quickly change the values of the bars by clicking and typing. You can type +5 to increase by 5, or -10 to decrease by 10. Or just 18 to set the value. You can also use the markers tray down here to quickly add markers to the token that both you and the players can see, perfect for keeping track of things like status effects.
+
+We probably need something for the tokens to sit on, so let’s add a background map. Notice on the toolbar over here there is a button that lets you switch layers. There’s the tokens layer which is what we’re on now; there’s a GM info layer which only the GM sees; and there’s a map layer which is always behind everything else. So let’s switch to that layer. I could use the Art Library to find a map, but instead I’m going to drag and drop one off of my computer right here into the tabletop. It uploads to Roll20, and I’m in business. You can adjust the map however you need, and then switch back to your tokens layer and adjust your tokens. Now we’re getting somewhere!
+
+But chances are you’re going to need more than one scene in your campaign. Like a storybook, each campaign is comprised of multiple pages. The pages can be anything you want, but usually they’ll be either an image, like a map or a portrait of a major NPC; or, the page will represent an encounter, with a map and tokens, just like a real tabletop. As the GM, you can switch between pages at any time. The page that the players are on is represented by the player bookmark. Just move it to any page, and the players in the game automatically switch to that page. So a typical play session starts on a page, you do the encounter or talk to the NPC, then move the players to the next page, and so on.
+
+Notice that each page has its own settings, which I can get to by clicking on this gear icon in the page toolbar. You can adjust the size, background color, and grid type of the page from here. You can also turn on fog of war, which hides the whole map from the players. Then, you can use the reveal tool and just highlight the area you want to reveal. It’s that simple. If you make a mistake, use the cover tool to re-hide the area.
+
+Okay, so we’ve got a good campaign going here, let’s invite a player to join. Notice the player link that shows up here when you first log in. To invite players to your game, you simply send them this link. If you were wondering where the video chat feature is, it will automatically start up whenever a player joins your game. You’ll need to click the Allow button to broadcast. You can also mouse over the window to access settings and change your camera or microphone.
+
+By default, players won’t be able to edit or move any of the pieces in your campaign. But you can open up the settings of a token (I double-clicked as a shortcut) and give them control over it if you want.
+
+I want to take a quick moment to point out that anything you do: adding tokens, resizing, moving, or marking, shows up immediately in real-time to any connected players. So there’s really no difference between an “edit” mode and a “play” mode in Roll20. You can come in and prepare a whole campaign in advance, or you can start with a blank page and build it all right in front of your players, it’s whatever works best for your style of play.
+
+Now that we have a player, we may want to talk with them and roll dice. 
+
+On the right-hand side is a chat system. To say something to everyone, just type your message and press Enter. There’s also full support for whispering to other players or the GM. And you can also emote to add flavor to the conversation. All of the chat is persistent between play sessions, so you can always review what’s happened previously.
+
+And if you want to roll dice, you just type /roll followed by a quick formula. For example, to roll a single d20 with a plus five, I just type /roll 1d20+5. Everyone can see the results of the roll. If you want to keep a roll private, do /gmroll; for example, /gmroll 2d8+2. We support a lot more than just basic rolls, so be sure to check out the reference on the Help site if your game system of choice uses more advanced rolling mechanics.
+
+The Journal allows you to create characters and handouts that you and the players can refer to. For Characters, You can add in an avatar, and add notes that players see, as well as notes that only the GM sees. By default, only the GM sees the characters, but you can easily add them to the player’s journals as well by typing their name. Finally, you can give a player control over this character, which lets them choose to speak as that character in the text chat. Handouts let you upload a large image or type a description, then put them into some or all of your player’s journals. Perfect for handing out secret notes or storing oft-used bits of plot-related info.
+
+Roll20’s Jukebox lets you easily add sound into your game. To start, just click the “Add” button. You can type any keyword, like “dungeon” into the box, and Roll20 will search the SoundCloud library for music to include. We’ve also set up some filtering in the background that tries to find music that’s appropriate for use as background music. You can preview the track. When you find one you like, just click “Add”, and it gets added to your Jukebox. Now when you can play the track, and all of the players will hear it playing as well. You can also control the volume to make it fade into the background or surge to be the focal point. 
+
+There’s also a turn tracker. It’s shown to everyone in the game, although only the GM can re-order the entries. Change the numbers to represent initiative or any other stat you want to keep quick track of, then just drag and drop to re-order as the battle takes place. When the encounter is over, just close the window. The turn tracker doesn’t enforce any particular rules, it’s just a quick tool to help the GM and players keep track of turn-based encounters.
+
+Everyone in the game also has their own Settings tab, where they can control the master volume level of the Jukebox as they hear it, and also choose what type of video and voice chat they want to use. This is also where you can set up macros, which let you and your players store and re-use rolls and chat messages. For example, you can create a macro for your most-used attack and damage rolls. Then in the chat window, just type #attack and it will insert the roll automatically. You could also create a macro for a few battle cries.
+
+Finally, you’ll also notice the Decks settings here. Decks are collections of cards that you and your players can draw from. By default you’ll start with a standard deck of playing cards. Show the deck, then just click and drag at the top to draw a card. You can also Shuffle the deck. You can create as many decks as you want. You can change the settings, and add or change the individual cards inside it. Each card is just an image that you upload from your computer. 
+
+That’s the basics of Roll20. As long as this video is, there’s still a lot more to talk about, so be sure to check out the Help and Documentation site for more detailed information on each individual feature. And let us know if you have any trouble! Good luck!
