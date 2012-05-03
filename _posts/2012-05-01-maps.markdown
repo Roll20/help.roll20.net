@@ -21,3 +21,9 @@ Grids
 -----
 
   At the top of the screen you can access the "Page Toolbar" menu.  Each individual page of your campaign is listed in the area.  Mousing over each page allows you to click on the settings icon to access its settings menu, which allows you to indicate whether the page will have a square grid, hex grid, or be gridless.
+
+
+Adjusting the Map
+-----------------
+
+  Be advised that you can move and scale objects independent of the grid by pressing 'alt' as you resize.
