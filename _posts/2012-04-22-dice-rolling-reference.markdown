@@ -41,7 +41,7 @@ To perform a roll with exploding dice, just add an exclamation point after the n
 
 <div class='diceroller'>/roll 10d6!</div>
 
-**Compounding Exploding Dice (Shadowrun-Style Exploding Dice)
+**Compounding Exploding Dice (Shadowrun-Style Exploding Dice)**
 
 Shadowrun (and some other systems) use a special style of exploding dice where the the additional rolls for each dice are added together as a single "roll". To do this, just use two exclamation marks instead of one. So for example to roll 5 d6's, you would do <code>/roll 5d6!!</code>. A common Shadowrun roll would be exploding dice compared to a target number, for example <code>/roll 5d6!!>8</code>. Even though the target number (8) is higher than the possible roll from a single dice, with the compounding exploding rolls a single roll can be infinitely high!
 
