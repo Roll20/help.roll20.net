@@ -1,2 +1,3 @@
 permalink: /:title
 markdown: redcarpet
+auto: true

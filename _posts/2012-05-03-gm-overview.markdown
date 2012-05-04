@@ -1,10 +1,11 @@
 ---
 layout: default
 title: GM Overview
-categories: basic popular
+categories: beginner popular
+description: A screencast showing you how to quickly get up and running as a GM in Roll20.
 ---
 
-<iframe width="853" height="480" src="http://www.youtube.com/embed/DXXXFsjUDVI?rel=0&modestbrading=1&hd=1&showsearch=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="420" src="http://www.youtube.com/embed/DXXXFsjUDVI?rel=0&modestbrading=1&hd=1&showsearch=0" frameborder="0" allowfullscreen></iframe>
 
 Transcript
 ----------
