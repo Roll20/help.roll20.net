@@ -2,7 +2,7 @@
 layout: default
 title: Player Overview
 categories: beginner popular
-Description: A screencast showing you how to get up and running as a Player in Roll20.
+description: A screencast showing you how to get up and running as a Player in Roll20.
 ---
 
 <iframe width="700" height="420" src="http://www.youtube.com/embed/b_kTOUJddlU?rel=0&modestbrading=1&hd=1&showsearch=0" frameborder="0" allowfullscreen></iframe>
