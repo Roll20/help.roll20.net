@@ -63,13 +63,13 @@ Target Number (Successes)
 
 Normally when you perform a roll, Roll20 reports back the total value of all the dice rolled, plus any modifiers. Some game systems, though, work by rolling a set of dice versus a target number, and then adding up the total number of successes instead. Roll20 uses the greater-than symbol <code>&gt;</code> to indicate that the roll is versus a target number.
 
-For example, you might be performing an action that requires a target number of 3, and you get to roll 3 d6's to see how many successes you have. In Roll20, you would do <code>/roll 3d6>3</code>. Note the inclusion of the greater-than symbol to indicate that this is a target roll versus 3. Roll20 will show you each dice that was rolled, and then tell you the number of dice with a value of 3 or greater (note that ties with the target number count as a success!) 
+For example, you might be performing an action that requires a target number of 3, and you get to roll 3 d6's to see how many successes you have. In Roll20, you would do <code>/roll 3d6>3</code>. Note the inclusion of the greater-than symbol to indicate that this is a target roll versus 3. Roll20 will show you each dice that was rolled, and then tell you the number of dice with a value of 3 or greater (note that ties with the target number count as a success!) **New** You can now also roll less-than target numbers, for example <code>/roll 10d6<4</code>, which would give you a success for each dice rolled with a 4 or less.
 
 You can also add modifiers onto your target rolls, and the modifier will be added to <em>each individual dice roll</em> before it is compared to the target number. So, <code>/roll 3d6+1>3</code> would roll 3 d6 dice, and for each dice roll add on 1, then compare it versus the target number of 3.
 
 <div class='diceroller'>/roll 3d6>3</div>
 
-The overall format for target number rolls is <code>/roll NdX+m>t</code> where N is the number of dice to roll, X is the number of sides of the dice, m is the (optional) modifier applied to each dice roll, and t is the target number. A success occurs when a rolled dice value plus any modifiers is equal to or greater than the target number.
+The overall format for target number rolls is <code>/roll NdX+m[>|<]t</code> where N is the number of dice to roll, X is the number of sides of the dice, m is the (optional) modifier applied to each dice roll, and t is the target number. A success occurs when a rolled dice value plus any modifiers is equal to or greater than the target number, or less than or equal to the target number, depending on the symbol used.
 
 FATE Dice
 ---------
