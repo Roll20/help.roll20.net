@@ -26,6 +26,7 @@ White Hat
 We want to include special recognition for the follwoing users who have responsibly disclosed potential security issues to the Roll20 team:
 
 Christopher L. Burdett (a.k.a. Deightine)
+
 [Jon Yarbor (a.k.a Blazedd)](http://jonyarbor.name)
 
 
