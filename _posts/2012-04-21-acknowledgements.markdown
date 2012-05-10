@@ -18,7 +18,14 @@ With special thanks to the following folks for their contributions to the cause:
 
 **[Dylan Todd](http://dylantodd.com/)** for his amazing work creating our beautiful logo.
 
-**Chris Clouser (a.k.a. Mock)** for his helpful advice regarding the dice rolling mechanics of the incredibly large number of role playing systems that exist in the wild.
+**[Chris Clouser (a.k.a. Mock)](http://oneofthethousand.tumblr.com)** for his helpful advice regarding the dice rolling mechanics of the incredibly large number of role playing systems that exist in the wild.
+
+White Hat
+---------
+
+We want to include special recognition for the follwoing users who have responsibly disclosed potential security issues to the Roll20 team:
+
+Christopher L. Burdett (a.k.a. Deightine)
 
 
 Art &amp; Assets 
