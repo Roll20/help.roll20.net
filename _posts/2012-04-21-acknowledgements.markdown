@@ -59,7 +59,7 @@ Roll20 couldn't exist without standing on the shoulders of giants. The following
 
 * [RaphaelJS](http://raphaeljs.com) -- a fantastic SVG art library, it's the graphics engine that helps us show your worlds.
 * [OpenTok](http://tokbox.com) -- lets us bring you video and voice chat
-* [ShareJS](http://sharejs.org) -- a library that helps us keep everyone in sync in real-time, with automatic conflict resolution.
+* [Firebase](http://firebase.com) -- the service that helps us keep everyone in sync in real-time, with automatic conflict resolution.
 * [jQuery](http://jquery.com) -- needs no introduction, a seminal piece of Javascript
 * [BackboneJS](http://documentcloud.github.com/backbone) -- keeps us organized when everything is flying around in a giant mess
 * [Padrino](http://padrinorb.com) -- powers the administration section of the site
