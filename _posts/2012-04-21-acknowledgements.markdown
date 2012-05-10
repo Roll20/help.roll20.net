@@ -26,6 +26,7 @@ White Hat
 We want to include special recognition for the follwoing users who have responsibly disclosed potential security issues to the Roll20 team:
 
 Christopher L. Burdett (a.k.a. Deightine)
+[Jon Yarbor (a.k.a Blazedd)](http://jonyarbor.name)
 
 
 Art &amp; Assets 
@@ -51,11 +52,11 @@ Roll20 features a powerful web search that automatically searches the web for ar
 Roll20's Jukebox feature lets you find music to use during your play sessions. It searches the [SoundCloud](http://www.soundcloud.com) website, which features music produced and shared by a variety of independent artists.
 
 
-Open Source Software
---------------------
+Open Source & Third-Party Software
+----------------------------------
 
 
-Roll20 couldn't exist without standing on the shoulders of giants. The following open-source projects have helped make it a reality.
+Roll20 couldn't exist without standing on the shoulders of giants. The following open-source and third-party projects have helped make it a reality.
 
 * [RaphaelJS](http://raphaeljs.com) -- a fantastic SVG art library, it's the graphics engine that helps us show your worlds.
 * [OpenTok](http://tokbox.com) -- lets us bring you video and voice chat
