@@ -44,9 +44,7 @@ If you think we removed your access by mistake, let us know and we’ll give you
 
 #Support
 
-Support for Roll20 is provided via our support portal at [http://roll20.uservoice.com](http://roll20.uservoice.com), which you can also access by clicking the “Help & Support” button along the bottom of most pages on Roll20. You can also get in touch with us via email at [team@roll20.net](mailto:team@roll20.net).
-
-We also continuously update the [Roll20 Knowledgebase](http://roll20.uservoice.com/knowledgebase) so that users can help themselves.
+Support for Roll20 is provided via our [Community Forums](http://community.roll20.net). We also provide a [Help and Documentation Site](http://help.roll20.net) with guides and screencasts that provide instruction on performing commont tasks.
 
 #Access to your data
 
