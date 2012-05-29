@@ -4,7 +4,9 @@ title: Playing in a Google+ Hangout
 categories: beginner popular
 ---
 
-By default, when you launch a campaign you will be playing on the Roll20 site itself, and using the built-in video and voice chat (powered by TokBox). However, you also have the option to take your game wit you to a Google+ Hangout. To do so, just click on the name of the Campaign in your Campaigns listing to access the Campaign Details page. Then click the link labeled "Launch in Google+ Hangout". 
+By default, when you launch a campaign you will be playing on the Roll20 site itself, and using the built-in video and voice chat (powered by TokBox). However, you also have the option to take your game with you to a Google+ Hangout. 
+
+To do so, just click on the name of the Campaign in your Campaigns listing to access the Campaign Details page. Then click the link labeled "Launch in Google+ Hangout". 
 
 <img src="/images/gplusss1.jpg" />
 
@@ -27,4 +29,4 @@ In theory, yes. However, players in Google+ will only see/hear (for video chat p
 
 **I'm getting an error saying that "Regretfully, it didn't work" because it doesn't know what campaign I want to play?**
 
-You **must start the Google+ Hangout using the link on the Campaign Details screen inside Roll20.** If you create a new Hangout on Google+ and then just add the Roll20 app to the Hangout (for example, from your Recent Apps tab), then Roll20 won't know which Campaign you actually want to play and will show you this error message. Just go to Roll20 and use the "Launchh in Google+" link to create the Hangout and you won't receive this error.
+You **must start the Google+ Hangout using the link on the Campaign Details screen inside Roll20.** If you create a new Hangout on Google+ and then just add the Roll20 app to the Hangout (for example, from your Recent Apps tab), then Roll20 won't know which Campaign you actually want to play and will show you this error message. Just go to Roll20 and use the "Launch in Google+ Hangout" link to create the Hangout and you won't receive this error.
