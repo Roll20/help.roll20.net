@@ -126,3 +126,7 @@ footer {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+.row-fluid p img {
+	max-width: 100%;
+}
