@@ -2,6 +2,7 @@
 layout: default
 title: Playing in a Google+ Hangout
 categories: beginner popular
+description: Learn how to play your Roll20 game in a Google+ Hangout
 ---
 
 By default, when you launch a campaign you will be playing on the Roll20 site itself, and using the built-in video and voice chat (powered by TokBox). However, you also have the option to take your game with you to a Google+ Hangout. 
