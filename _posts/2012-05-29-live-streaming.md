@@ -32,7 +32,7 @@ Now that all 3 pieces are installed, you need to set them up and configure them.
 
 <img src="/images/livestreamss1.png" />
 
-Finally, (4.) select the "Preferences…" menu from the CamTwist menu bar at the very top of your screen (next to the Apple menu). Choose the "General" tab in the settings dialog that appears. You'll want to (5.) enter 30 FPS in the Frame Rate settings box, and for (6.) Video Size choose the size you want to broadcast at (we recommend 1280x720 if your computer can handle it). You may need to fiddle with these options later if your broadcast is laggy.
+Finally, (4.) select the "Preferences…" menu from the CamTwist menu bar at the very top of your screen (next to the Apple menu). Choose the "General" tab in the settings dialog that appears. You'll want to (5.) enter 30 FPS in the Frame Rate settings box, and for (6.) Video Size choose the size you want to broadcast at (we recommend 1280x720 if your computer can handle it). You may need to fiddle with these options later if your broadcast is laggy. You'll also want to restart CamTwist after making these changes (being sure that all settings are correct after it restarts again.) You only need to change the Preferences… settings this first time.
 
 <img src="/images/livestreamss2.png" />
 
