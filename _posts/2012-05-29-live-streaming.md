@@ -5,6 +5,8 @@ title: Livestream (and record) a Roll20 play session
 categories: advanced
 ---
 
+<div class="alert alert-success">This documentation page is stil under construction and is incomplete. Specifically, the Windows/PC instructions have not your been added.</div>
+
 Live streaming allows you to let lots of other people who aren't players in your game watch the game as it happens. You can have hundreds of even thousands of viewers watch your play session at once. In addition, your play session will be automatically recorded and archived so that you can make it available for playback long after your session has ended.
 
 While there are many ways to live stream, and several services, we're going to focus on one easy way to live stream a game that works well for us (we regularly live stream our game on a bi-weekly basis; in fact, you can see [previous recordings](http://twitch.tv/roll20app) if you want a preview of what the final product will look like). 
@@ -50,10 +52,10 @@ On the Audio tab, you'll want to (1.) make sure that WireTap is the Source, (2.)
 
 <img src="/images/livestreamss5.png" />
 
-Finally, on the Network tab, make sure that (1.) Transmission is set to "Automatic Unicast (Announce)". The Host Name should be "live.twitch.tv:1935/app". The File should be "live\_user\_<your\_twitch\_username>". So for example for us it's "live\_user\_roll20app". The Username you need to get from your [Twitch.tv Broadcast page](http://www.twitch.tv/broadcast) by clicking on the "Show Key" button. It should be something like "live\_123456789\_yfdsdfTESdfkDFsERRSLLFJ". The Password is always "jtv".
+Finally, on the Network tab, make sure that (1.) Transmission is set to "Automatic Unicast (Announce)". The Host Name should be "live.twitch.tv:1935/app". The File should be "live\_user\_your\_twitch\_username". So for example for us it's "live\_user\_roll20app". The Username you need to get from your [Twitch.tv Broadcast page](http://www.twitch.tv/broadcast) by clicking on the "Show Key" button. It should be something like "live\_123456789\_yfdsdfTESdfkDFsERRSLLFJ". The Password is always "jtv".
 
 <img src="/images/livestreamss6.png" />
 
 When you're ready to begin your live stream, just click (2.) the Broadcast button! You don't need to have the Record to disk box checked, as Twitch.tv will automatically record the stream for you as your broadcast it on their servers. Finally, you may want to change (3.) the Preview box from "Source" to "None" during the broadcast, it makes it a little easier on your computer. During the broadcast you will see some information telling you the current bitrate and FPS that you are broadcasting at. If the bit rate is too high for your connection or the FPS is low (less than 10), you may need to adjust some of your settings, such as the recording resolution in CamTwist and the broadcast resolution in the Video tab in Quicktime Broadcaster.
 
-To let others view your live stream while you're broadcasting, just send them to http://twitch.tv/<your\_twitch\_username>, for example http://twitch.tv/roll20app.
+To let others view your live stream while you're broadcasting, just send them to http://twitch.tv/your\_twitch\_username, for example http://twitch.tv/roll20app.
