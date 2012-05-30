@@ -1,7 +1,7 @@
 
 ---
 layout: default
-title: Livestream (and record) a Roll20 play session
+title: Live stream (and record) a play session
 categories: advanced
 ---
 
