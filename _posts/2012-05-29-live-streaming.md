@@ -16,7 +16,7 @@ Mac OS X
 
 *Note: The following instructions have been verified to work on Mac OS X 10.7.x (Lion). They will probably work on older versions of Mac OS X as well, but for best results, you should upgrade to the latest version.*
 
-There are several pieces of software that you will need to download and install. Follow the installation instructions for each before conintuing.
+There are several pieces of software that you will need to download and install. Follow the installation instructions for each before continuing.
 
 1. [CamTwist](http://www.spacevidcast.com/CamTwist_2.1.dmg) (Free). This is the software that captures your screen so that you can broadcast it.
 
