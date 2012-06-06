@@ -14,7 +14,7 @@ You can change the stroke color (1.) as well as the fill color (2.) and line wid
 
 <img src='/images/drawingss2.png' />
 
-There’s also a text tool that lets you write directly on the tabletop. Just choose the text tool from the toolbar, and then click on the tabletop where you want to type. You can change the size, font, and color of the text using the secondary toolbar here. 
+There’s also a text tool that lets you write directly on the tabletop. Just choose the text tool from the toolbar, and then click on the tabletop where you want to type. You can change the font (1.), size (2.), and color (3.) of the text using the secondary toolbar here. 
 
 <img src='/images/drawingss3.png' />
 
