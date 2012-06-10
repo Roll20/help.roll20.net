@@ -14,7 +14,7 @@ Layers
 * Ctrl/Cmd+Shift+K: Move selected object to GM layer
 * Ctrl/Cmd+Shift+M: Move selected object to map layer
 
-Tools:
+Tools
 --------
 * Ctrl/Cmd+S: Select tool
 * Ctrl/Cmd+D: Drawing select tool
@@ -27,13 +27,13 @@ Tools:
 * Ctrl/Cmd+Z: Undo previous action
 * Backspace or Delete: Delete selected object(s)
 
-Drawing:
+Drawing
 --------
 * Shift+Draw: Straight line (<i>snapped to grid</i>)
 * Alt+Draw: Draw an ellipses
 * Shift+Alt+Draw: Draw a circle
 
-Moving and Resizing:
+Moving and Resizing
 --------
 * Shift+Resize: Constrain proportions
 * Alt+Move: Ignore grid snapping
