@@ -44,7 +44,7 @@ If you think we removed your access by mistake, let us know and we’ll give you
 
 #Support
 
-Support for Roll20 is provided via our [Community Forums](http://community.roll20.net). We also provide a [Help and Documentation Site](http://help.roll20.net) with guides and screencasts that provide instruction on performing commont tasks.
+Support for Roll20 is provided via our [Community Forums](http://community.roll20.net). We also provide a [Help and Documentation Site](http://help.roll20.net) with guides and screencasts that provide instruction on performing common tasks.
 
 #Access to your data
 
@@ -86,7 +86,7 @@ You can access all your personally identifiable information that we collect onli
 
 ##Who can access my campaigns and other content?
 
-By default, all campaigns and other assets that you create or upload to Roll20 are private. However, if you invite players to join your game, or choose to share your campaigns with other Roll20 users, then they will have access to view those specific campaigns and any assets used in those campaigns. 
+By default, all campaigns and other assets that you create or upload to Roll20 are private. However, if you invite players to join your game, or choose to share your campaigns with other Roll20 users, then they will have access to view those specific campaigns and any assets used in those campaigns. Any assets that you upload to the Roll20 Marketplace will also be made public under the license that you select when the asset is submitted.
 
 ##What are the guidelines Tailor Made follows when accessing my data?
 
@@ -126,9 +126,11 @@ The trademarks, logos and service marks displayed on this Site are the property 
 
 ##Who owns the IP of my campaigns and uploaded content?
 
-Tailor Made does not claim intellectual property rights over campaigns uploaded content on Roll20.
+Tailor Made does not claim intellectual property rights over campaigns or uploaded content on Roll20.
 
 We leave it to each Roll20 user to decide who should own the IP of the materials created using their Roll20 account.
+
+Content that you upload to the Roll20 Marketplace remains the IP of the original creator.
 
 You acknowledge and agree that Roll20 has no liability of any kind should anyone you granted access to your content modify, destroy, corrupt, copy or distribute it, or violate the terms of use or other limitations that you may impose on the use of your shared content.
 
@@ -138,9 +140,9 @@ In addition, by posting or otherwise submitting your user materials that contain
 
 You are solely and entirely responsible for all of your user materials that you post or otherwise submit via Roll20. You shall assume all risks associated with the use of your user materials including any reliance on the accuracy, completeness or usefulness of your user materials. Tailor Made does not guarantee the accuracy, integrity or quality of your user materials. You acknowledge and agree that by accessing or using Roll20, you may be exposed to user materials from others that are offensive, indecent or otherwise objectionable.
 
-##Who owns the IP of the images and sounds that I include in my supports via the Art Library and Jukebox tools?
+##Who owns the IP of the images and sounds that I include in my supports via the Art Library, Marketplace, and Jukebox tools?
 
-The tokens, map tiles, sounds, and other art assets that you include in your supports via the Art Library and Jukebox tools are the intellectual property of the providers of the assets. For more information on the assets included in Roll20, and their providers, see the [Acknowledgements](/policies/acknowledgements.html) page. We have licensed these assets to allow you to use them to create non-commercial works in a personal setting. If you wish to re-distribute any campaigns you create on Roll20 that include assets from any of these art libraries outside of this intended purpose or outside of the Roll20 service, you must contact the provider(s) to license them directly. Tailor Made is not responsible for your use of the assets in any way that violates the rights of the providers.
+The tokens, map tiles, sounds, and other art assets that you include in your supports via the Art Library, Marketplace, and Jukebox tools are the intellectual property of the providers of the assets. For more information on the assets included in Roll20, and their providers, see the [Acknowledgements](/policies/acknowledgements.html) page and/or the individual asset page on the Marketplace. We have licensed these assets to allow you to use them to create non-commercial works in a personal setting. If you wish to re-distribute any campaigns you create on Roll20 that include assets from any of these providers outside of this intended purpose or outside of the Roll20 service, you must contact the provider(s) to license them directly. Tailor Made is not responsible for your use of the assets in any way that violates the rights of the providers.
 
 Art that you include in your support via the web search and SoundCloud features come from a variety of websites across the Internet. We do our best to only include assets that can be used by you for non-commercial works in a personal setting, but the licensing of each asset may vary. We provide a credit, including a clickable link, above each art asset so that you can see where it is from and under what license it is released. You are solely responsible for any infringement of the rights of others that may occur by using these assets in your materials on Roll20.
 
@@ -302,5 +304,7 @@ The Terms of Use and other rules, guidelines, licenses and disclaimers posted vi
 2012, April 7th: Published this document for the first time.
 
 2012, April 21st: Moved document to help site. Content unchanged.
+
+2012, June 12th: Updated document to reflect the new Marketplace tool
 
 Inspired by (although not related in any legal way to) the Balsamiq Mockups Terms of Service & Privacy Policy.
