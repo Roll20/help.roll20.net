@@ -7,3 +7,29 @@ categories: beginner
 __Macros__ are user-defined shortcuts to functions you regularly want to repeat.  Go to the Settings tab (housed under the small gear image) at the top right of the Roll20 interface.  To enter a macro, first type what you want to call the command.  Example: "*test*".  Then to the right, put in the command.  This could be typed text, a roll, or emote.  Press "Enter" after this information to save the command.  
 
   To use the macro, type _#_ and the command (so *#test*) and press enter.  There is also a tab auto-complete function for macros.
+  
+Multiple commands
+--------
+One of the strenghts of the macro system is it's ability to execute multiple actions with a single command. To do this, simply put each item on it's own line, and they will be executed in order when you run the macro.
+
+###Example
+
+If I want to create a macro that will include an emote, plus my attack and damage rolls it would look like this:
+
+<code>#dagger</code>
+<code>/me rams his dagger home</code><br>
+<code>/roll 1d20+10  vs AC</code><br>
+<code>/roll 1d4+9 Damage</code><br>
+
+Then, simply by typing <code>#dagger</code> it would run the entire script and look like this: <img src="/images/AttackMacro.jpg" />
+
+Using a variable with a Macro
+--------
+  If you'd like to use a variable modifier with your macro roll, simply end the macro command with the modifier, and then specify it when calling your macro
+  
+###Example
+  
+  If I want a macro for 1d20+x (<i>where x is my variable value</i>) I could create the following macro:
+  <code>#d20+x</code> <code>/roll 1d20+</code>
+  then, when running the macro, type <code>#d20+x</code><code>4</code> to get <code>/roll 1d20+4</code>
+  
