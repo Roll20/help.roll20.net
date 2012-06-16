@@ -26,7 +26,7 @@ Then, simply by typing <code>#dagger</code> it would run the entire script and l
 Macros can also include a mix of command and non-command lines, for example:
 
 <code>#lof</code><br>
-<code>/me calls upon the power of Moradin!</code>
+<code>/me calls upon the power of Moradin!</code><br>
 <code>I smite you!</code><br>
 <code>/roll 1d20+4 vs reflex</code><br>
 <code>/roll 1d8+4 damage</code>
