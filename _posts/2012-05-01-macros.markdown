@@ -44,8 +44,8 @@ In this example, we'll have three macros: <code>#damage</code> <code>#attack</co
 
 Macro <code>#damage</code> = <code>/roll 1d4+11</code><br>
 Macro <code>#attack</code> = <code>/roll 1d20+9</code><br>
-Macro <code>#both</code> = <br><br>
-<code>#attack</code><br><br>
+Macro <code>#both</code> = <br>
+<code>#attack</code><br>
 <code>#damage</code>
 
 Using a variable with a Macro
@@ -55,8 +55,8 @@ Using a variable with a Macro
 ###Example
   
   If I want a macro for 1d20+x (<i>where x is my variable value</i>) I could create the following macro:<br>
-  <code>#d20+x</code> <code>/roll 1d20+</code><br>
-  then, when running the macro, type <code>#d20+x</code><code>4</code> to get <code>/roll 1d20+4</code><br>
+  <code>#d20/code> <code>/roll 1d20+</code><br>
+  then, when running the macro, type <code>#d20</code><code>4</code> to get <code>/roll 1d20+4</code><br>
   
 Macro Bar
 --------
