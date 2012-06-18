@@ -64,8 +64,13 @@ Macro Bar
 --------
 
 You can also create quick access buttons for any of your macros that will appear in a bar at the bottom of the screen. First, create your macro like normal. Then, to enable the macro quick bar, check off "Show macro quick bar" in the settings menu<br>
-<img src="/images/showquickbar.png" class="thumb" /><br>
-Then, to add a macro to the bar, simply check the "In bar" option next to the macro's name<br>
+
+<img src="/images/showquickbar.png" class="thumb" />
+
+Then, to add a macro to the bar, simply check the "In bar" option next to the macro's name
+
 <img src="/images/macroinbar.png" class="thumb" />
+
 The quickbar, and any macros that you have selected should now appear on the bottom of your screen, underneath the character portraits. If you'd like to re-arrange the buttons on the bar, hover your mouse over the button that you'd like to move. A handle will appear on the right side of the button. You can drag the button around the bar by using this handle.
+
 <img src="/images/macrobar.png" class="thumb" />
