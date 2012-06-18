@@ -131,4 +131,6 @@ footer {
 	max-width: 100%;
 	margin-top: 10px;
 	margin-bottom: 10px;
+	border: 5px solid #D1D1D1;
+	border-radius: 3px;
 }
