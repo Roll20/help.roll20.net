@@ -55,7 +55,7 @@ Using a variable with a Macro
 ###Example
   
   If I want a macro for 1d20+x (<i>where x is my variable value</i>) I could create the following macro:<br>
-  <code>#d20/code> <code>/roll 1d20+</code><br>
+  <code>#d20</code> <code>/roll 1d20+</code><br>
   then, when running the macro, type <code>#d20</code><code>4</code> to get <code>/roll 1d20+4</code><br>
   
 Macro Bar
