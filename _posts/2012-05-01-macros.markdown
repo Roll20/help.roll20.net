@@ -23,7 +23,7 @@ If I want to create a macro that will include an emote, plus my attack and damag
 
 Then, simply by typing <code>#dagger</code> it would run the entire script and look like this: 
 
-<img src="/images/AttackMacro.jpg" />
+<img src="/images/AttackMacro.JPG" />
 
 Macros can also include a mix of command and non-command lines, for example:
 
