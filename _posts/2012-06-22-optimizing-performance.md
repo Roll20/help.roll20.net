@@ -1,0 +1,46 @@
+---
+layout: default
+title: Optimizing Roll20 Performance
+category: troubleshooting
+---
+
+Roll20 is a web-based application, and as such there are two primary performance considerations: the speed of the network connection, and the speed of the graphics rendering on the client's computer.
+
+Network Connection Performance
+------------------------------
+
+Network connection referes to two things: the amount of information your connection can carry at once ("bandwidth") and the speed at which it can make a round-trip to the Roll20 servers ("latency"). 
+
+The virtual tabletop itself is very lightweight from a bandwidth perspective. Common actions such as sending a chat message or moving a token require very little data. In fact, you and your players will spend much more time downloading image files for tokens and maps included in the campaign that you will due to performing actions in the interface. For example, you would need to move 1,000 tokens at the same time to generate as much data as it takes to download one small 7 KB token image. This means that even if you have a "slow" connection (e.g. 768 Kb/s, a common low-end DSL speed), you're use of the Roll20 tabletop should not be very affected. A slow bandwidth will mostly cause to have a long initial load time, and you may see images loading in slowly if your GM adds more throughout the game.
+
+Latency, on the other hand, determines how quickly you'll receive changes during gameplay. If you are located far away from the Roll20 servers (in Chicago, IL, USA) or have a very unreliable connection (such as via a 3G cellular signal), you may experience high latency. Roll20 is designed to be fairly fault-tolerant, so you'll still be able to participate, but you may experience delays of several seconds between someone moving a token piece and it appearing to move on your screen.
+
+**Special Considerations for Video Chat**
+
+By far the part of Roll20 most-affected by your network connection is the integrated voice and video chat. It is recommended that you have at least 250 Kb/s of downstream bandwidth for each member of your group, as well as at least 250 Kb/s of upload bandwidth for broadcasting a video stream from your computer to the group. High latency will also affect your video chat performance, causing there to be delays or even dropped/skipped frames (resulting in "jerky" video). If you are using the built-in Roll20 video chat and it's not working well for you, and especially if you are located outside of the United States, you should consider running your Roll20 game in a Google+ Hangout, which some users have reported works better with slower connection speeds.
+
+Graphics Rendering Performance
+------------------------------
+
+The graphics rendering performance of your computer is determined by several things, including having an up-to-date browser, your CPU speed, amount of available system memroy, and your graphics card. While you certainly don't need a high-end gaming PC to use Roll20, using Roll20 on an underpowered netbook computer may cause you to experience jerky or unresponsive performance. For best results, consider using a mid-range computer (one built in the last 3 or 4 years should be more than sufficient, and old computers may be fine as well) with a dedicated graphics card and a screen resolution of at least 1280x1024. 
+
+The graphics rendering of your computer directly affects how quickly things can be drawn on your screen as the scene changes. So when a token is moved or added, or you zoom, or scroll/pan around the map, the screen is being constnatly redrawn. The better your graphics rendering performance, the smoother those operations will "feel".
+
+A few tips for getting the most out of Roll20 with a low-performance PC:
+
+* Limit the number of objects that you use. For example, try to use only a single image on the maps layer, instead of a large number of map tiles, furniture, etc. Instead, create the map in an external program and then import it as one JPG or PNG file. The fewer objects that Roll20 has to render individually, the better your performance will be.
+* Keep map sizes small. (The default size of 20x20 is a good bet.) Divide your encounters across several pages if need be.
+* Turn off the grid and/or the fog of war mechanics -- both of these require extra graphics processing on each new frame draw to use, slowing down your computer.
+* Limit your use of the draw tools.
+
+Which is it?
+------------
+
+Below are a few common performance issues seen by Roll20 users, and their cause:
+
+
+* **Jerky/slow scrolling/panning/zooming.** This is caused by low graphical renering performance. See the section above for tips on improving graphic performance.
+* **Fog of war and/or grid completely disappears on the map.** This is caused by your graphics card running out of video memory. You'll need to use smaller maps.
+* **When scrolling/panning, the grid or fog of war "lags behind", revealing parts of the map.** This is caused by low graphical rendering performance. Your best bet is to use a smaller map, or not use the fog of war feature.
+* **Jerky video chat, skipping, dropped frames, "laggy".** Could be caused by either network or graphical performance issues. Try using Google+ Hangouts, or using voice-only chat, or even disabling video/voice chat entirely.
+* **There is a delay between when I see a text chat message appear and when someone says something about it in the video chat.** There is a standard delay of a second or two in the video chat -- a lot of data has to make a trip to a server and then to your other group members, and the connection speeds and latency of the hops in between slow things down. If you're seeing a larger delay than that, it's most likely a latency issue.
