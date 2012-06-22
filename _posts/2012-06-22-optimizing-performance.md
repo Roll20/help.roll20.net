@@ -6,6 +6,8 @@ category: troubleshooting
 
 Roll20 is a web-based application, and as such there are two primary performance considerations: the speed of the network connection, and the speed of the graphics rendering on the client's computer.
 
+**Note**: Your own individual results may (and probably will) vary from other people playing in your game. If you're the GM designing the Roll20 Campaign, you'll want to keep the worst performing client (which may not be you) in mind. Just becuase a 500 unit by 500 unit map scrolls smoothly on your computer doesn't mean it will work well for your player with a 4-year-old machine.
+
 Network Connection Performance
 ------------------------------
 
