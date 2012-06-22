@@ -8,14 +8,14 @@ As far as most gaming-related applications go, Roll20 has very low network and g
 
 Roll20 is a web-based application, and as such there are two primary performance considerations: the speed of the network connection, and the speed of the graphics rendering on the client's computer.
 
-**Note**: Your own individual results may (and probably will) vary from other people playing in your game. If you're the GM designing the Roll20 Campaign, you'll want to keep the worst performing client (which may not be you) in mind. Just becuase a 500 unit by 500 unit map scrolls smoothly on your computer doesn't mean it will work well for your player with a 4-year-old machine.
+**Note**: Your own individual results may (and probably will) vary from other people playing in your game. If you're the GM designing the Roll20 Campaign, you'll want to keep the worst performing client (which may not be you) in mind. Just because a 500 unit by 500 unit map scrolls smoothly on your computer doesn't mean it will work well for your player with a 4-year-old machine.
 
 **TL;DR**: Slow network connection? Your biggest hit is going to come in the video chat department. Try both options (built-in video chat, Google+ Hangouts) and hope for the best. Have a player with a really old computer? Try limiting the number of objects on-screen, and [these additional tips](#graphtips)).
 
 Network Connection Performance
 ------------------------------
 
-Network connection referes to two things: the amount of information your connection can carry at once ("bandwidth") and the speed at which it can make a round-trip to the Roll20 servers ("latency"). 
+Network connection refers to two things: the amount of information your connection can carry at once ("bandwidth") and the speed at which it can make a round-trip to the Roll20 servers ("latency"). 
 
 The virtual tabletop itself is very lightweight from a bandwidth perspective. Common actions such as sending a chat message or moving a token require very little data. In fact, you and your players will spend much more time downloading image files for tokens and maps included in the campaign that you will due to performing actions in the interface. For example, you would need to move 1,000 tokens at the same time to generate as much data as it takes to download one small 7 KB token image. This means that even if you have a "slow" connection (e.g. 768 Kb/s, a common low-end DSL speed), your use of the Roll20 tabletop should not be very affected. A slow bandwidth will mostly cause you to have a long initial load time, and you may see images loading in slowly if your GM adds more throughout the game.
 
@@ -32,7 +32,7 @@ Graphics Rendering Performance
 
 The graphics rendering performance of your computer is determined by several things, including having an up-to-date browser, your CPU speed, amount of available system memory, and your graphics card. While you certainly don't need a high-end gaming PC to use Roll20, using Roll20 on an underpowered netbook computer may cause you to experience jerky or unresponsive performance. For best results, consider using a mid-range computer (one built in the last 3 or 4 years should be more than sufficient, and old computers may be fine as well) with a dedicated graphics card and a screen resolution of at least 1280x1024. 
 
-The graphics rendering of your computer directly affects how quickly things can be drawn on your screen as the scene changes. So when a token is moved or added, or you zoom, or scroll/pan around the map, the screen is being constnatly redrawn. The better your graphics rendering performance, the smoother those operations will "feel".
+The graphics rendering of your computer directly affects how quickly things can be drawn on your screen as the scene changes. So when a token is moved or added, or you zoom, or scroll/pan around the map, the screen is being constantly redrawn. The better your graphics rendering performance, the smoother those operations will "feel".
 
 A few tips for getting the most out of Roll20 with a low-performance PC (sorted by "most likely to help" to "least likely"):
 
