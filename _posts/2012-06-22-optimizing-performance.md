@@ -41,7 +41,7 @@ Which is it?
 Below are a few common performance issues seen by Roll20 users, and their cause:
 
 
-* **Jerky/slow scrolling/panning/zooming.** This is caused by low graphical renering performance. See the section above for tips on improving graphic performance.
+* **Jerky/slow scrolling/panning/zooming.** This is caused by low graphical rendering performance. See the section above for tips on improving graphic performance.
 * **Fog of war and/or grid completely disappears on the map.** This is caused by your graphics card running out of video memory. You'll need to use smaller maps.
 * **When scrolling/panning, the grid or fog of war "lags behind", revealing parts of the map.** This is caused by low graphical rendering performance. Your best bet is to use a smaller map, or not use the fog of war feature.
 * **Jerky video chat, skipping, dropped frames, "laggy".** Could be caused by either network or graphical performance issues. Try using Google+ Hangouts, or using voice-only chat, or even disabling video/voice chat entirely.
