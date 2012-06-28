@@ -23,7 +23,7 @@ The size of the page canvass can be adjusted here, by changing the width and hei
 
 Background Color
 --------
-Using the Background Color palette, you can select a fill color for the entire map. Click on the color swatch (white box by default) which will pull up the color chooser. From there, you can either select the color you'd like from the palette, or, for advanced users, enter a specific hexadecimal color code. (For a list of colors, try http://www.december.com/html/spec/colorhex.html out).<br>
+Using the Background Color palette, you can select a fill color for the entire map. Click on the color swatch (white box by default) which will pull up the color chooser. From there, you can either select the color you'd like from the palette, or, for advanced users, enter a specific hexadecimal color code. (For a list of colors, try <a href="http://www.december.com/html/spec/colorhex.html">http://www.december.com/html/spec/colorhex.html</a> out).<br>
 <img src="/images/ps-background.png" />
 
 Grid
