@@ -1,8 +1,5 @@
 ---
 layout: default
----
----
-layout: default
 title: Page Settings
 categories: beginner
 ---
