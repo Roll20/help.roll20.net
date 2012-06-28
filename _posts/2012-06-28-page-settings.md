@@ -8,7 +8,7 @@ title: Page Settings
 categories: beginner
 ---
 
-There are a number of page specific settings that can be set for each page on your map. To access them, click the page button located on the top right hand corner of your map<br>
+There are a number of page specific settings that can be set for each page on your map. To access them, click the page button located on the top right hand corner of your map.<br>
 <img src="/images/pagebutton.png" /><br>
 To edit the settings for a specific page, click the gear icon next to the page you'd like to edit.<br>
 <img src="/images/ps-gear-icon.png" />
