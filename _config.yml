@@ -3,6 +3,3 @@ markdown: redcarpet
 auto: true
 prose:
   rooturl: "_posts"
-  metadata:
-    title: Your Page Title
-    category: basic
