@@ -42,9 +42,6 @@ A few tips for getting the most out of Roll20 with a low-performance PC (sorted 
 * Limit your use of the draw tools.
 
 # Which is it?
----
-
-
 
 Below are a few common performance issues seen by Roll20 users, and their cause:
 
