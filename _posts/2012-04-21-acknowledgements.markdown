@@ -2,6 +2,7 @@
 layout: default
 title: Acknowledgements
 categories: site_policy
+published: true
 ---
 
 ## Created By
