@@ -13,8 +13,7 @@ While there are many ways to live stream, and several services, we're going to f
 
 We use the free [Twitch.tv](http://twitch.tv) service to actually live stream the session, so if you haven't already, the first thing you'll want to do is [sign up for an account on Twitch](http://www.twitch.tv/). You may also want to refer to [their support site](http://www.twitch.tv/p/help) if you have any questions that are outside the scope of this help article. We'll get you up and running with the basics, but they have features like sharing your previous broadcasts to Youtube, creating highlights, and chatting with your viewers that you'll probably want to take advantage of after you get the live stream going. So, assuming you have your Twitch account, the next thing you need to do is jump ahead to the section that's appropriate for your computer: either PC (Windows) or Mac.
 
-Mac OS X
---------
+## Mac OS X
 
 *Note: The following instructions have been verified to work on Mac OS X 10.7.x (Lion). They will probably work on older versions of Mac OS X as well, but for best results, you should upgrade to the latest version.*
 

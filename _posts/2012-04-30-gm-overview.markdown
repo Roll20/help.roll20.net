@@ -7,8 +7,7 @@ description: A screencast showing you how to quickly get up and running as a GM 
 
 <iframe width="700" height="420" src="http://www.youtube.com/embed/DXXXFsjUDVI?rel=0&modestbrading=1&hd=1&showsearch=0" frameborder="0" allowfullscreen></iframe>
 
-Transcript
-----------
+## Transcript
 
 Welcome to Roll20! We’re very excited that you’re here. To help you get started, we’ve created this quick overview of how to create a campaign. We go over most of the functionality in Roll20 briefly, but for more detailed instructions on any particular part, be sure to check out the Help and Documentation site, which you can access in a handy popup window at any time by clicking on the Help icon. So, let’s get started.
 

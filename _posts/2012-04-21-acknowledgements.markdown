@@ -4,15 +4,13 @@ title: Acknowledgements
 categories: site_policy
 ---
 
-Created By
-----------
+## Created By
 
 **Riley Dutton**, a [web developer](http://riley.dutton.us) with more than 7 years experience creating powerful user experiences. Apparently, he enjoys spending his free time creating virtual tabletop software. He lives with his lovely wife, Lindsay, his 1-year-old son, Noah, and their yappy dog, Duffy. You can reach him at [riley@roll20.net](mailto:riley@roll20.net) or on Twitter [@rileydutton](http://twitter.com/rileydutton).
 
 With help from **Nolan T. Jones**, a writer and [aspiring comic creator](http://nolantjones.tumblr.com) who handles the PR side of things. He intends to conquer the world through the written word, although the exact details of the plan still remain a mystery. He and his fellow Jayhawker wife Cayla reside in Las Vegas, NV with a small array of pets. You can best reach him on Twitter [@nolantj](http://twitter.com/nolantj). 
 
-Special Thanks
---------------
+## Special Thanks
 
 With special thanks to the following folks for their contributions to the cause:
 
@@ -20,8 +18,7 @@ With special thanks to the following folks for their contributions to the cause:
 
 **[Chris Clouser (a.k.a. Mock)](http://oneofthethousand.tumblr.com)** for his helpful advice regarding the dice rolling mechanics of the incredibly large number of role playing systems that exist in the wild.
 
-White Hat
----------
+## White Hat
 
 We want to include special recognition for the follwoing users who have responsibly disclosed potential security issues to the Roll20 team:
 
@@ -30,8 +27,7 @@ Christopher L. Burdett (a.k.a. Deightine)
 [Jon Yarbor (a.k.a Blazedd)](http://jonyarbor.name)
 
 
-Art &amp; Assets 
-----------------
+## Art &amp; Assets 
 
 
 The following art and other assets are included by Roll20 for personal, non-commercial use inside of your campaigns.
@@ -53,8 +49,7 @@ Roll20 features a powerful web search that automatically searches the web for ar
 Roll20's Jukebox feature lets you find music to use during your play sessions. It searches the [SoundCloud](http://www.soundcloud.com) website, which features music produced and shared by a variety of independent artists.
 
 
-Open Source & Third-Party Software
-----------------------------------
+## Open Source & Third-Party Software
 
 
 Roll20 couldn't exist without standing on the shoulders of giants. The following open-source and third-party projects have helped make it a reality.

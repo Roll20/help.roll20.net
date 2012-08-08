@@ -4,37 +4,31 @@ title: Maps
 categories: beginner
 ---
 
-Finding and adding maps
------------------------
+## Finding and adding maps
 
   Be certain that you are on the background / map layer (accessed via the left side toolbar).  You can use the Art Library to quickly find maps to use in your campaign, by searching under the "maps" section in the drop down menu. There are some built-in assets, and if you scroll down further you’ll see that it’s also searching popular RPG forums and sites on the web.  After finding the appropriate map, you may simply drag and drop it into the table area.  Additionally, you can drag and drop images directly from your computer to the Roll20 interface to be used as maps.
 
 
-Using map tiles
----------------
+## Using map tiles
 
   You can make you own environments using tiles.  Search for keywords such as "grass", "stone", "rock", and even "wall" via the Art Library, and then drag and drop the relevant tiles so you can arrange them in the table area.  To create several of the same map tile in a row, click and drag on the orange handle that appears when you select the tile on the tabletop. You can also use Ctrl+C and Ctrl+V to copy and paste tiles.
 
 
-Grids
------
+## Grids
 
   At the top of the screen you can access the "Page Toolbar" menu.  Each individual page of your campaign is listed in the area.  Mousing over each page allows you to click on the settings icon to access its settings menu, which allows you to indicate whether the page will have a square grid, hex grid, or be gridless.
 
 
-Adjusting the Map
------------------
+## Adjusting the Map
 
   Be advised that you can move and scale objects independent of the grid by pressing 'alt' as you resize.
   
 
-Using Fog-of-War
-----------------
+## Using Fog-of-War
 
   To use Fog-of-War elements (blacking out portions of the screen for players) go to the top "Page Toolbar" area, and click on the individual page you want to have Fog-of-War (this is on the same page as Grid options).  There you can this feature on or off.  Once it is on, you can use the left toolbar to add or subtract visibility for your players.
   
 
-Pinging the Map
----------------
+## Pinging the Map
 
   Game Masters AND players can easily ping the map by left mouse clicking and holding.  A small circular ping should appear.

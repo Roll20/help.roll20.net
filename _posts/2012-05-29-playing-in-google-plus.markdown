@@ -17,8 +17,7 @@ As your players join your Hangout, they'll need to click the "App" tab located u
 
 <img src="/images/gplusss2.jpg" />
 
-Frequently Asked Questions
-==========================
+# Frequently Asked Questions
 
 **Do I have to stick to either Google+ or Roll20 only for each campaign? Can I use a Campaign that we've already started to play in Google+?**
 

@@ -21,13 +21,11 @@ Rolling
   
   Be sure to check out the [Dice Rolling Reference](/dice-rolling-reference) if you need to use more advanced dice mechancis.
 
-Whispers
---------
+## Whispers
 
   To whisper, simply type <code>/w</code> and the name (either player or character) you wish to engage via whisper.  Do note that there is a tab-autocomplete function for names to speed this process.
 
-Emotes
-------
+## Emotes
 
   To emote, type <code>/em</code> and whatever action you want stated.  Be advised that you will emote by whatever you are currently speaking as (player or charater).
   

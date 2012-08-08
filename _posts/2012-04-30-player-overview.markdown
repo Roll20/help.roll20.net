@@ -7,8 +7,7 @@ description: A screencast showing you how to get up and running as a Player in R
 
 <iframe width="700" height="420" src="http://www.youtube.com/embed/b_kTOUJddlU?rel=0&modestbrading=1&hd=1&showsearch=0" frameborder="0" allowfullscreen></iframe>
 
-Transcript
-----------
+## Transcript
 
 Welcome to Roll20! We’re very excited that you’re here. Since this is the first time you’ve joined a game, here’s a quick overview video to get your started.
 
