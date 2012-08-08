@@ -10,9 +10,19 @@ categories: site_policy
 
 With help from **Nolan T. Jones**, a writer and [aspiring comic creator](http://nolantjones.tumblr.com) who handles the PR side of things. He intends to conquer the world through the written word, although the exact details of the plan still remain a mystery. He and his fellow Jayhawker wife Cayla reside in Las Vegas, NV with a small array of pets. You can best reach him on Twitter [@nolantj](http://twitter.com/nolantj). 
 
+And featuring **Richard Zayas**, a restaurateur and entrepeneur who helps us stay in business. He currently resides in Washington, D.C. with his wife, Ali, and at least one cat. You can reach him on Twitter at [@richardzayas](http://twitter.com/richardzayas).
+
 ## Special Thanks
 
 With special thanks to the following folks for their contributions to the cause:
+
+**Zachary Cross** for his invaluable early (and current) aid in taming the community forums.
+
+**Ken Bauer** for his support and moderation skills, as well as uncanny ability to buy everything on the Marketplace even though we try to give it to him for free.
+
+**[Eric Dalquist](https://twitter.com/edalquist)** for his moderation aid and coding prowess, including daunting testing tasks and regex requests.
+
+**Kristin Carlson** for her razor-sharp focus in forum organization, list making, and patience in helping us write support documents.
 
 **[Dylan Todd](http://dylantodd.com/)** for his amazing work creating our beautiful logo.
 
@@ -63,6 +73,4 @@ Roll20 couldn't exist without standing on the shoulders of giants. The following
 * [NodeJS](http://nodejs.org) -- the amazing concurrent server that lets us keep the info flowing
 * [Twitter Bootstrap](http://twitter.github.com/bootstrap/) -- gives us the style we need to look somewhat legitimate
 
-Please note that this is not an exhaustive list, but we wanted to especially recognize these projects that make us tick. Open source powers the web, and we thank all of the programmers who take time out of their busy schedule to make the world a better place. 
-
-
+Please note that this is not an exhaustive list, but we wanted to especially recognize these projects that make us tick. Open source powers the web, and we thank all of the programmers who take time out of their busy schedule to make the world a better place.
