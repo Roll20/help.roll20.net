@@ -12,8 +12,8 @@ Roll20 is a web-based application, and as such there are two primary performance
 
 **TL;DR**: Slow network connection? Your biggest hit is going to come in the video chat department. Try both options (built-in video chat, Google+ Hangouts) and hope for the best. Have a player with a really old computer? Try limiting the number of objects on-screen, and [these additional tips](#graphtips)).
 
-Network Connection Performance
-------------------------------
+# Network Connection Performance
+
 
 Network connection refers to two things: the amount of information your connection can carry at once ("bandwidth") and the speed at which it can make a round-trip to the Roll20 servers ("latency"). 
 
@@ -27,8 +27,8 @@ By far the part of Roll20 most-affected by your network connection is the integr
 
 <a name="graphtips"></a>
 
-Graphics Rendering Performance
-------------------------------
+# Graphics Rendering Performance
+
 
 The graphics rendering performance of your computer is determined by several things, including having an up-to-date browser, your CPU speed, amount of available system memory, and your graphics card. While you certainly don't need a high-end gaming PC to use Roll20, playing on an underpowered netbook computer may cause you to experience jerky or unresponsive performance. For best results, consider using a mid-range computer (one built in the last 3 or 4 years should be more than sufficient, and old computers may be fine as well) with a dedicated graphics card and a screen resolution of at least 1280x1024. 
 
@@ -41,8 +41,10 @@ A few tips for getting the most out of Roll20 with a low-performance PC (sorted 
 * Turn off the grid and/or the fog of war mechanics -- both of these require extra graphics processing on each new frame draw to use, slowing down your computer.
 * Limit your use of the draw tools.
 
-Which is it?
-------------
+# Which is it?
+---
+
+
 
 Below are a few common performance issues seen by Roll20 users, and their cause:
 
