@@ -1,11 +1,10 @@
-
 ---
 layout: default
 title: Live stream (and record) a play session
 categories: advanced
 ---
 
-<div class="alert alert-success">This documentation page is stil under construction and is incomplete. Specifically, the Windows/PC instructions have not your been added.</div>
+<div class="alert alert-success">This documentation page is still under construction and is incomplete. Specifically, the Windows/PC instructions have not your been added.</div>
 
 Live streaming allows you to let lots of other people who aren't players in your game watch the game as it happens. You can have hundreds of even thousands of viewers watch your play session at once. In addition, your play session will be automatically recorded and archived so that you can make it available for playback long after your session has ended.
 
