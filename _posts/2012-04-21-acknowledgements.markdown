@@ -11,7 +11,7 @@ published: true
 
 With help from **Nolan T. Jones**, a writer and [aspiring comic creator](http://nolantjones.tumblr.com) who handles the PR side of things. He intends to conquer the world through the written word, although the exact details of the plan still remain a mystery. He and his fellow Jayhawker wife Cayla reside in Las Vegas, NV with a small array of pets. You can best reach him on Twitter [@nolantj](http://twitter.com/nolantj). 
 
-And featuring **Richard Zayas**, a restaurateur and entrepeneur who helps us stay in business. He is resolved to helping his friends achieve their dreams, his are still up in the air. He currently resides in Washington, D.C. with his wife, Ali, and thier fat cat, Zelda. You can reach him on Twitter at [@richardzayas](http://twitter.com/richardzayas).
+And featuring **Richard Zayas**, a restaurateur and entrepeneur who helps us stay in business. He is resolved to helping his friends achieve their dreams; his are still up in the air. He currently resides in Washington, D.C. with his wife, Ali, and their fat cat, Zelda. You can reach him on Twitter at [@richardzayas](http://twitter.com/richardzayas).
 
 ## Special Thanks
 
