@@ -2,7 +2,7 @@
 layout: default
 published: true
 title: Video and Voice Settings
-category: basic
+category: beginner
 ---
 
 ##Enabling and Disabling Video & Voice Chat
