@@ -23,4 +23,4 @@ While video/voice is enabled in Roll20, hover your mouse on the bottom right cor
 
 ##Managing Multiple Devices
 
-If you have multiple microphone sources
+To switch between multiple microphone and webcam devices, once again hover your mouse on the bottom right corner of a player's portrait. Next to the volume slider that pops up is a wrench button. Clicking on this button brings up a new window where you can specify which devices you wish to use for chat.
