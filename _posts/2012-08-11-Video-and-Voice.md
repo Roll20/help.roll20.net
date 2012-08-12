@@ -3,8 +3,6 @@ layout: default
 published: false
 ---
 
-# Video and Voice Settings
-
 ##Enabling and Disabling Video & Voice Chat
 
 Go to the My Settings tab (the gear icon) at the top right of Roll20. Scroll down to the bottom of the tab to find **Video + Voice**. There will be three related drop-down menus underneath. They are:
