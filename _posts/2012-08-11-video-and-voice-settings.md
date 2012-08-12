@@ -22,3 +22,11 @@ While video/voice is enabled in Roll20, hover your mouse on the bottom right cor
 ##Switching Devices
 
 To switch between multiple microphone and webcam devices, once again hover your mouse on the bottom right corner of a player's portrait. Next to the volume slider that pops up is a wrench button. Clicking on this button brings up a new window where you can specify which devices you wish to use for chat.
+
+##Managing Chat in Google Hangouts:
+
+At the top right of Google Hangouts there are four buttons. From left to right they are:
+
+(microphone icon) **Mute microphone** | (camera icon) **Turn camera off** | (gear icon) **Settings** | **Exit**
+
+The first two buttons allow you to disable either your audio or video feed. The Settings button allows you to designate which microphone, webcam, and speaker device you would like to use.
