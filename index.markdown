@@ -9,7 +9,8 @@ We've endeavored to make this documentation site as easy to use as Roll20 itself
 
 Best regards,
 
-Riley and Nolan, the Roll20 Team
+Riley, Nolan, and Richard
+The Roll20 Dev Team
 
 <!-- <div class="list-module">
   <h2>Popular Guides</h2>
