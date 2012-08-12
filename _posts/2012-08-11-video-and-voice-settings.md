@@ -1,6 +1,8 @@
 ---
 layout: default
 published: false
+title: Video and Voice Settings
+category: basic
 ---
 
 ##Enabling and Disabling Video & Voice Chat
