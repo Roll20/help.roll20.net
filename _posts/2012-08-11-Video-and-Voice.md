@@ -20,3 +20,7 @@ The Broadcasting and Receiving drop-down menus have three selection choices: "Vi
 **Managing Audio Levels**
 
 When either using video or voice chat, you can adjust the volume of individual players including yourself. When video/voice is enabled in the game, hover your mouse on the bottom right corner of a player's portrait. This action will pop up a volume slider that you can fine tune how much louder or softer a player's mic needs to be heard properly. It's important to note that a slider exists on your own portrait and tuning your personal volume affects the volume of how other players in the game hear you.
+
+**Managing Multiple Devices**
+
+If you have multiple microphone sources
