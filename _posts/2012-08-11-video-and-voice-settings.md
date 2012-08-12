@@ -1,6 +1,6 @@
 ---
 layout: default
-published: false
+published: true
 title: Video and Voice Settings
 category: basic
 ---
