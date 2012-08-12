@@ -9,7 +9,7 @@ We've endeavored to make this documentation site as easy to use as Roll20 itself
 
 Best regards,
 
-Riley, Nolan, and Richard
+Riley, Nolan, and Richard <br />
 The Roll20 Dev Team
 
 <!-- <div class="list-module">
