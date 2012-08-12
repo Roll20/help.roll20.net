@@ -28,8 +28,8 @@ Basic Chat
 
   To emote, type <code>/em</code> and whatever action you want stated.  Be advised that you will emote by whatever you are currently speaking as (player or charater).
   
-Chat Archives
---------
+## Chat Archives
+
 
   The chat window will keep a running history of everything entered. This history will persist between sessions, and is always available. You can also access a complete archive by scrolling to the top of your chat log, and clicking <code>View all chat entries for this campaign >></code>
   This will load the chat history in a new window.

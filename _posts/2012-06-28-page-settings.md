@@ -13,18 +13,18 @@ You will be presented with the Page Settings dialogue.<br>
 <img src="/images/page-settings.png" />
 
 
-Page Size
---------
+## Page Size
+
 The size of the page canvass can be adjusted here, by changing the width and height values. Page size is measured in inches, with the scale of one inch = five feet, so if you require a map that is fifty feet squared, you would adjust your page size to be ten inches by ten inches.<br>
 <img src="/images/ps-page-size.png" />
 
-Background Color
---------
+## Background Color
+
 Using the Background Color palette, you can select a fill color for the entire map. Click on the color swatch (white box by default) which will pull up the color chooser. From there, you can either select the color you'd like from the palette, or, for advanced users, enter a specific hexadecimal color code. (For a list of colors, try <a href="http://www.december.com/html/spec/colorhex.html">http://www.december.com/html/spec/colorhex.html</a> out).<br>
 <img src="/images/ps-background.png" />
 
-Grid
---------
+## Grid
+
 There are a number of different grid options to choose from, including size of the grid, type of grid (<i>square, horizontal hex and vertical hex</i>) color and opacity of the grid, or, you can disable it completely.
 
 To enable or disable the grid, simply select the <b>Enabled</b> checkbox. If it's checked, the grid is on, unchecked and the grid is completely off.<br>
@@ -40,8 +40,8 @@ Just like the background color, you can also select what color you'd like your g
 If you'd like to make your grid lines darker or lighter, you can adjust the opacity using the grid opacity slider. This slider will make the grid more, or less transparent, so you can make it fade into the background, or boldly stand out. Simply slide it to the left to make the lines more transparent, or to the right to make them more opaque. If you slide the bar all the way to the right, your lines will become invisible. This is handy if you still want the snap to grid feature, but don't want to see the lines.<br>
 <img src="/images/ps-grid-opacity.png" />
 
-Fog of War
---------
+## Fog of War
+
 If you'd like to use the Fog of War feature, you must first enable it for the page. To do so, select the "Enabled" checkbox. This will turn it on for the page, and cover the entire map in fog. You can then use the "Reveal Areas" tool to remove sections of fog from the map. If you take too much off, or want to cover up a previously revealed area, use the "Hide Areas" tool to cover it back up.<br>
 <img src="/images/ps-fog-of-war.png" />
 
