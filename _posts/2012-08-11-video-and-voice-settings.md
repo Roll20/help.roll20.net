@@ -15,7 +15,7 @@ Video/Player Avatar Size:
 
 The Broadcasting and Receiving drop-down menus have three selection choices: "Video and Voice", "Voice Only", and "Nothing (Disable)." The third drop-down affects how the players appear on the bottom of your screen. You can choose between: Large, Regular, Small, and Names Only. If video is disabled or a player is unable to broadcast video, the player's avatar picture is displayed instead of a video feed.
 
-##Managing Audio Volume
+##Managing Volume
 
 While video/voice is enabled in Roll20, hover your mouse on the bottom right corner of a player's portrait. This action will pop up a volume slider that you can fine tune a player's mic volume to be heard properly. It's important to note that a slider exists on your own portrait and tuning your personal mic volume affects how other players in Roll20 hear you.
 
