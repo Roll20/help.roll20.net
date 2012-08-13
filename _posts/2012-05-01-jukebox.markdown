@@ -11,7 +11,7 @@ published: false
 
 ## Playing/broadcasting music
 
-  Any music or sounds you've added to your campaign can be played by simply pressing the play button.  It will be audible to all players in the session.  Note that you can play more than one file at a time, and all files automatically loop until paused.  Each track has its own volume control which can be used to normalize their volume. To rename a track just click on the title and enter a custon one. 
+  Any music or sounds you've added to your campaign can be played by simply pressing the play button.  It will be audible to all players in the session.  Note that you can play more than one file at a time, and all files automatically loop until paused.  Each track has its own volume control which can be used to normalize their volume. To rename a track just click on the title and enter a custom one. 
 
 ## Master volume control
 
