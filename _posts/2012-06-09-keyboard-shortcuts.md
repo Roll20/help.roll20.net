@@ -1,8 +1,8 @@
-
 ---
 layout: default
 title: Keyboard Shortcuts
 categories: advanced
+published: true
 ---
 
 ## Layers
@@ -35,6 +35,7 @@ categories: advanced
 
 ## Moving and Resizing
 
+* Alt+Mouse Wheel: Changes Zoom
 * Shift+Resize: Constrain proportions
 * Alt+Move: Ignore grid snapping
 * Right Mouse Button+Drag: Pan
