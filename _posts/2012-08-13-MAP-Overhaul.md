@@ -42,6 +42,7 @@ Help: This Tool supplies direct links to these help documents and to the bug rep
 ###GM Info Overlay
 
 ##The Grid
+(Riley's embedded video to match grids)
 
 ##Placing Art
 -Dragging from the Art Library
@@ -55,6 +56,7 @@ three bars, three auras
 -Snapping and no snapping
 
 ##Turn Order
+
 
 OLD STUFF
 
