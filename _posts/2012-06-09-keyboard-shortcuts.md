@@ -35,7 +35,7 @@ published: true
 
 ## Moving and Resizing
 
-* Alt+Mouse Wheel: Changes Zoom
+* Alt+Mouse Wheel: Zoom
 * Shift+Resize: Constrain proportions
 * Alt+Move: Ignore grid snapping
 * Right Mouse Button+Drag: Pan
