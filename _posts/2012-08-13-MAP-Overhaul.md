@@ -5,13 +5,15 @@ title: The Tabletop
 category: beginner
 ---
 
+//I think "The Tabletop" might be a better title than "Maps"
+
 ## The Interface
 (Picture of a numbered view of Roll20)
 
-1. The Tabletop
-2. Page Toolbar
+1. The Tabletop: This is where you play cards, move meeples around a gameboard, act out battles with minis on a battlemap or just display setting backdrops to set the right mood.
+2. Page Toolbar: This is where you create, navigate and 
 3. Table Toolbar
-4. Sidebar?
+4. The Sidebar
 5. Player Row
 6. Macro Row
 
@@ -29,10 +31,18 @@ There are two tools under this option: *Select/Move* and *Pan View*
 ### Help
 
 ##The Layers
-Map & Background
+###Map & Background
+###Objects & Tokens
+###GM Info Overlay
 
+##Placing Art
+-Dragging from the Art Library
+-Scale & Rotate
+-Snapping and no snapping
 
-##Manipulating Graphics
+##Tokens
+(A picture of a selected Token) (A picture
+##Fog of War
 
 OLD STUFF
 
