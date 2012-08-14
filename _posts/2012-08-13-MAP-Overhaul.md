@@ -1,7 +1,7 @@
 ---
 layout: default
 published: false
-title: Maps
+title: The Tabletop
 category: beginner
 ---
 
@@ -14,28 +14,6 @@ category: beginner
 4. Sidebar?
 5. Player Row
 6. Macro Row
-
-##Pages
-
-Each battle map, setting backdrop, NPC portrait, boardgame board, or any other centerpiece image(s) displayed on The Tabletop is an individual **Page**. A campaign is typically comprised of many Pages. Your collection of pages can be navigated by clicking on the Page Toolbar icon on the top right of The Tabletop. This drops down a window where all the campaign's Pages are kept.
-
-(insert picture of the Page Toolbar Window)
-
-To add a new page to your campaign click on the (1)**Create New Page** icon. You can rename the (2)title of your page by clicking on "Untitled" under the new page. This action will highlight the title to be edited. Hit the Enter key to accept the title change.
-
-One of the Pages in the Page Toolbar window will have a red bookmark labeled "Players" layered atop it. This is the indicator that tells Roll20 what page to load for your players. To change the Page for your players, select the bookmark icon and drag it to the desired Page.
-
-When you mouse-over a Page, a (3)Gear and an (4)X icon appear. The X icon deletes that Page. The Gear icon brings up a new window for Page Settings.
-
-###Page Settings
-(insert Picture for the Page Settings Window)
-(1)Page Size
-(2)Scale
-(3)Background
-(4)Grid
-(5)Fog of War
-(6)GM Opacity
-
 
 ##Table Toolbar
 (Insert Picture of toolbar here)
@@ -50,7 +28,11 @@ There are two tools under this option: *Select/Move* and *Pan View*
 ### Turn Order
 ### Help
 
+##The Layers
+Map & Background
 
+
+##Manipulating Graphics
 
 OLD STUFF
 
