@@ -52,11 +52,9 @@ There are two tools under this option: *Select/Move* and *Pan View*
 
 
 
+OLD STUFF
 
 
----
-
--OLD STUFF-----
   Be certain that you are on the background / map layer (accessed via the left side toolbar).  You can use the Art Library to quickly find maps to use in your campaign, by searching under the "maps" section in the drop down menu. There are some built-in assets, and if you scroll down further you’ll see that it’s also searching popular RPG forums and sites on the web.  After finding the appropriate map, you may simply drag and drop it into the table area.  Additionally, you can drag and drop images directly from your computer to the Roll20 interface to be used as maps.
 
 
