@@ -19,16 +19,14 @@ category: beginner
 
 ##Table Toolbar
 (Insert Picture of toolbar here)
-### The Select & Pan Tool
-There are two tools under this option: *Select/Move* and *Pan View*
-*Select/Move* is for selecting any graphic/text element that is on the page space.
-### Layers
-### Drawing Tools
-### Zoom
-### Ruler
-### Fog of War
-### Turn Order
-### Help
+The Select & Pan Tool: There are two tools under this option: **Select/Move** and **Pan View**. The **Select/Move** tool is for selecting any graphic/drawing/token/text element that is on the page space. The **Pan Tool** pans your view of the map around at your current zoom.
+Layers: This allows you to switch between the three layers **Map & Background**, **Objects & Tokens** and **GM Info Overlay**. This is covered in depth below.
+Drawing Tools: (help link)
+Zoom: 
+Ruler: 
+Fog of War: 
+Turn Order:
+Help:
 
 ##The Layers
 ###Map & Background
@@ -41,7 +39,11 @@ There are two tools under this option: *Select/Move* and *Pan View*
 -Snapping and no snapping
 
 ##Tokens
-(A picture of a selected Token) (A picture
+(A picture of a selected Token)
+three bars, three auras
+(A picture of the edit Token window)
+-Snapping and no snapping
+
 ##Fog of War
 
 OLD STUFF
