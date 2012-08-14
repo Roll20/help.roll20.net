@@ -29,7 +29,11 @@ When you mouse-over a Page, a (3)Gear and an (4)X icon appear. The X icon delete
 (insert Picture for the Page Settings Window)
 (1)Page Size
 (2)Scale
-(3)
+(3)Background
+(4)Grid
+(5)Fog of War
+(6)GM Opacity
+
 
 ##Table Toolbar
 (Insert Picture of toolbar here)
