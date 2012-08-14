@@ -19,19 +19,29 @@ category: beginner
 
 ##Table Toolbar
 (Insert Picture of toolbar here)
+
 The Select & Pan Tool: There are two tools under this option: **Select/Move** and **Pan View**. The **Select/Move** tool is for selecting any graphic/drawing/token/text element that is on the page space. The **Pan Tool** pans your view of the map around at your current zoom.
+
 Layers: This allows you to switch between the three layers **Map & Background**, **Objects & Tokens** and **GM Info Overlay**. This is covered in depth below.
-Drawing Tools: (help link)
-Zoom: 
-Ruler: 
-Fog of War: 
-Turn Order:
-Help:
+
+Drawing Tools: This is a collection of brush, shapes and text tools which allows the players and the GM to draw on The Tabletop on the fly. Go [here] (drawing tools help link) for an indepth description of Roll20's drawing tools.
+
+Zoom: This brings up a drop down of different zoom percentages for the tabletop. It ranges from 10% to 150%.
+
+Ruler: When the **Ruler Tool** is selected clicking and dragging on the map will measure distance. Units of measurement for any given page are defined in the [Page Settings](page settings help page).
+
+Fog of War: There are two Fog of War tools under this option: **Reveal Areas** and **Hide Areas**. If the Fog of War is enabled in the [Page Settings](page settings help page), click and drag to trace rectangles on the tabletop to either hide from or reveal areas to the players.
+
+Turn Order: Clicking on this brings up the Turn Order window. This is covered in depth below.
+
+Help: This Tool supplies direct links to these help documents and to the bug report forum. It also pops open a window for Roll20's keyboard shortcuts.
 
 ##The Layers
 ###Map & Background
 ###Objects & Tokens
 ###GM Info Overlay
+
+##The Grid
 
 ##Placing Art
 -Dragging from the Art Library
@@ -44,7 +54,7 @@ three bars, three auras
 (A picture of the edit Token window)
 -Snapping and no snapping
 
-##Fog of War
+##Turn Order
 
 OLD STUFF
 
