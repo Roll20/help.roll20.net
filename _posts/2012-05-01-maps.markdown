@@ -18,6 +18,9 @@ categories: beginner
 
   At the top of the screen you can access the "Page Toolbar" menu.  Each individual page of your campaign is listed in the area.  Mousing over each page allows you to click on the settings icon to access its settings menu, which allows you to indicate whether the page will have a square grid, hex grid, or be gridless.
 
+## Grid Alignment Tool
+
+  If your map image already has a grid and you do not wish to play "free form" on it, you can align Roll20's grid.  While on the Map layer of Roll20, right-click, go to "Advanced" and select "Align to Grid".  Then select a box 3x3 of your map's squares in size, let go, and click "Align to Grid".  For a demonstration of this function, please examine [this video](http://www.youtube.com/watch?v=1BrXBd1TBO4 "Grid Alignment Demonstration").  
 
 ## Adjusting the Map
 
