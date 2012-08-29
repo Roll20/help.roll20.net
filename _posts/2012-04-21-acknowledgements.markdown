@@ -21,9 +21,9 @@ With special thanks to the following folks for their contributions to the cause:
 
 **Ken Bauer** for his support and moderation skills, as well as uncanny ability to buy everything on the Marketplace even though we try to give it to him for free.
 
-**[Eric Dalquist](https://twitter.com/edalquist)** for his moderation aid and coding prowess, including daunting testing tasks and regex requests.
+**[Eric Dalquist](https://twitter.com/edalquist)** for his moderation aid and coding prowess, including daunting testing tasks and regex requests. Eric has also worked to greatly improve the Roll20 dice engine, including adding support for numerous additional dice mechancis.
 
-**Kristin Carlson** for her razor-sharp focus in forum organization, list making, and patience in helping us write support documents.
+**Kristin Carlson** for her razor-sharp focus in forum organization, list making, and patience in helping us write support documents. Kristin is also responsible for creating the excellent 3D dice models and textures used by default in Roll20.
 
 **[Dylan Todd](http://dylantodd.com/)** for his amazing work creating our beautiful logo.
 
@@ -58,6 +58,10 @@ Roll20 features a powerful web search that automatically searches the web for ar
 **Music**
 
 Roll20's Jukebox feature lets you find music to use during your play sessions. It searches the [SoundCloud](http://www.soundcloud.com) website, which features music produced and shared by a variety of independent artists.
+
+**Dice Font**
+
+Roll20 uses the excellent "Art's Polyhedral Dice Font" from Skullduggery Press to display dice icons throughout the app. You can read more about this font at [their site](http://www.skullduggerypress.com/index_fonts.htm).
 
 
 ## Open Source & Third-Party Software
