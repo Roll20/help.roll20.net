@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Macros
-categories: beginner
+categories: beginner parent
+published: true
 ---
 
 __Macros__ are user-defined shortcuts to functions you regularly want to repeat.  Go to the Settings tab (housed under the small gear image) at the top right of the Roll20 interface.  To enter a macro, first type what you want to call the command.  Example: "*test*".  Then to the right, put in the command.  This could be typed text, a roll, or emote.  Press "Enter" after this information to save the command.  
