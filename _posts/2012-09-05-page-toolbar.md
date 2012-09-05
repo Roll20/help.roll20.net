@@ -1,10 +1,8 @@
 ---
 layout: default
-published: false
+published: true
 title: Page Toolbar
-category: parent
+category: parent page_toolbar
 ---
 
-# How does it work?
-
-Enter Text in Markdown format.
+Coming soon!
