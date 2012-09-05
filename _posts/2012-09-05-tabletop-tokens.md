@@ -2,6 +2,7 @@
 layout: default
 published: false
 category: tabletop
+title: Token Features
 ---
 
 ##Creating a New Token
