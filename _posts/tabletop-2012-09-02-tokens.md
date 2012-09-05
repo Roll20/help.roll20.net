@@ -1,6 +1,7 @@
 ---
 layout: default
 published: false
+category: tabletop
 ---
 
 ##Creating a New Token
