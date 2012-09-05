@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Drawing Tools
-category: beginner
+category: tabletop_toolbox
+categories: beginner
 ---
 
 Roll20 features a powerful set of drawing tools that you can use to do lots of things, like making notes on the tabletop or even quickly sketching out an entire map. 
