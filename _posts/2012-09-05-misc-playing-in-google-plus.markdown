@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Playing in a Google+ Hangout
-categories: beginner popular
+categories: beginner popular misc
 description: Learn how to play your Roll20 game in a Google+ Hangout
 ---
 
