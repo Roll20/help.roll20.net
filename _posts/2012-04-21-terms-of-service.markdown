@@ -30,7 +30,7 @@ If you read something that rubs you the wrong way, or if you think of something 
 
 We don’t amend this document for any particular customer, but if your changes apply to all of our customers, we’ll be happy to update it for everyone. Scroll to the bottom to see the history so far.
 
-We will likely improve this document over time. By continuing to use the site, you will implicitely accept the changes we make.
+We will likely improve this document over time. By continuing to use the site, you will implicitly accept the changes we make.
 
 Your access and use of Roll20 is always subject to the most current version of this document.
 
