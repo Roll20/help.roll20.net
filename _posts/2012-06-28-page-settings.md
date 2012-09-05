@@ -2,6 +2,7 @@
 layout: default
 title: Page Settings
 categories: beginner
+category: page_toolbar
 ---
 
 There are a number of page specific settings that can be set for each page on your map. To access them, click the page button located on the top right hand corner of your map.<br>
@@ -47,12 +48,3 @@ If you'd like to use the Fog of War feature, you must first enable it for the pa
 
 The fog appears as a solid black area to players, but for the GM it's a semi-transparent layer. If you'd like to adjust how dark the fog appears to you (<i>handy for dark maps where it's hard to tell where it is</i>) use the "GM Opacity" slider to adjust how transparent or opaque it appears. Simply slide the slider to the left to make the fog lighter, or to the right to make it darker. If the slider is all the way to the left, the fog will be completely invisible, and if it's all the way right, it will be completely solid.<br>
 <img src="/images/ps-fow-opacity.png" />
-
-
-
-
-
-
-
-
-
