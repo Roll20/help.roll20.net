@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Live stream (and record) a play session
-categories: advanced
+categories: advanced misc
 ---
 
 <div class="alert alert-success">This documentation page is still under construction and is incomplete. Specifically, the Windows/PC instructions have not your been added.</div>
