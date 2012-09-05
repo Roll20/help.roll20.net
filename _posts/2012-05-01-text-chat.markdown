@@ -1,15 +1,11 @@
 ---
 layout: default
 title: Text Chat
-categories: beginner
----
-Basic Chat
----
-
+categories: beginner sidebar
 published: true
 ---
 
-----
+-
 
   Sending a basic chat message is easy: just type your message into the chat input area and press "Enter". Be advised that any player assigned a "Character" (from the Journal tab) can choose via drop-down to talk as either themselves (their registered login name) or as their assigned character.
 
