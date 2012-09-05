@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Video and Voice Chat
-categories: drafts
+categories: parent
+published: false
 ---
 
 * Getting started with video/voice chat (clicking "Allow", changing camera/mic, etc.)
