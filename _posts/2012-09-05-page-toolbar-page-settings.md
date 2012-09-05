@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Page Settings
-categories: beginner
-category: page_toolbar
+categories: beginner page_toolbar
 ---
 
 There are a number of page specific settings that can be set for each page on your map. To access them, click the page button located on the top right hand corner of your map.<br>
