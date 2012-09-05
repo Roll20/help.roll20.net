@@ -1,8 +1,8 @@
 ---
 layout: default
-published: false
+published: true
 title: Interface Overview
-category: parent
+category: parent interface_overview
 ---
 
-Interfaces and stuff.
+Coming soon!
