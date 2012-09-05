@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jukebox
-categories: beginner
+categories: beginner sidebar
 published: true
 ---
 
