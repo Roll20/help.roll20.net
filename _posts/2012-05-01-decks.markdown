@@ -1,8 +1,0 @@
----
-layout: default
-title: Decks
-categories: draft
----
-
-* Creating a deck
-* Using dekcs + letting players use decks
