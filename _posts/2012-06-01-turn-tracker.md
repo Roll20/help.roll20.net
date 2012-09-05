@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Turn Tracker
-categories: beginner
-category: tabletop_toolbox
+categories: beginner tabletop_toolbox
+published: false
 ---
 
 The Roll20 Turn Tracker exists to aid you and your players with turn-based games by presenting an interactive list to the group.  This feature is intentionally not automated, so that more game types are able to use it.
