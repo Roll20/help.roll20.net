@@ -9,7 +9,7 @@ title: Token Features
 Any image that is placed on the **Objects and Token** or **GM Info Overlay** layers becomes a Token object. You still have the ability to scale and rotate the image, but there are several other token-related elements added for gaming convenience.
 
 (tokencontrols.jpg)
-1. Bar Values Bubbles: These three input bubbles can be used by the players or the GM as a counter to keep track of health, turns, money, fuel or whatever else makes sense for your game. Changing the values in the Bubbles affect the fill of the Bar Overlay.
+1. Bar Value Bubbles: These three input bubbles can be used by the players or the GM as a counter to keep track of health, turns, money, fuel or whatever else makes sense for your game. Changing the values in the Bubbles affect the fill of the Bar Overlay.
 2. Bar Overlay: If visible, this is a passive bar that fills or empties depending on what's enter in its corresponding Value Bubble.
 3. Settings: Clicking on the Settings button brings up a new window where you can name the Token, set permissions on who can control the Token, set what bars/auras are visible and editable for the players and store GM notes.
 4. Status Indicator Overlays: This button rolls out a menu that gives you a series of colored dots as well as a red X that overlays over the Token image. You can use these to show status ailments or to differentiate multiples of the same Token type. You can have multiple indicators displaying at a time.
