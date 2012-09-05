@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Journal
-categories: draft
+categories: sidebar
+published: false
 ---
 
 * Creating Characters and putting them into player journals
