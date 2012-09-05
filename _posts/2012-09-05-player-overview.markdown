@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Player Overview
-categories: beginner popular
+categories: beginner popular interface_overview
 description: A screencast showing you how to get up and running as a Player in Roll20.
 ---
 
