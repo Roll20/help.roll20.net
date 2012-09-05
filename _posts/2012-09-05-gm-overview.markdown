@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GM Overview
-categories: beginner popular
+categories: beginner popular interface_overview
 description: A screencast showing you how to quickly get up and running as a GM in Roll20.
 ---
 
