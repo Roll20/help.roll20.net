@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Keyboard Shortcuts
-categories: advanced
+categories: advanced misc
 published: true
 ---
 
