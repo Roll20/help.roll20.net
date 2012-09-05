@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Managing Your Art Library
-categories: draft
---
+title: Your Art Library
+categories: sidebar
+published: false
+---
 
 * Favoriting items
 * Tagging items in your library
