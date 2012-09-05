@@ -1,10 +1,8 @@
 ---
 layout: default
-published: false
-category: parent
+published: true
+category: parent tabletop_toolbox
 title: Tabletop Toolbox
 ---
 
-# How does it work?
-
-Enter Text in Markdown format.
+Coming soon!
