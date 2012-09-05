@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Optimizing Roll20 Performance
-category: troubleshooting
+categories: troubleshooting misc
 ---
 
 As far as most gaming-related applications go, Roll20 has very low network and graphical performance requirements. The vast majority of our users never need to worry about any of the following. However, if you (or one of your players) has a very slow Internet connection or a very old computer, these tips may help you have a smoother time playing.
