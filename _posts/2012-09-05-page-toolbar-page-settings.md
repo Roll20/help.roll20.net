@@ -42,8 +42,9 @@ If you'd like to make your grid lines darker or lighter, you can adjust the opac
 
 ## Fog of War
 
-If you'd like to use the Fog of War feature, you must first enable it for the page. To do so, select the "Enabled" checkbox. This will turn it on for the page, and cover the entire map in fog. You can then use the "Reveal Areas" tool to remove sections of fog from the map. If you take too much off, or want to cover up a previously revealed area, use the "Hide Areas" tool to cover it back up.<br>
-<img src="/images/ps-fog-of-war.png" />
+If you'd like to use the Fog of War feature, you must first enable it for the page. To do so, select the "Enabled" checkbox. This will turn it on for the page, and cover the entire map in fog.
 
 The fog appears as a solid black area to players, but for the GM it's a semi-transparent layer. If you'd like to adjust how dark the fog appears to you (<i>handy for dark maps where it's hard to tell where it is</i>) use the "GM Opacity" slider to adjust how transparent or opaque it appears. Simply slide the slider to the left to make the fog lighter, or to the right to make it darker. If the slider is all the way to the left, the fog will be completely invisible, and if it's all the way right, it will be completely solid.<br>
 <img src="/images/ps-fow-opacity.png" />
+
+For more information on using Fog of War, including how to reveal areas, consult the [Fog of War help guide](/tabletop-toolbox-fog-of-war).
