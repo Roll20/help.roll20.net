@@ -52,11 +52,11 @@ Support for Roll20 is provided via our [Community Forums](http://community.roll2
 
 We collect the following personal data:
 
-Name (including Display Name)
-E-mail address
-IP Address (for general statistics on usage and abuse prevention)
+* Name (including Display Name)
+* E-mail address
+* IP Address (for general statistics on usage and abuse prevention)
 
-We do not collect Address or Credit Card information directly. See *Who can see my credit card number?* below.
+We do not collect Credit Card information directly. See *Who can see my credit card number?* below.
 
 We use return e-mail addresses to answer the e-mail we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
@@ -142,7 +142,7 @@ You are solely and entirely responsible for all of your user materials that you 
 
 ##Who owns the IP of the images and sounds that I include in my campaigns via the Art Library, Marketplace, and Jukebox tools?
 
-The tokens, map tiles, sounds, and other art assets that you include in your campaigns via the Art Library, Marketplace, and Jukebox tools are the intellectual property of the providers of the assets. For more information on the assets included in Roll20, and their providers, see the [Acknowledgements](/policies/acknowledgements.html) page and/or the individual asset page on the Marketplace. We have licensed these assets to allow you to use them to create non-commercial works in a personal setting. If you wish to re-distribute any campaigns you create on Roll20 that include assets from any of these providers outside of this intended purpose or outside of the Roll20 service, you must contact the provider(s) to license them directly. Tailor Made is not responsible for your use of the assets in any way that violates the rights of the providers. In addition, assets included from the Roll20 Marketplace are subject to the additional terms in the <a href="http://help.roll20.net/marketplace-eula/">Marketplace End User Licese Agreement (EULA)</a>.
+The tokens, map tiles, sounds, and other art assets that you include in your campaigns via the Art Library, Marketplace, and Jukebox tools are the intellectual property of the providers of the assets. For more information on the assets included in Roll20, and their providers, see the [Acknowledgements](/acknowledgements) page and/or the individual asset page on the Marketplace. We have licensed these assets to allow you to use them to create non-commercial works in a personal setting. If you wish to re-distribute any campaigns you create on Roll20 that include assets from any of these providers outside of this intended purpose or outside of the Roll20 service, you must contact the provider(s) to license them directly. Tailor Made is not responsible for your use of the assets in any way that violates the rights of the providers. In addition, assets included from the Roll20 Marketplace are subject to the additional terms in the <a href="http://help.roll20.net/marketplace-eula/">Marketplace End User Licese Agreement (EULA)</a>.
 
 Art that you include in your campaign via the web search and SoundCloud features come from a variety of websites across the Internet. We do our best to only include assets that can be used by you for non-commercial works in a personal setting, but the licensing of each asset may vary. We provide a credit, including a clickable link, above each art asset so that you can see where it is from and under what license it is released. You are solely responsible for any infringement of the rights of others that may occur by using these assets in your materials on Roll20.
 
@@ -306,5 +306,7 @@ The Terms of Service and other rules, guidelines, licenses and disclaimers poste
 2012, April 21st: Moved document to help site. Content unchanged.
 
 2012, June 12th: Updated document to reflect the new Marketplace tool
+
+2012, September 6th: Small typo and formatting fixes
 
 Inspired by (although not related in any legal way to) the Balsamiq Mockups Terms of Service & Privacy Policy.
