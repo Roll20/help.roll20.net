@@ -5,7 +5,8 @@ categories: beginner sidebar
 published: true
 ---
 
--
+
+## Chatting
 
   Sending a basic chat message is easy: just type your message into the chat input area and press "Enter". Be advised that any player assigned a "Character" (from the Journal tab) can choose via drop-down to talk as either themselves (their registered login name) or as their assigned character.
 
@@ -25,7 +26,7 @@ published: true
 
   To whisper, simply type <code>/w</code> and the name (either player or character) you wish to engage via whisper.  Do note that there is a tab-autocomplete function for names to speed this process.
   
-  To whisper directly to the GM, type <code>/w gm</code>.
+  To whisper directly to the GM, type <code>/w gm</code>. You can also perform a roll that only you and the GM can see, with <code>/gmroll 1d20+5</code>.
 
 ## Emotes
 
