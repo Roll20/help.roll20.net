@@ -1,10 +1,15 @@
 ---
 sidebar_cats:
-- beginner
-- advanced
-- specific_systems
-- troubleshooting
-- site_policy
+- interface_overview
+- tabletop
+- page_toolbar
+- tabletop_toolbox
+- sidebar
+- dice
+- video_voice
+- card_deck
+- macros
+- misc
 ---
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
@@ -112,7 +117,13 @@ sidebar_cats:
               
               {% for cat in (page.sidebar_cats) %}
               <div class="accordion-group">
-                <div class="accordion-heading"><a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapse_{{cat}}">{{ cat | replace:'_',' ' | capitalize }}</a></div>
+                <div class="accordion-heading">
+                  <a class="accordion-toggle" href="/{{cat | replace:'_','-'}}">
+                  {% if cat == "misc" %} Miscellaneous {% elsif cat == "video_voice" %} Video and voice chat {% else %}
+
+                  {{ cat | replace:'_',' ' | capitalize }}
+                  {% endif %}
+                </a></div>
                 <div id="collapse_{{cat}}" class="accordion-body collapse {% if page.categories contains cat %} in {% endif %}">
                   <div class="accordion-inner">
                     <ul>
