@@ -7,11 +7,6 @@ Welcome to the Roll20 Help and Documentation site! We created Roll20 because we 
 
 We've endeavored to make this documentation site as easy to use as Roll20 itself, by utilizing good organization and ample real-world examples to illustrate the purpose of each feature. So feel free to dig in by using the category listing to the right, and enjoy!
 
-Best regards,
-
-Riley, Nolan, and Richard <br />
-The Roll20 Dev Team
-
 <!-- <div class="list-module">
   <h2>Popular Guides</h2>
   <div class="list-body">
@@ -42,8 +37,4 @@ The Roll20 Dev Team
     </li>
   {% endfor %}
   </ul>
-</div>
-
-<div class="alert alert-success" style="margin-top: 20px;">
-  <p><strong>Welcome, brave adventurer!</strong> The Roll20 Help site is still very much a work in progress. We'll be adding more guides as the closed beta gets underway, so check back soon!</p>
 </div>
