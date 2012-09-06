@@ -5,7 +5,7 @@ title: Interface Overview
 category: parent interface_overview
 ---
 
-![Alt text](/images/interface_overview.jpg)
+![Interface Overview](/images/interface_overview.jpg)
 
 ## 1. Tabletop Toolbox
 
