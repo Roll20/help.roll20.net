@@ -2,7 +2,7 @@
 layout: default
 published: true
 title: Interface Overview
-category: parent interface_overview
+categories: parent interface_overview
 ---
 
 ![Interface Overview](/images/interface_overview.jpg)

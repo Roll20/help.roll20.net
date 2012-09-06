@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Macros
-categories: beginner parent
+categories: beginner parent macros
 published: true
 ---
 

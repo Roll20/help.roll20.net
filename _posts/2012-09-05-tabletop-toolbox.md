@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-category: parent tabletop_toolbox
+categories: parent tabletop_toolbox
 title: Tabletop Toolbox
 ---
 
