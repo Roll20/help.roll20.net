@@ -25,6 +25,6 @@ The [**Fog of War** tool](/tabletop-toolbox-fog-of-war) (GM Only) lets you revea
 
 The [**Turn Tracker**](/tabletop-toolbox-turn-tracker) (GM Only) lets you open up a window to keep track of turn order during encounters. Only the GM can see the button to open the window, but once it's open all players can see the window and the order of the tokens.
 
-The [**Dice Roller GUI**](/tabletop-toolbox-dice-roller-gui) is a quick and easy way to roll dice in Roll20, rather than needing to manually type in a formula. It's great for beginning players.
+The [**Dice Roller GUI**](/tabletop-toolbox-dice-gui) is a quick and easy way to roll dice in Roll20, rather than needing to manually type in a formula. It's great for beginning players.
 
 The **Help** tool is a quick way to open a window that shows the Help site (which you're reading right now!), report bugs, and consult the list of keyboard shortcuts.
