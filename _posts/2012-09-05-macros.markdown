@@ -5,9 +5,13 @@ categories: beginner parent macros
 published: true
 ---
 
-__Macros__ are user-defined shortcuts to functions you regularly want to repeat.  Go to the Settings tab (housed under the small gear image) at the top right of the Roll20 interface.  To enter a macro, first type what you want to call the command.  Example: "*test*".  Then to the right, put in the command.  This could be typed text, a roll, or emote.  Press "Enter" after this information to save the command.  
+__Macros__ are user-defined shortcuts to commands you regularly want to repeat. For example, you can create a macro that shouts a battlecry then performs an attack that you frequently use. Instead of needing to type all of the commands over and over again as you play, you can just type one short command instead.
 
-  To use the macro, type _#_ and the command (so *#test*) and press enter.  There is also a tab auto-complete function for macros.
+## Creating and Editing Macros
+
+Go to the My Settings tab (housed under the small gear image) in the Sidebar.  To enter a macro, first type what you want to call the command.  Example: "*test*".  Then to the right, put in the command.  This could be typed text, a roll, or emote.  Press "Enter" after this information to save the command.  
+
+  To use the macro, type _#_ and the command (e.g. *#test*) and press enter.  There is also a tab auto-complete function for macros.
   
 ## Multiple commands
 
@@ -62,7 +66,6 @@ Macro <code>#both</code> = <br>
   then, when running the macro, type <code>#d20</code><code>4</code> to get <code>/roll 1d20+4</code><br>
   
 ## Macro Bar
-
 
 You can also create quick access buttons for any of your macros that will appear in a bar at the bottom of the screen. First, create your macro like normal. Then, to enable the macro quick bar, check off "Show macro quick bar" in the settings menu<br>
 
