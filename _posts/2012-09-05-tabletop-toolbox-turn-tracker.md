@@ -2,18 +2,14 @@
 layout: default
 title: Turn Tracker
 categories: beginner tabletop_toolbox
-published: true
+published: false
 ---
 
 The Roll20 Turn Tracker exists to aid you and your players with turn-based games by presenting an interactive list to the group.  This feature is intentionally not automated, so that more game types are able to use it.
 
 <img src ='/images/Turn01.png'>
 
-To open the Turn Tracker, click on the Turn Tracker button on the Toolbox.
-
-Notice that if you launch the turn tracker without a token that has been given a turn, you get the following message:
-
-<img src ='/images/Turn02.png'>
+To open the Turn Tracker, click on the Turn Tracker button on the Toolbox. Note that while only the GM can open the Turn Tracker, once it is open it will be visible to all players as well.
 
 ## Adding Turns
 
