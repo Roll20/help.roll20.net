@@ -1,0 +1,219 @@
+---
+sidebar_cats:
+- interface_overview
+- tabletop
+- page_toolbar
+- tabletop_toolbox
+- sidebar
+- dice
+- video_voice
+- card_deck
+- macros
+- misc
+---
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>{{ page.title }} | Roll20 Help</title>
+    <link href="/twitterbootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="/twitterbootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css">
+    <link href="/css/pygments.css" media="screen" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/css/roll20help.css" type="text/css" media="all">
+    <link href="https://app.roll20.net/assets/topbar.css" rel="stylesheet" />
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+    <script src="/twitterbootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="/js/roll20help.js?v=2" type="text/javascript"></script>
+    <script type="text/javascript" src="http://app.roll20.net/assets/dengine.js?v=1"></script>
+    <script type="text/javascript" src="http://app.roll20.net/js/jquery.jqote2.js"></script>
+    <script type="text/javascript" src="http://app.roll20.net/js/underscore.js"></script>
+  </head>
+
+  <body>
+
+  <div id='roll20-top'>
+    <ul>
+      <li style='padding-top: 6px; padding-left: 15px; padding-right: 0px;'>
+        <a href='http://roll20.net'>
+          <img src='https://d3clqjduf2gvxg.cloudfront.net/images/logo-sq-32.png' style='width: 22px; height: 22px;' />
+        </a>
+      </li>
+      <li>
+        <a href='http://app.roll20.net'>Virtual Tabletop</a>
+      </li>
+      <li>
+        <a href='https://marketplace.roll20.net'>Marketplace</a>
+      </li>
+      <li>
+        <a href='http://community.roll20.net/index.php?p=/entry/jsconnect&amp;client_id=54386393'>Community Forums</a>
+      </li>
+      <li>
+        <a href='http://help.roll20.net'>Help & Support</a>
+      </li>
+      <li>
+	<a href="http://blog.roll20.net">Blog</a>
+      </li> 
+   </ul>
+    <ul class='nav pull-right'>
+      <li class='dropdown notifications' id="topbar-notifications-container">
+      </li>
+      <li class='dropdown' id="topbar-login-container">
+        <a class='dropdown-toggle' data-toggle='dropdown' href='#'>
+            Sign In
+            <b class='caret'></b>
+          </a>
+          <ul class='dropdown-menu loginform blackback'>
+            <li>
+              <form method="post" action="http://app.roll20.net/sessions/create/">
+              <label>
+                Email:
+              </label>
+              <input name='email' type='text' />
+              <label>
+                Password:
+              </label>
+              <input name='password' type='password' />
+              <button class='btn btn-primary'>Sign In</button>
+              </form>
+            </li>
+          </ul>
+      </li>
+    </ul>
+    <div style='clear: both;'></div>
+  </div>
+
+    <div class="container-fluid">
+
+      <div class="row-fluid">
+
+        <div class='span12'>
+
+          <div class="header">
+
+            <div class='logo'>
+              <a href="/"><img src="/images/logo.png" /></a>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="row-fluid">
+        <div class="span9">
+
+          <h1 class="pagetitle">{{page.title}}</h1>
+
+          {{content}}
+
+        </div>
+
+        <div class="span3">
+
+          <div class="sidebar-group">
+            <div id="accordion2">
+              
+              {% for cat in (page.sidebar_cats) %}
+              <div class="accordion-group">
+                <div class="accordion-heading">
+                  <a class="accordion-toggle" href="/{{cat | replace:'_','-'}}">
+                  {% if cat == "misc" %} Miscellaneous {% elsif cat == "video_voice" %} Video and voice chat {% else %}
+
+                  {{ cat | replace:'_',' ' | capitalize }}
+                  {% endif %}
+                </a></div>
+                <div id="collapse_{{cat}}" class="accordion-body collapse {% if page.categories contains cat %} in {% endif %}">
+                  <div class="accordion-inner">
+                    <ul>
+                    {% for post in site.posts reversed %}{% if post.categories contains cat %}
+                      {% if page.title == post.title %}
+                        <li class="disable"><span>{{ page.title }}</span></li>
+                      {% else %}
+                        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                      {% endif %}
+                    {% endif %}{% endfor %}
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              {% endfor %}
+
+          </div>
+        </div>
+        <hr />
+        <p>
+          <strong>Keep up to Date</strong>
+          <a href="http://roll20.net/#newsletter">Join the Roll20 Newsletter</a> for all the latest on gaming goodness from the developers.
+        </p>
+        
+
+      </div>
+
+    </div>
+
+    <footer>
+      <div class="container">
+        <p>&copy; 2012 &middot; <a href="/acknowledgements">Acknowledgements</a> &middot; <a href="/terms-of-service">Terms of Service &amp; Privacy Policy</a> &middot; <a href="/terms-of-service/#dmca">DMCA</a>
+        </p>
+      </div> <!-- /container -->
+    </footer>
+
+    <script type="text/javascript">
+      if(window.opener) {
+        $("#backbutton").attr("href", "javascript:void(0);").click(function() {
+          window.close();
+        });
+      }
+    </script>
+
+    <script type="text/html" id="tmpl_chatmessage_rollresult">
+      <div class='message rollresult you'>
+        <$ var s = this.split("|"); $>
+        <div class="formula" style="margin-bottom: 3px;">
+          rolling <$= s[0] $>
+        </div>
+        <div class="clear"></div>
+        <div class="formula">
+          <$= s[1].replace(/\[[0-9{}@#]+\]/g, function(match) { return match.replace("[", "<span class='dropped'>").replace("]", "</span>"); }).replace(/{@[0-9]+@}/g, function(match) { return match.replace("{@", "<span class='critsuccess'>").replace("@}", "</span>"); }).replace(/{#[0-9]+#}/g, function(match) { return match.replace("{#", "<span class='critfail'>").replace("#}", "</span>"); }) $>
+        </div>
+        <strong> = </strong>
+        <div class="rolled">
+          <$= s[2] $>
+        </div>
+      </div>
+    </script>
+
+    <script type="text/javascript">
+      $(function() {
+        var cookieName = 'roll20tempauth';
+        var cookieValue = Math.floor(Math.random()*100);
+        var myDate = new Date();
+        myDate.setMonth(myDate.getMonth() + 1);
+        var cookieinfo = cookieName +"=" + cookieValue + ";expires=" + myDate 
+                          + ";domain=.roll20.net;path=/";
+        document.cookie = cookieinfo;
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.src = 'https://app.roll20.net/sessions/topbar/'+cookieValue;
+        var x = document.getElementsByTagName('script')[0];
+        x.parentNode.insertBefore(s, x);
+      });
+    </script>
+
+    <script type="text/javascript">
+    var clicky_site_ids = clicky_site_ids || [];
+    clicky_site_ids.push(66573779);
+    (function() {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = '//static.getclicky.com/js';
+      ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+    })();
+    </script>
+    <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66573779ns.gif" /></p></noscript>
+
+  </body>
+</html>
