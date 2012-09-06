@@ -137,5 +137,3 @@ title: Marketplace End User License Agreement
 	11.6 The rights granted in the Terms may be assigned or transferred by Roll20 without your prior written approval. In addition Roll20 shall be permitted to delegate its responsibilities or obligations under these Terms without your written approval.
 
 	11.7 These Terms, and your relationship with Roll20 under these Terms, shall be governed by the laws of the State of Kansas, U.S.A. You agree that Roll20 shall still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction.
- 
-
