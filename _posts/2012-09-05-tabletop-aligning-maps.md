@@ -5,6 +5,6 @@ title: Aligning Maps
 category: tabletop
 ---
 
-# How does it work?
+<iframe width="560" height="315" src="http://www.youtube.com/embed/1BrXBd1TBO4" frameborder="0" allowfullscreen></iframe>
 
-Enter Text in Markdown format.
+##Transcript
