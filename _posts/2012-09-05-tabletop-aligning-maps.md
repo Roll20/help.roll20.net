@@ -7,7 +7,7 @@ category: tabletop
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/1BrXBd1TBO4" frameborder="0" allowfullscreen></iframe>
 
-##Using The Align to Grid Tool
+##Using The Align To Grid Tool
 
 1. Zoom in to 150%
 
