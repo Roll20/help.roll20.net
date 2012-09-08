@@ -7,6 +7,8 @@ category: tabletop
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/1BrXBd1TBO4" frameborder="0" allowfullscreen></iframe>
 
+Sometimes you might want to use a pre-made battlemap that already comes with its own gridded surface. If you're having difficulty getting your image's grid to match Roll20's, we have an alignment tool that will make this task easier.
+
 ##Using The Align To Grid Tool
 
 1. Zoom in to 150%
