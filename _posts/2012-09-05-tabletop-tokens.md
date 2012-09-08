@@ -25,8 +25,9 @@ Clicking the Settings button on a Token brings up the Token Settings window:
 
 <img src='tokensettings.jpg' />
 
-**Name**: Here you can set the name of the Token. The chosen name will appear next to a thumbnail of the Token image if, at any time, you add it to the Turn Tracker.
+**Name**: Here you can set the name of the Token. If you choose to use the Turn Tracker in your game, the Token's name will appear next to its thumbnail picture in the turn list.
 
-**Controlled By**: This is where you assign who in your game has permission to move the Token around the Tabletop. Clicking on the "Controlled By" field will bring up a list of players who's playing in the current campaign as well as an option to set the Token to be controlled by All Players. You can assign multiple players to a single Token. The GM always has permission to control the Token.
+**Controlled By**: This is where you assign who in your game has permission to control the Token around the Tabletop. A player, if given control of a Token, has the ability to move and rotate. Clicking on the "Controlled By" field will bring up a list of all players in the current campaign as well as the option for "All Players". You can assign multiple players to a single Token. The GM always has permission to all Token.
 
-*Note: If you are creating a brand new Campaign and your players have yet to join, their names will not be available for Token assignment. If you're setting your Pages up in advance of your first gaming session, it's recommended to set your PC Tokens to "All Players" and later fine tune the permissions when your players have visited your Campaign.*
+*Note: If you are creating a brand new Campaign and your players have yet to join, their names will not yet be available for Token assignment. If you're setting your Pages up in advance of your first gaming session, it's recommended to set your PC Tokens to "All Players" and later fine tune the permissions when your players have visited your Campaign.*
+
