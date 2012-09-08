@@ -10,7 +10,7 @@ Any image that is placed on the **Objects and Tokens** or **GM Info Overlay** la
 
 Here is an example of a Token:
 
-<img src='/images/tokencontrols.jpg' />
+<img src='/images/tokencontrols.jpg' align="left" />
 
 1. Bar Value Bubbles: These three input bubbles can be used by the players or the GM as a counter to keep track of health, turns, money, fuel or whatever else proves useful for your game.
 
