@@ -11,6 +11,7 @@ category: tabletop
 
 Sometimes you might want to use a pre-made battlemap that already comes with its own gridded surface. If you're having difficulty getting your image's grid to match Roll20's, we have an alignment tool that will make this task easier.
 
+
 1. Zoom in to 150%
 
 2. Make sure you're on the **Map & Background** layer
