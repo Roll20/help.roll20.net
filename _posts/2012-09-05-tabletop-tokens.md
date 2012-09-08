@@ -25,7 +25,7 @@ Clicking the Edit button on a Token brings up the Edit Token window:
 
 <img src='tokensettings.jpg' />
 
-**Name**: Here you can set the name of the Token. If you choose to use the Turn Tracker in your game, the Token's name will appear next to its thumbnail picture in the turn list.
+**Name**: Here you can set the name of the Token. If you choose to use the [**Turn Tracker**](/tabletop-toolbox-turn-tracker) in your game, the Token's name will appear next to its thumbnail picture in the turn list.
 
 **Controlled By**: This is where you assign who in your game has permission to control the Token. Clicking on the "Controlled By" field will bring up a list of all the players in the current campaign as well as being able to select the option "All Players". You can assign multiple players to a single Token. The GM always has control over the Tokens in their Campaign.
 
