@@ -19,4 +19,4 @@ category: tabletop
 
 5. When you let go of the mouse, a new window will appear. If you're satisfied with your tracing, click on the "Align to Grid" button to confirm.
 
-6. The Alignment Tool should resize your map to match fairly closely to Roll20's grid. Use the horizontal and vertical scaling transformers on your image to fine-tune the grid alignment.
+6. The Grid Alignment Tool should resize your map to match fairly closely to Roll20's grid. Use the horizontal and vertical scaling transformers on your image to fine-tune the grid alignment.
