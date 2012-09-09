@@ -21,7 +21,7 @@ Here is an example of a Token:
 4. Status Indicator Overlays: This button rolls out a menu that gives you a series of colored dots as well as a red X that overlays over the Token image. You can use these to show status ailments or to differentiate multiples of the same Token type. You can have multiple indicators displaying simultaneously.
 
 ##Token Settings
-Clicking the Edit button on a Token brings up the Edit Token window:
+Clicking the Edit button or double clicking on a Token brings up the Edit Token window:
 
 <img src='tokensettings.jpg' />
 
