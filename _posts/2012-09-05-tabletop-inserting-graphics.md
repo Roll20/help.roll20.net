@@ -1,6 +1,6 @@
 ---
 layout: default
-published: false
+published: true
 title: Inserting Graphics (Tokens and Maps)
 category: tabletop
 ---
