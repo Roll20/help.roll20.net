@@ -10,7 +10,7 @@ Any image that is placed on the **Objects and Tokens** or **GM Info Overlay** la
 
 Here is an example of a Token:
 
-<img src='/images/TokenControls.jpeg' align="left" vspace="10" hspace="25" />
+<img src='/images/TokenControls.jpeg' align="left" vspace="10" hspace="35" />
 
 1. Radial Menu Bubbles: These three input bubbles can be used by the players or the GM as a counter to keep track of health, turns, money, fuel or whatever else proves useful for your game. Click on a bubble to change the value. You can enter a new value (e.g. "20" or "ABC"), and for numerical values you can also enter relative values (e.g. "+5" will add 5 to the current value, or "-10" will subtract 10.)
 
