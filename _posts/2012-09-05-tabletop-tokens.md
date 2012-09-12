@@ -33,7 +33,7 @@ Clicking the Edit button or double clicking on a Token brings up the Edit Token 
 
 **Player Permissions**
 
-Bars: This is where you can set whether any of the three bar elements are either visible and/or editable to the players. The green heart, blue bolt and red cardiograph icons for the bars are there for identifing purposes only. They do not have to represent anything in particular in your game. ((I'm a little confused as to what settings mean (a) what is visible to everyone and (b) what is ONLY visible by the GM/ControllerPlayer))
+Bars: This is where you can set whether any of the three bar elements are either visible and/or editable to the players. The green heart, blue bolt and red cardiograph icons for the bars are there for identifing purposes only. They do not have to represent anything in particular in your game. **((I'm a little confused as to what settings mean (a) what is visible to everyone and (b) what is ONLY visible by the GM/ControllerPlayer))**
 
 You can also input numerical values for the Bar Bubbles directly from the Edit Token window. There's two input fields available for each Bar. The first field is for the Bar's current value and is what's featured in the Token's corresponding Bar Value Bubble. The second field is for the Bar's total value. If it's supplied, Roll20 will use the comparison between the two numbers to render how full or empty that corresponding Bar appears on the Tabletop. The fill will reflect whatever the Player plugs into their Bar Value Bubble while in-game.
 
