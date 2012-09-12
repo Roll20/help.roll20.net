@@ -10,20 +10,20 @@ Any image that is placed on the **Objects and Tokens** or **GM Info Overlay** la
 
 Here is an example of a Token:
 
-<img src='/images/tokencontrols.jpg' align="left" />
+<img src='/images/TokenControls.jpeg' align="left" />
 
-1. Bar Value Bubbles: These three input bubbles can be used by the players or the GM as a counter to keep track of health, turns, money, fuel or whatever else proves useful for your game.
+1. Radial Menu Bubbles: These three input bubbles can be used by the players or the GM as a counter to keep track of health, turns, money, fuel or whatever else proves useful for your game. Click on a bubble to change the value. You can enter a new value (e.g. "20" or "ABC"), and for numerical values you can also enter relative values (e.g. "+5" will add 5 to the current value, or "-10" will subtract 10.)
 
 2. Bar Overlay: If set to be visible, these are passive bars that fill or empty depending on what's entered in its corresponding Value Bubble.
 
-3. Edit: Clicking on the Edit button brings up a new window where you can name the Token, set permissions on who can control the Token, set what bars/auras are visible to/editable by the players and keep storage of GM notes. *Note: This button is only visible to the GM*
+3. Edit: Clicking on the Edit button brings up a new window where you can name the Token, set permissions on who can control the Token, set what bars/auras are visible to/editable by the players and keep storage of GM notes. *Note: This button is only visible to the GM* You can also double-click on the token to open the same settings dialog.
 
 4. Status Indicator Overlays: This button rolls out a menu that gives you a series of colored dots as well as a red X that overlays over the Token image. You can use these to show status ailments or to differentiate multiples of the same Token type. You can have multiple indicators displaying simultaneously.
 
 ##Token Settings
 Clicking the Edit button or double clicking on a Token brings up the Edit Token window:
 
-<img src='tokensettings.jpg' />
+<img src='/images/TokenSettings.jpeg' />
 
 **Name**: Here you can set the name of the Token. If you choose to use the [**Turn Tracker**](/tabletop-toolbox-turn-tracker) in your game, the Token's name will appear next to its thumbnail picture in the turn list.
 
@@ -33,7 +33,17 @@ Clicking the Edit button or double clicking on a Token brings up the Edit Token 
 
 **Player Permissions**
 
-Bars: This is where you can set whether any of the three bar elements are either visible and/or editable to the players. The green heart, blue bolt and red cardiograph icons for the bars are there for identifing purposes only. They do not have to represent anything in particular in your game. **((I'm a little confused as to what settings mean (a) what is visible to everyone and (b) what is ONLY visible by the GM/ControllerPlayer))**
+There are two possible permissions for each setting: View or Edit. You can toggle the flag for each type by checking or unchecking the corresponding box.
+
+Setting the View flag will allow all players in the game to view the current value of the bar, or see the aura drawn on the tabletop, regardless of whether or not they can control the token.
+
+Setting the Edit flag will allow all players who can control the token (based on the "Controlled By" field, above) to see and edit the values of the bar, or change the radius of the aura drawn on the tabletop.
+
+So if you have a token that you want all players to see the bars for (like a PC), set the View flag. If you also want to allow some players to keep track of their own health, set the Edit flag. If you only want players who can control the token to see and edit the bars, set only the Edit flag. And of course if you set none of the flags then only the GM will be able to see or edit the bars and auras.
+
+** Bars and Auras **
+
+Bars: This is where you can set whether any of the three bar elements are either visible and/or editable to the players. The green heart, blue bolt and red cardiograph icons for the bars are there for identifing purposes only. They do not have to represent anything in particular in your game.
 
 You can also input numerical values for the Bar Bubbles directly from the Edit Token window. There's two input fields available for each Bar. The first field is for the Bar's current value and is what's featured in the Token's corresponding Bar Value Bubble. The second field is for the Bar's total value. If it's supplied, Roll20 will use the comparison between the two numbers to render how full or empty that corresponding Bar appears on the Tabletop. The fill will reflect whatever the Player plugs into their Bar Value Bubble while in-game.
 
