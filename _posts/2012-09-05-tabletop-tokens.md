@@ -10,7 +10,7 @@ Any image that is placed on the **Objects and Tokens** or **GM Info Overlay** la
 
 Here is an example of a Token:
 
-<img src='/images/TokenControls.jpeg' align="left" />
+<img src='/images/TokenControls.jpeg' align="left" vspace="10" hspace="10" />
 
 1. Radial Menu Bubbles: These three input bubbles can be used by the players or the GM as a counter to keep track of health, turns, money, fuel or whatever else proves useful for your game. Click on a bubble to change the value. You can enter a new value (e.g. "20" or "ABC"), and for numerical values you can also enter relative values (e.g. "+5" will add 5 to the current value, or "-10" will subtract 10.)
 
@@ -41,7 +41,7 @@ Setting the Edit flag will allow all players who can control the token (based on
 
 So if you have a token that you want all players to see the bars for (like a PC), set the View flag. If you also want to allow some players to keep track of their own health, set the Edit flag. If you only want players who can control the token to see and edit the bars, set only the Edit flag. And of course if you set none of the flags then only the GM will be able to see or edit the bars and auras.
 
-** Bars and Auras **
+**Bars and Auras**
 
 Bars: This is where you can set whether any of the three bar elements are either visible and/or editable to the players. The green heart, blue bolt and red cardiograph icons for the bars are there for identifing purposes only. They do not have to represent anything in particular in your game.
 
