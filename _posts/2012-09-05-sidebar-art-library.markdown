@@ -21,8 +21,5 @@ If you select the general star icon in your art library, you access your persona
 
 ##Deleting content for data usage
 
-Roll20 allows 100MBs worth of art assets to be used by a free account.  To free up space, you can simply delete items in your 
+Roll20 allows 100MBs worth of art assets to be used by a free account.  To free up space, you can simply delete items in your library by selecting the red trash can icon next to the image.  The system will prompt you prior to deleting the data to confirm that you wish to continue.
 
-* Favoriting items
-* Tagging items in your library
-* Removing uploaded content to decrease your quota usage
