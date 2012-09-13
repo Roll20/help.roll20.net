@@ -6,7 +6,7 @@ title: Marketplace End User License Agreement
 
 1. **Background**
 
-	1.1	The Roll20 Marketplace (“Marketplace”) is owned and operated by Tailor Made Solutions, LLC, 12109 E. Ayesbury, Wichita, KS, 67226 (“Roll20”). Your use of the Marketplace is governed by a legal agreement between you and Roll20 consisting of the <a href="http://help.roll20.net/terms-of-service">Terms of Service</a> which you agreed to upon use of the Roll20 virtual tabletop and the following End User License Agreement (“Roll20-EULA”).
+	1.1	The Roll20 Marketplace (“Marketplace”) is owned and operated by The Orr Group, LLC, 12109 E. Ayesbury, Wichita, KS, 67226 (“Roll20”). Your use of the Marketplace is governed by a legal agreement between you and Roll20 consisting of the <a href="http://help.roll20.net/terms-of-service">Terms of Service</a> which you agreed to upon use of the Roll20 virtual tabletop and the following End User License Agreement (“Roll20-EULA”).
 	
 	1.2 You may purchase through the Marketplace “Assets” to be used personally and in the Roll20 virtual tabletop. Any Asset that you acquire from the Marketplace that has been developed by Roll20 or that has been made available by third-parties ("Providers") that are not affiliated with Roll20, will be subject to the Roll20-EULA.
 
