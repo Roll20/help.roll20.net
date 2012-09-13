@@ -12,7 +12,7 @@ Because we believe in establishing long-term relationships with our customers, w
 
 Please don’t forget that we are real people: take a look at our about page to get to know us a little. We are not perfect, but we’re trying our hardest, because we genuinely care about your success.
 
-When you read Tailor Made or we below, it refers to Tailor Made Solutions, LLC, its affiliates, and agents.
+When you read Orr Group or "we" below, it refers to The Orr Group, LLC, its affiliates, and agents.
 
 Should you have other questions or concerns about this document, please send us an e-mail at [team@roll20.net](mailto:team@roll20.net).
 
@@ -68,13 +68,13 @@ Finally, we never use or share the personally identifiable information provided 
 
 No-one. We never store your password unencrypted, so no-one can read it.
 
-It is your sole responsibility to keep your email, password and other sensitive information confidential. If you become aware of any unauthorized use of your account or any other breach of security, you shall notify Tailor Made immediately.
+It is your sole responsibility to keep your email, password and other sensitive information confidential. If you become aware of any unauthorized use of your account or any other breach of security, you shall notify Orr Group immediately.
 
 If you forget your password, we send you a secure link via email that lets you reset it.
 
 ##Who can see my credit card number?
 
-No-one at Tailor Made. We use the very trustworthy and secure [Stripe](http://stripe.com) payment service. Read about their security measures on the [Stripe Terms of Service](https://stripe.com/terms) (in short, they encrypt your credit card info using industry-standard practices).
+No-one at Orr Group. We use the very trustworthy and secure [Stripe](http://stripe.com) payment service. Read about their security measures on the [Stripe Terms of Service](https://stripe.com/terms) (in short, they encrypt your credit card info using industry-standard practices).
 
 ##Our Commitment to Children’s Privacy
 
@@ -88,9 +88,9 @@ You can access all your personally identifiable information that we collect onli
 
 By default, all campaigns and other assets that you create or upload to Roll20 are private. However, if you invite players to join your game, or choose to share your campaigns with other Roll20 users, then they will have access to view those specific campaigns and any assets used in those campaigns. Any assets that you upload to the Roll20 Marketplace will also be made public under the license that you select when the asset is submitted.
 
-##What are the guidelines Tailor Made follows when accessing my data?
+##What are the guidelines Orr Group follows when accessing my data?
 
-* We restrict who at Tailor Made can access customer data to only senior members of the team, and never to outside contractors.
+* We restrict who at Orr Group can access customer data to only senior members of the team, and never to outside contractors.
 * We only do it in response to a customer support question, or to look at issues affecting the entire Roll20 application.
 * We only do it in order to debug and fix the issue.
 * We never make changes to anything unless explicitly requested by a user.
@@ -103,30 +103,30 @@ All of our customers’ data resides in the same database. We use software best 
 
 #Intellectual Property Rights
 
-##Who owns Tailor Made materials?
+##Who owns Orr Group materials?
 
-Tailor Made materials are all the information, data, documents (e.g. white papers, press releases, datasheets, FAQs, etc.), communications, downloads, files, text, images, photographs, graphics, videos, webcasts, publications, content, tools, resources, software, code, programs and products on Roll20 produced by Tailor Made.
+Orr Group materials are all the information, data, documents (e.g. white papers, press releases, datasheets, FAQs, etc.), communications, downloads, files, text, images, photographs, graphics, videos, webcasts, publications, content, tools, resources, software, code, programs and products on Roll20 produced by Orr Group.
 
-Tailor Made materials are protected by copyrights, trademarks, patents, trade secrets and all other intellectual property and proprietary rights, and any unauthorized use of the Tailor Made Materials may violate such laws and the Terms of Service.
+Orr Group materials are protected by copyrights, trademarks, patents, trade secrets and all other intellectual property and proprietary rights, and any unauthorized use of the Orr Group Materials may violate such laws and the Terms of Service.
 
-You agree not to copy, republish, frame, download, transmit, modify, adapt, create derivative works based on, rent, lease, loan, sell, assign, distribute, display, perform, license, sublicense or reverse engineer the Roll20 service or Tailor Made Materials or any portions of them.
+You agree not to copy, republish, frame, download, transmit, modify, adapt, create derivative works based on, rent, lease, loan, sell, assign, distribute, display, perform, license, sublicense or reverse engineer the Roll20 service or Orr Group Materials or any portions of them.
 
 You agree that you will not decompile, reverse engineer or otherwise attempt to discover the source code of the software. Any copying or redistribution of the software is prohibited, including any copying or reproduction of the software to any other server or location for further reproduction, redistribution or use on a service bureau basis. Any unauthorized use, copying or distribution of the software is expressly prohibited by law, and may result in severe civil and criminal penalties. Violators will be prosecuted to the maximum extent possible.
 
-The trademarks, logos and service marks displayed on this Site are the property of Tailor Made Solutions, LLC or other third parties. You are not permitted to use them without the prior written consent of Tailor Made Solutions, LLC or such third party that may own the Marks. Roll20 and the Roll20 logo are trademarks of Tailor Made Solutions, LLC.
+The trademarks, logos and service marks displayed on this Site are the property of The Orr Group, LLC or other third parties. You are not permitted to use them without the prior written consent of The Orr Group, LLC or such third party that may own the Marks. Roll20 and the Roll20 logo are trademarks of The Orr Group, LLC.
 
-* Tailor Made materials may not be modified or altered in any way.
-* Tailor Made materials on Roll20 may not be distributed or sold, rented, leased, licensed or otherwise made available to others.
-* You may not remove any copyright or other proprietary notices contained in the Tailor Made materials.
-* You may not copy or distribute any graphics in the Tailor Made materials apart from their accompanying text.
-* You will not quote or display Tailor Made materials, or any portions thereof, out of context.
-* Tailor Made reserves the right to revoke the authorization to view, download and print the Tailor Made materials available via Roll20 at any time, and any such use shall be discontinued immediately upon notice from Tailor Made.
+* Orr Group materials may not be modified or altered in any way.
+* Orr Group materials on Roll20 may not be distributed or sold, rented, leased, licensed or otherwise made available to others.
+* You may not remove any copyright or other proprietary notices contained in the Orr Group materials.
+* You may not copy or distribute any graphics in the Orr Group materials apart from their accompanying text.
+* You will not quote or display Orr Group materials, or any portions thereof, out of context.
+* Orr Group reserves the right to revoke the authorization to view, download and print the Orr Group materials available via Roll20 at any time, and any such use shall be discontinued immediately upon notice from Orr Group.
 * The rights granted to you constitute a license and not a transfer of title.
-* Any Tailor Made materials made available only upon payment of a fee may only be viewed, downloaded and printed subject to your payment of such fee.
+* Any Orr Group materials made available only upon payment of a fee may only be viewed, downloaded and printed subject to your payment of such fee.
 
 ##Who owns the IP of my campaigns and uploaded content?
 
-Tailor Made does not claim intellectual property rights over campaigns or uploaded content on Roll20.
+Orr Group does not claim intellectual property rights over campaigns or uploaded content on Roll20.
 
 We leave it to each Roll20 user to decide who should own the IP of the materials created using their Roll20 account.
 
@@ -134,15 +134,15 @@ Content that you upload to the Roll20 Marketplace remains the IP of the original
 
 You acknowledge and agree that Roll20 has no liability of any kind should anyone you granted access to your content modify, destroy, corrupt, copy or distribute it, or violate the Terms of Service or other limitations that you may impose on the use of your shared content.
 
-Tailor Made does not pre-screen user materials that users provide or otherwise submit via Roll20; however, Tailor Made may remove any posted or submitted user materials from Roll20 for any reason without notice in its sole discretion. By posting or submitting your user materials, you represent and warrant that you own or otherwise control all of the intellectual property rights and other rights to your user materials as described in these Terms of Service, including all the rights necessary for you to post or submit your user materials.
+Orr Group does not pre-screen user materials that users provide or otherwise submit via Roll20; however, Orr Group may remove any posted or submitted user materials from Roll20 for any reason without notice in its sole discretion. By posting or submitting your user materials, you represent and warrant that you own or otherwise control all of the intellectual property rights and other rights to your user materials as described in these Terms of Service, including all the rights necessary for you to post or submit your user materials.
 
 In addition, by posting or otherwise submitting your user materials that contain images, photographs, pictures, videos, webcasts or that are otherwise graphical in whole or in part (“Images”), you represent and warrant that: (a) you own the copyright in such Images, or that you have obtained all necessary license(s) from the copyright owner(s) of such Images to use such Images, or portions thereof, in keeping with your use in connection with Roll20 and as otherwise permitted by these Terms of Service; (b) you have the rights necessary to grant the licenses and sublicenses described in these Terms of Service; and (c) you have received consent from any and all persons depicted in such Images to use the Images as set forth in these Terms of Service, including the distribution, public display, public performance and reproduction of such Images.
 
-You are solely and entirely responsible for all of your user materials that you post or otherwise submit via Roll20. You shall assume all risks associated with the use of your user materials including any reliance on the accuracy, completeness or usefulness of your user materials. Tailor Made does not guarantee the accuracy, integrity or quality of your user materials. You acknowledge and agree that by accessing or using Roll20, you may be exposed to user materials from others that are offensive, indecent or otherwise objectionable.
+You are solely and entirely responsible for all of your user materials that you post or otherwise submit via Roll20. You shall assume all risks associated with the use of your user materials including any reliance on the accuracy, completeness or usefulness of your user materials. Orr Group does not guarantee the accuracy, integrity or quality of your user materials. You acknowledge and agree that by accessing or using Roll20, you may be exposed to user materials from others that are offensive, indecent or otherwise objectionable.
 
 ##Who owns the IP of the images and sounds that I include in my campaigns via the Art Library, Marketplace, and Jukebox tools?
 
-The tokens, map tiles, sounds, and other art assets that you include in your campaigns via the Art Library, Marketplace, and Jukebox tools are the intellectual property of the providers of the assets. For more information on the assets included in Roll20, and their providers, see the [Acknowledgements](/acknowledgements) page and/or the individual asset page on the Marketplace. We have licensed these assets to allow you to use them to create non-commercial works in a personal setting. If you wish to re-distribute any campaigns you create on Roll20 that include assets from any of these providers outside of this intended purpose or outside of the Roll20 service, you must contact the provider(s) to license them directly. Tailor Made is not responsible for your use of the assets in any way that violates the rights of the providers. In addition, assets included from the Roll20 Marketplace are subject to the additional terms in the <a href="http://help.roll20.net/marketplace-eula/">Marketplace End User Licese Agreement (EULA)</a>.
+The tokens, map tiles, sounds, and other art assets that you include in your campaigns via the Art Library, Marketplace, and Jukebox tools are the intellectual property of the providers of the assets. For more information on the assets included in Roll20, and their providers, see the [Acknowledgements](/acknowledgements) page and/or the individual asset page on the Marketplace. We have licensed these assets to allow you to use them to create non-commercial works in a personal setting. If you wish to re-distribute any campaigns you create on Roll20 that include assets from any of these providers outside of this intended purpose or outside of the Roll20 service, you must contact the provider(s) to license them directly. Orr Group is not responsible for your use of the assets in any way that violates the rights of the providers. In addition, assets included from the Roll20 Marketplace are subject to the additional terms in the <a href="http://help.roll20.net/marketplace-eula/">Marketplace End User Licese Agreement (EULA)</a>.
 
 Art that you include in your campaign via the web search and SoundCloud features come from a variety of websites across the Internet. We do our best to only include assets that can be used by you for non-commercial works in a personal setting, but the licensing of each asset may vary. We provide a credit, including a clickable link, above each art asset so that you can see where it is from and under what license it is released. You are solely responsible for any infringement of the rights of others that may occur by using these assets in your materials on Roll20.
 
@@ -158,7 +158,7 @@ You can see for yourself how we’re doing on this front over the last 30 days b
 
 <img src="http://share.pingdom.com/banners/07145829"  alt="Uptime for Roll20: Last 30 days " title=" Uptime for Roll20: Last 30 days" width="300" height="165" />
 
-You acknowledge and agree that Tailor Made shall not be liable for any failure to store or retrieve your materials on Roll20 at any time.
+You acknowledge and agree that Orr Group shall not be liable for any failure to store or retrieve your materials on Roll20 at any time.
 
 #Play Nice Clauses
 
@@ -171,7 +171,7 @@ You agree that you shall not:
 * Access or attempt to access any material that you are not authorized to access.
 * Make available any files containing materials where you do not own or control, or have not received the necessary licenses to, all intellectual property rights, rights of privacy and publicity and all other rights in and to such materials.
 * Use any materials in any manner that infringes any intellectual property rights or other rights of any party.
-* Disrupt or interfere with the security of, or otherwise cause harm to, the Roll20 service, Tailor Made materials, systems resources, accounts, passwords, servers or networks connected to or accessible through Roll20 or any affiliated or linked sites.
+* Disrupt or interfere with the security of, or otherwise cause harm to, the Roll20 service, Orr Group materials, systems resources, accounts, passwords, servers or networks connected to or accessible through Roll20 or any affiliated or linked sites.
 * Transmit unsolicited or bulk communications to any Roll20 account holder or to any roll20.net or affiliated e-mail address.
 * Post or otherwise submit any software, programs or files that are harmful or disruptive of another’s equipment, software or other property, including any corrupted files, time bombs, Trojan horses, viruses and worms.
 * Create a false identity for the purpose of misleading others.
@@ -182,37 +182,37 @@ You agree that you shall not:
 * Post or otherwise submit any topic, name, material or information that is child pornography, defamatory, excessively violent, harassing, inappropriate, indecent, lascivious, lewd, obscene, profane, racist, unlawful, or otherwise objectionable.
 * Prepare, compile, use, download or otherwise copy any Roll20 user directory or other user or usage information or any portion thereof, or transmit, provide or otherwise distribute (whether or not for a fee) such directory or information to any third party.
 * Engage in any chain letters, contests, junk e-mail, pyramid schemes, spamming, surveys or any other duplicative or unsolicited messages (commercial or otherwise).
-* Violate the rights of Tailor Made or any third party (including rights of privacy and publicity) or abuse, defame, harass, stalk or threaten another.
-* Market any goods or services for any business purpose (including advertising and making offers to buy or sell goods or services), unless specifically allowed to do so by Tailor Made.
-* Materials and Services provided by third parties are governed by separate agreements accompanying such materials and services. Tailor Made offers no guarantees and assumes no responsibility or liability of any type with respect to the third-party services, including any liability resulting from incompatibility between a third-party service, Tailor Made materials, the Roll20 service or another third-party service. You agree that you will not hold Tailor Made responsible or liable with respect to the third-party services.
+* Violate the rights of Orr Group or any third party (including rights of privacy and publicity) or abuse, defame, harass, stalk or threaten another.
+* Market any goods or services for any business purpose (including advertising and making offers to buy or sell goods or services), unless specifically allowed to do so by Orr Group.
+* Materials and Services provided by third parties are governed by separate agreements accompanying such materials and services. Orr Group offers no guarantees and assumes no responsibility or liability of any type with respect to the third-party services, including any liability resulting from incompatibility between a third-party service, Orr Group materials, the Roll20 service or another third-party service. You agree that you will not hold Orr Group responsible or liable with respect to the third-party services.
 
 ##Special Treatment for Spammers
 
-In the event of your or others’ access to or use of the Roll20 service in connection with the transmission of spam unsolicited e-mail or postings in violation of these Terms of Service, you acknowledge and agree that Tailor Made would be irreparably harmed thereunder and that monetary damages would be an insufficient and ineffective remedy; therefore you agree that Tailor Made is entitled to obtain immediate injunctive relief against any such transmission (in addition to all other remedies available at law or in equity). Tailor Made may without restriction block, filter or delete unsolicited e-mail.
+In the event of your or others’ access to or use of the Roll20 service in connection with the transmission of spam unsolicited e-mail or postings in violation of these Terms of Service, you acknowledge and agree that Orr Group would be irreparably harmed thereunder and that monetary damages would be an insufficient and ineffective remedy; therefore you agree that Orr Group is entitled to obtain immediate injunctive relief against any such transmission (in addition to all other remedies available at law or in equity). Orr Group may without restriction block, filter or delete unsolicited e-mail.
 
 ##Restriction and Termination of Use
 
-Tailor Made may block, restrict, disable, suspend or terminate your access to all or part of Roll20 at any time in Tailor Made’s sole discretion, without prior notice or liability to you.
+Orr Group may block, restrict, disable, suspend or terminate your access to all or part of Roll20 at any time in Orr Group’s sole discretion, without prior notice or liability to you.
 
 <a name="dmca">&nbsp;</a>
 
 ##Notification of Copyright Infringement (DMCA Policy)
 
-Tailor Made will, in appropriate circumstances, terminate the accounts of users who infringe the intellectual property rights of others. Tailor Made will investigate notices of copyright infringement and take appropriate actions under the Digital Millennium Copyright Act, Title 17, United States Code, Section 512(c)(2) (“DMCA”).
+Orr Group will, in appropriate circumstances, terminate the accounts of users who infringe the intellectual property rights of others. Orr Group will investigate notices of copyright infringement and take appropriate actions under the Digital Millennium Copyright Act, Title 17, United States Code, Section 512(c)(2) (“DMCA”).
 
 If you believe that your work has been used or copied in a way that constitutes copyright infringement and such infringement is occurring on Roll20 or on sites linked to from Roll20, please provide written notification of claimed copyright infringement to the designated agent for Roll20 (identified below), which must contain the following elements:
 
 * A physical or electronic signature of the person authorized to act on behalf of the owner of the copyright interest that is alleged to have been infringed;
 * A description of the copyrighted work or works that you claim have been infringed and identification of what content in such work(s) is claimed to be infringing and which you request to be removed or access to which is to be disabled;
 * A description of where the content that you claim is infringing is located on Roll20;
-* Information sufficient to permit Tailor Made to contact you, such as your physical address, telephone number, and e-mail address;
+* Information sufficient to permit Orr Group to contact you, such as your physical address, telephone number, and e-mail address;
 * A statement by you that you have a good faith belief that the use of the content identified in your Notice in the manner complained of is not authorized by the copyright owner, its agent, or the law;
 * A statement by you that the information in your notice is accurate and, under penalty of perjury, that you are the copyright owner or authorized to act on the copyright owner’s behalf.
 
-Tailor Made’s designated agent for notice of claims of copyright infringement can be reached as follows:
+Orr Group’s designated agent for notice of claims of copyright infringement can be reached as follows:
 
 By mail:
-Tailor Made, LLC
+Orr Group, LLC
 12109 E. Ayesbury
 Wichita, KS 67226
 
@@ -220,40 +220,40 @@ By e-mail: [team@roll20.net](mailto:team@roll20.net)
 
 ##Links to Third Party Sites
 
-Roll20 may include links that will take you to other sites outside of the Roll20 service. The linked sites are provided by Tailor Made to you as a convenience and the inclusion of the links do not imply any endorsement by Tailor Made of any linked site. Tailor Made has no control of the linked sites and you therefore acknowledge and agree that Tailor Made is not responsible for the contents of any linked site, any link contained in a linked site or any changes or updates to a linked site. You further acknowledge and agree that Tailor Made is not responsible for any form of transmission (e.g. webcasting) received from any linked site.
+Roll20 may include links that will take you to other sites outside of the Roll20 service. The linked sites are provided by Orr Group to you as a convenience and the inclusion of the links do not imply any endorsement by Orr Group of any linked site. Orr Group has no control of the linked sites and you therefore acknowledge and agree that Orr Group is not responsible for the contents of any linked site, any link contained in a linked site or any changes or updates to a linked site. You further acknowledge and agree that Orr Group is not responsible for any form of transmission (e.g. webcasting) received from any linked site.
 
 ##Advertisements and Promotions
 
-Tailor Made may run advertisements and promotions from third parties via Roll20 in any manner or mode and to any extent. Your communications, activities, relationships and business dealings with any third parties advertising or promoting via Roll20, including payment and delivery of related goods or services, and any other terms, conditions, warranties or representations associated with such dealings, shall be solely matters between you and such third parties. You acknowledge and agree that Tailor Made is not responsible or liable for any loss or damage of any kind incurred as the result of any such dealings or as the result of the presence of such non-Tailor Made advertisers on Roll20.
+Orr Group may run advertisements and promotions from third parties via Roll20 in any manner or mode and to any extent. Your communications, activities, relationships and business dealings with any third parties advertising or promoting via Roll20, including payment and delivery of related goods or services, and any other terms, conditions, warranties or representations associated with such dealings, shall be solely matters between you and such third parties. You acknowledge and agree that Orr Group is not responsible or liable for any loss or damage of any kind incurred as the result of any such dealings or as the result of the presence of such non-Orr Group advertisers on Roll20.
 
 ##Warranties and Disclaimers
 
-The Roll20 service and Tailor Made materials are provided by Tailor Made under these Terms of Service “as is” without warranty of any kind, either express, implied, statutory or otherwise, including, but not limited to, the implied warranties of title, non-infringement, merchantability or fitness for a particular purpose. Without limiting the foregoing, Tailor Made makes no warranty that
+The Roll20 service and Orr Group materials are provided by Orr Group under these Terms of Service “as is” without warranty of any kind, either express, implied, statutory or otherwise, including, but not limited to, the implied warranties of title, non-infringement, merchantability or fitness for a particular purpose. Without limiting the foregoing, Orr Group makes no warranty that
 
-* the Roll20 service and Tailor Made materials will meet your requirements;
-* the Roll20 service and Tailor Made materials will be uninterrupted, timely, secure, or error-free;
-* the results that may be obtained from the use of Roll20 service and Tailor Made materials will be effective, accurate, or reliable;
+* the Roll20 service and Orr Group materials will meet your requirements;
+* the Roll20 service and Orr Group materials will be uninterrupted, timely, secure, or error-free;
+* the results that may be obtained from the use of Roll20 service and Orr Group materials will be effective, accurate, or reliable;
 * the quality of the site or any services or materials purchased or accessible by you will meet your expectations; and
-* any errors or defects in Roll20 service and Tailor Made materials will be corrected.
+* any errors or defects in Roll20 service and Orr Group materials will be corrected.
 
-This Roll20 service and Tailor Made materials may include technical or other mistakes, inaccuracies, or typographical errors. Tailor Made may make changes to the site, materials and services, including the prices and descriptions of any software or products listed, at any time in its sole discretion and without notice. The Roll20 service and Tailor Made materials may be out of date, and Tailor Made makes no commitment to update the site, materials and services.
+This Roll20 service and Orr Group materials may include technical or other mistakes, inaccuracies, or typographical errors. Orr Group may make changes to the site, materials and services, including the prices and descriptions of any software or products listed, at any time in its sole discretion and without notice. The Roll20 service and Orr Group materials may be out of date, and Orr Group makes no commitment to update the site, materials and services.
 
 You acknowledge and agree that:
 
-* Tailor Made does not control, endorse, or accept responsibility for any materials or services offered by third parties, including third-party vendors and third parties accessible through linked sites;
-* Tailor Made makes no representations or warranties whatsoever about any such third parties, their materials or services;
+* Orr Group does not control, endorse, or accept responsibility for any materials or services offered by third parties, including third-party vendors and third parties accessible through linked sites;
+* Orr Group makes no representations or warranties whatsoever about any such third parties, their materials or services;
 * any dealings you may have with such third parties are at your own risk; and
-* Tailor Made shall not be liable or responsible for any materials or services offered by third parties.
+* Orr Group shall not be liable or responsible for any materials or services offered by third parties.
 
-Tailor Made does not control or endorse the materials found in any services and specifically disclaims any liability with regard to the site, services and any actions resulting from your use of the Roll20 service and Tailor Made materials and participation in any services. Managers, hosts, and other third parties are not authorized Tailor Made spokespersons, and their views do not necessarily reflect those of Tailor Made. To the maximum extent permitted by law, Tailor Made will have no liability related to user materials arising under intellectual property rights, libel, privacy, publicity, obscenity or other laws. Tailor Made also disclaims all liability with respect to the misuse, loss, modification or unavailability of any user materials.
+Orr Group does not control or endorse the materials found in any services and specifically disclaims any liability with regard to the site, services and any actions resulting from your use of the Roll20 service and Orr Group materials and participation in any services. Managers, hosts, and other third parties are not authorized Orr Group spokespersons, and their views do not necessarily reflect those of Orr Group. To the maximum extent permitted by law, Orr Group will have no liability related to user materials arising under intellectual property rights, libel, privacy, publicity, obscenity or other laws. Orr Group also disclaims all liability with respect to the misuse, loss, modification or unavailability of any user materials.
 
-The use of Roll20 service, Tailor Made materials or the downloading or other use of any materials is done at your own discretion and risk and with your agreement that you will be solely responsible for any damage to your computer system, loss of data or other harm that results from such activities. Tailor Made assumes no liability for any computer virus or other similar software code that is downloaded to your computer from the site or in connection with any services or materials. No advice or information, whether oral or written, obtained by you from Tailor Made or via the site, services or materials shall create any warranty not expressly stated in the Terms of Service. Tailor Made will not be liable for any loss that you may incur as a result of someone else using your password or account with respect to the site or any services or materials, either with or without your knowledge.
+The use of Roll20 service, Orr Group materials or the downloading or other use of any materials is done at your own discretion and risk and with your agreement that you will be solely responsible for any damage to your computer system, loss of data or other harm that results from such activities. Orr Group assumes no liability for any computer virus or other similar software code that is downloaded to your computer from the site or in connection with any services or materials. No advice or information, whether oral or written, obtained by you from Orr Group or via the site, services or materials shall create any warranty not expressly stated in the Terms of Service. Orr Group will not be liable for any loss that you may incur as a result of someone else using your password or account with respect to the site or any services or materials, either with or without your knowledge.
 
 Some states or jurisdictions do not allow the exclusion of implied warranties or limitations on how long an implied warranty may last, so the above limitations may not apply to you. To the extent permissible, any implied warranties are limited to ninety (90) days.
 
 ##Indemnity and Liability
 
-You agree to indemnify and hold Tailor Made and its officers, co-branders, other partners and employees harmless from any claim or demand, including reasonable attorneys’ fees, made by any third party due to or arising out of:
+You agree to indemnify and hold Orr Group and its officers, co-branders, other partners and employees harmless from any claim or demand, including reasonable attorneys’ fees, made by any third party due to or arising out of:
 
 * your user materials and any other content (e.g. computer viruses) that you may submit, post to or transmit through Roll20, including a third party’s use of such user materials or content (e.g. reliance on the accuracy, completeness or usefulness of your user materials);
 * your access to or use of Roll20 (including any use by your employees, contractors or agents and all uses of your account numbers, user names and passwords, whether or not actually or expressly authorized by you, in connection with Roll20);
@@ -267,19 +267,19 @@ You agree to indemnify and hold Tailor Made and its officers, co-branders, other
 
 ##International Users
 
-The Roll20 service can be accessed from countries around the world and may contain references to Tailor Made products, services and programs that are not available in your country. These references do not imply that Tailor Made intends to announce such products, services or programs in your country. The Site is controlled, operated and administered by Tailor Made Solutions, LLC and its affiliates from their offices within the United States of America. Tailor Made makes no representation that the Roll20 service and Tailor Made materials are appropriate or available for use at other locations outside the United States, and access to the Site from territories where the Site, the Services or Materials are illegal is prohibited. If you access the Site from a location outside the United States, you are responsible for compliance with all local laws.
+The Roll20 service can be accessed from countries around the world and may contain references to Orr Group products, services and programs that are not available in your country. These references do not imply that Orr Group intends to announce such products, services or programs in your country. The Site is controlled, operated and administered by The Orr Group, LLC and its affiliates from their offices within the United States of America. Orr Group makes no representation that the Roll20 service and Orr Group materials are appropriate or available for use at other locations outside the United States, and access to the Site from territories where the Site, the Services or Materials are illegal is prohibited. If you access the Site from a location outside the United States, you are responsible for compliance with all local laws.
 
-The export and re-export of Tailor Made Software are controlled by the United States Export Administration Regulations, and such Software may not be exported or re-exported to Cuba, Iran, Libya, North Korea, Sudan, Syria, or any country to which the United States embargoes goods. In addition, the Software may not be distributed to persons on the Table of Denial Orders, the Entity List, or the List of Specially Designated Nationals.
+The export and re-export of Orr Group Software are controlled by the United States Export Administration Regulations, and such Software may not be exported or re-exported to Cuba, Iran, Libya, North Korea, Sudan, Syria, or any country to which the United States embargoes goods. In addition, the Software may not be distributed to persons on the Table of Denial Orders, the Entity List, or the List of Specially Designated Nationals.
 
 By downloading Software, you are certifying that you are not a national of Cuba, Iran, Libya, North Korea, Sudan, Syria or any country to which the United States embargoes goods, and that you are not a person on the Table of Denial Orders, the Entity List, or the List of Specially Designated Nationals.
 
-All Tailor Made Software, products and publications are commercial in nature. The Software and documentation available on this Site are “Commercial Items,” as that term is defined at 48 C.F.R. §2.101, consisting of “Commercial Computer Software” and “Commercial Computer Software Documentation,” as such terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F.R. §§227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are licensed to U.S. Government end users (A) only as Commercial Items and (B) with only those rights as are granted to all other users pursuant to the Terms of Service and the applicable license agreement.
+All Orr Group Software, products and publications are commercial in nature. The Software and documentation available on this Site are “Commercial Items,” as that term is defined at 48 C.F.R. §2.101, consisting of “Commercial Computer Software” and “Commercial Computer Software Documentation,” as such terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F.R. §§227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are licensed to U.S. Government end users (A) only as Commercial Items and (B) with only those rights as are granted to all other users pursuant to the Terms of Service and the applicable license agreement.
 
 ##Limitation of Liability
 
-In no event shall Tailor Made, its officers, directors, employees, partners or suppliers be liable to you or any third party for any special, punitive, incidental, indirect or consequential damages or losses of any kind, or any damages or losses whatsoever, including those resulting from loss of use, data or profits, whether or not foreseeable or if Tailor Made has been advised of the possibility of such damages or losses, and on any theory of liability, including breach of contract or warranty, negligence or other tortious action, or any other claim arising out of or in connection with:
+In no event shall Orr Group, its officers, directors, employees, partners or suppliers be liable to you or any third party for any special, punitive, incidental, indirect or consequential damages or losses of any kind, or any damages or losses whatsoever, including those resulting from loss of use, data or profits, whether or not foreseeable or if Orr Group has been advised of the possibility of such damages or losses, and on any theory of liability, including breach of contract or warranty, negligence or other tortious action, or any other claim arising out of or in connection with:
 
-* the access or use of or the inability to access or use the Roll20 service or Tailor Made materials;
+* the access or use of or the inability to access or use the Roll20 service or Orr Group materials;
 * the statements or actions of any third party on or via the site, services or materials;
 * any dealings with vendors or other third parties;
 * any unauthorized access to or alteration of your transmissions, user materials or other data;
@@ -293,11 +293,11 @@ Some jurisdictions prohibit the exclusion or limitation of liability for consequ
 
 #Governing Law and Jurisdiction
 
-The Roll20 service (excluding linked sites) is controlled by Tailor Made Solutions, LLC from its offices within the state of Kansas, United States of America. By accessing Roll20, you agree that all matters relating to your access to, or use of, Roll20 shall be governed by the statutes and laws of the State of Kansas, without regard to the conflicts of laws principles thereof. The parties specifically disclaim the U.N. Convention on Contracts for the International Sale of Goods. You also agree and hereby submit to the exclusive personal jurisdiction and venue of the Superior Court of Sedgwick County and the United States District Court for the 25th Judicial District of Kansas with respect to such matters.
+The Roll20 service (excluding linked sites) is controlled by The Orr Group, LLC from its offices within the state of Kansas, United States of America. By accessing Roll20, you agree that all matters relating to your access to, or use of, Roll20 shall be governed by the statutes and laws of the State of Kansas, without regard to the conflicts of laws principles thereof. The parties specifically disclaim the U.N. Convention on Contracts for the International Sale of Goods. You also agree and hereby submit to the exclusive personal jurisdiction and venue of the Superior Court of Sedgwick County and the United States District Court for the 25th Judicial District of Kansas with respect to such matters.
 
 #General
 
-The Terms of Service and other rules, guidelines, licenses and disclaimers posted via Roll20 or in connection with the Materials and Services constitute the entire agreement between Tailor Made and you with respect to your access to or use of the Roll20 service and materials superseding any prior agreements between you and Tailor Made on such subject matter (including any prior versions of the Terms of Service). Notwithstanding the foregoing, to the extent that any terms set forth in the Terms of Service expressly contradict any terms of a written agreement between you and Tailor Made regarding the use of specific Services or Materials (including Service-specific Terms of Service and Software-specific licenses) (“Executed Agreement”), such contradictory terms set forth in the Executed Agreement shall govern. You may also be subject to additional terms and conditions that may apply when you use other Tailor Made services, third party content or third party software. You may not assign or otherwise transfer the Terms of Service nor any right granted hereunder without Tailor Made’s prior written consent. If for any reason a court of competent jurisdiction finds any provision of the Terms of Service, or portion thereof, to be unenforceable, that provision shall be enforced to the maximum extent permissible so as to effect the intent of the parties as reflected by that provision, and the remainder of the Terms of Service shall continue in full force and effect. Any failure by Tailor Made to enforce or exercise any provision of the Terms of Service or related right shall not constitute a waiver of that right or provision. The section titles used in the Terms of Service are purely for convenience and carry with them no legal or contractual effect.
+The Terms of Service and other rules, guidelines, licenses and disclaimers posted via Roll20 or in connection with the Materials and Services constitute the entire agreement between Orr Group and you with respect to your access to or use of the Roll20 service and materials superseding any prior agreements between you and Orr Group on such subject matter (including any prior versions of the Terms of Service). Notwithstanding the foregoing, to the extent that any terms set forth in the Terms of Service expressly contradict any terms of a written agreement between you and Orr Group regarding the use of specific Services or Materials (including Service-specific Terms of Service and Software-specific licenses) (“Executed Agreement”), such contradictory terms set forth in the Executed Agreement shall govern. You may also be subject to additional terms and conditions that may apply when you use other Orr Group services, third party content or third party software. You may not assign or otherwise transfer the Terms of Service nor any right granted hereunder without Orr Group’s prior written consent. If for any reason a court of competent jurisdiction finds any provision of the Terms of Service, or portion thereof, to be unenforceable, that provision shall be enforced to the maximum extent permissible so as to effect the intent of the parties as reflected by that provision, and the remainder of the Terms of Service shall continue in full force and effect. Any failure by Orr Group to enforce or exercise any provision of the Terms of Service or related right shall not constitute a waiver of that right or provision. The section titles used in the Terms of Service are purely for convenience and carry with them no legal or contractual effect.
 
 #Document History
 
@@ -308,5 +308,7 @@ The Terms of Service and other rules, guidelines, licenses and disclaimers poste
 2012, June 12th: Updated document to reflect the new Marketplace tool
 
 2012, September 6th: Small typo and formatting fixes
+
+2012, September 13th: Updated document to reflect new company name, "The Orr Group, LLC". It's still the same people, just a little more official now.
 
 Inspired by (although not related in any legal way to) the Balsamiq Mockups Terms of Service & Privacy Policy.
