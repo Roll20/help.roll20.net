@@ -74,6 +74,14 @@ You can also add modifiers onto your target rolls, and the modifier will be adde
 
 The overall format for target number rolls is <code>/roll NdX+m[>|<]t</code> where N is the number of dice to roll, X is the number of sides of the dice, m is the (optional) modifier applied to each dice roll, and t is the target number. A success occurs when a rolled dice value plus any modifiers is equal to or greater than the target number, or less than or equal to the target number, depending on the symbol used.
 
+## Rerolling Dice
+
+Several systems require that certain dice be reroll, for example brutal weapons in D&D 4e require any 1s or 2s to be re-rolled and the orignal die value ignored.
+
+To use reroll, just do <code>/roll 2d8r<2</code>. Roll20 will roll 2 d8 and reroll any 1s or 2s, dropping the original die value. If reroll for a specific value is needed the comparison operator can be left of. <code>/roll 2d8r8</code> will reroll any 8s. > and < can be used as comparisons and the r suffix can be specified multiple times. <code>/roll 2d8r1r3r5r7</code> would roll 2d8 and re-roll any odd number.
+
+<div class='diceroller'>/roll 2d8r<2</div>
+
 ## FATE Dice
 
 Roll20 also supports FATE dice (used for FATE, FUDGE, and other systems). Roll20 accurately simulates FATE dice as 6-sided dice in which two sides are 0, two sides are +1, and two sides are -1. 
@@ -86,6 +94,6 @@ The overall format for FATE dice rolls is <code>/roll NdF+m</code>, where N is t
 
 ## Combining Roll Types
 
-You can also combine most of the above roll types together. An advanced example might be to roll 4 d6's, explode any max rolls, add a modifier of 1 onto each roll, and then find out the number of successes versus 3. In Roll20, this would be <code>/roll 4d6!+1>3</code>.
+You can also combine most of the above roll types together. An advanced example might be to roll 4 d6's, explode any max rolls, add a modifier of 1 onto each roll, and then find out the number of successes versus 3. In Roll20, this would be <code>/roll 4d6!+1>3</code>. The one big catch is if you use the success operator then every dice specified in the roll must be a success check.
 
 <div class='diceroller'>/roll 4d6!+1>3</div>
