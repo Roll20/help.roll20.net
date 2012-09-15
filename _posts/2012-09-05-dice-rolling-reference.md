@@ -43,6 +43,12 @@ Shadowrun (and some other systems) use a special style of exploding dice where t
 
 <div class='diceroller'>/roll 5d6!!>8</div>
 
+**Penetrating Exploding Dice (Hackmaster-Style Exploding Dice)**
+
+HackMaster (and some other systems) use a special style of exploding dice where the the additional rolls for each dice have 1 subtracted from the roll. To do this, add a p after the exclamation mark. So for example to roll 5 d6's, you would do <code>/roll 5d6!p</code>.
+
+<div class='diceroller'>/roll 5d6p</div>
+
 ## Drop/Keep
 
 Some game systems ask you to roll a large number of dice, and then either drop a certain number of the lowest rolls, or keep only a certain number of the highest rolls. Roll20 supports this type of roll through the <code>d</code> and <code>k</code> commands, respectively.
