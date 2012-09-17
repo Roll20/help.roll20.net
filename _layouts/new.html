@@ -172,15 +172,15 @@ sidebar_cats:
       <div class='message rollresult you'>
         <$ var s = this.split("|"); $>
         <div class="formula" style="margin-bottom: 3px;">
-          rolling <$= s[0] $>
+          rolling <$= this.origformula $>
         </div>
         <div class="clear"></div>
         <div class="formula">
-          <$= s[1].replace(/\[[0-9{}@#]+\]/g, function(match) { return match.replace("[", "<span class='dropped'>").replace("]", "</span>"); }).replace(/{@[0-9]+@}/g, function(match) { return match.replace("{@", "<span class='critsuccess'>").replace("@}", "</span>"); }).replace(/{#[0-9]+#}/g, function(match) { return match.replace("{#", "<span class='critfail'>").replace("#}", "</span>"); }) $>
+          <$= this.formattedHtml $>
         </div>
         <strong> = </strong>
         <div class="rolled">
-          <$= s[2] $>
+          <$= this.total $>
         </div>
       </div>
     </script>
