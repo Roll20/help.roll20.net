@@ -5,8 +5,9 @@ categories: beginner sidebar
 published: true
 ---
 
-
 ## Chatting
+
+<img src="/images/textchatbox.jpg" align="right" vspace="40" hspace="40" />
 
   Sending a basic chat message is easy: just type your message into the chat input area and press "Enter". Be advised that any player assigned a "Character" (from the Journal tab) can choose via drop-down to talk as either themselves (their registered login name) or as their assigned character.
 
