@@ -9,7 +9,7 @@ The Journal is a feature which allows you to create Characters and Handouts whic
 
 ##Characters
 
-<img src="/images/CharacterPopUp2.jpg" align="right" hspace="40" vspace="40" />
+<img src="/images/CharacterPopUp2.jpg" align="right" width="50%" hspace="40" vspace="40" />
 
 Characters are intended to represent either PCs or important NPCs in your Campaign. Each Character has a name, an avatar which represents the Character, and a bio and a GM Notes section.
 
@@ -27,7 +27,7 @@ Deleting the Character will permanently remove it from the Campaign, and cannot 
 
 ##Handouts
 
-<img src="/images/EditNote.jpg" align="right" hspace="40" vspace="40" />
+<img src="/images/EditNote.jpg" align="right" width="50%" hspace="40" vspace="40" />
 
 Handouts are very similar to Characters and have some of the same fields. The main difference is that Handouts are designed to be either one large image or a long description (or both). 
 
