@@ -5,11 +5,11 @@ categories: sidebar
 published: true
 ---
 
-__Journal__
-
 The Journal is a feature which allows you to create Characters and Handouts which you can choose to keep private or share with your players. It serves as a central repository for information about your Campaign.
 
 ##Characters
+
+<img src="/images/CharacterPopUp2.jpg" align="right" hspace="40" vspace="40" />
 
 Characters are intended to represent either PCs or important NPCs in your Campaign. Each Character has a name, an avatar which represents the Character, and a bio and a GM Notes section.
 
