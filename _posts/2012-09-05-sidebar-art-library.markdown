@@ -7,18 +7,18 @@ published: true
 
 __Art Library__
 
-The art library allows Game Masters to search Roll20 for images.
+The Art Library (which is the second tab of the Sidebar) is where you search for images to use as tokens, tiles, and maps for your Campaign.
 
-Under the second tab of the sidebar you can search for tokens, maps, and other items.
+To find assets, just type a keyword into the searchbox. Roll20 will automatically search through any files you have uploaded, the Roll20 Marketplace, and popular RPG forums and sites on the webs to find assets matching those keywords. When you find an asset you want to use, just drag and drop it from the Art Library area onto the tabletop to add it to your Campaign.
 
 ##Favorites
 
-If you've just searched items, you can favorite what comes up in the search by selecting the star image next to the item.
+By clicking the star next to any result, you can add the image to Your Library. The image will automatically appear at the top of the results the next time you search for the same keyword.
 
-##Account Art Library
+##Your Library
 
-If you select the general star icon in your art library, you access your personal Art Library, your Marketplace purchases, and an area to keep track of your art Uploads.  Within your personal library, you can tag items to easier find them. 
+If you select the star icon next to the search box, you access Your Library. Your Library includes images you have uploaded, images you have starred from search results, and assets you have purchased in the Roll20 Marketplace. You can add multiple tags to any asset in Your Library, and it will appear in search results for that tag in the future. You can also click the "Upload" tab at the top to upload images to Your Libray by dragging and dropping or choosing them from your file system.
 
-##Deleting content for data usage
+##Your Quota
 
-Roll20 allows 100MBs worth of art assets to be used by a free account.  To free up space, you can simply delete items in your library by selecting the red trash can icon next to the image.  The system will prompt you prior to deleting the data to confirm that you wish to continue.
+Roll20 allows 100MBs worth of art assets to be used by a base account (the default account type).  Note that only images you've uploaded to Your Library (not including asests from the Marketplace) count toward your quota. To free up space, you can simply delete items in Your Library that you've uploaded by selecting the red trash can icon next to the image.  The system will prompt you prior to deleting the data to confirm that you wish to continue.
