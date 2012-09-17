@@ -48,7 +48,7 @@ Shadowrun (and some other systems) use a special style of exploding dice where t
 
 HackMaster (and some other systems) use a special style of exploding dice where the the additional rolls for each dice have 1 subtracted from the roll. To do this, add a p after the exclamation mark. So for example to roll 5 d6's, you would do <code>/roll 5d6!p</code>.
 
-<div class='diceroller'>/roll 5d6p</div>
+<div class='diceroller'>/roll 5d6!p</div>
 
 ## Drop/Keep
 
