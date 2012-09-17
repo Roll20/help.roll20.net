@@ -10,8 +10,7 @@ $(function() {
 						$(this).find(".results").html("<div class='alert alert-danger'>"+results.error+"</div>");
 						return;
 					}
-					results.formattedHtml = engine.format(results.formula);
-					$this.find(".results").html($("#tmpl_chatmessage_rollresult").jqote(results));
+					$this.find(".results").html($("#tmpl_chatmessage_rollresult").jqote(results.origformula + "|" + results.formula + "|" + results.total));
 				});
 			}
 			catch (e) {
