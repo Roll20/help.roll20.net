@@ -7,11 +7,26 @@ published: true
 
 __Journal__
 
-The Roll20 journal, found under the third tab of the right hand sidebar, is a place to store in game worldbuilding information.
+The Journal is a feature which allows you to create Characters and Handouts which you can choose to keep private or share with your players. It serves as a central repository for information about your Campaign.
 
 ##Characters
-To start a new character, click the "+Add" button under the character portion.  The system randomly generates a placeholder name and creates the character.  From this point, "Edit" the character to add images, text, and change who controls the character.  You can allow players to see the data based on selections here, as well as DELETE or ARCHIVE the character.
+
+Characters are intended to represent either PCs or important NPCs in your Campaign. Each Character has a name, an avatar which represents the Character, and a bio and a GM Notes section.
+
+To start a new character, click the "+ Add" button under the Character heading in the Journal tab.  The system randomly generates a placeholder name and creates the character.  From this point, click the "Edit" button to further customize the Character. 
+
+By default, only the GM sees the Character. To allow other Players to see the Character in their Journal tab, add their names to the "In Players Journals" field. You can also choose "All Players" to allow everyone to view the Character.
+
+Players who can view the Character will see the name, avatar, and bio. The GM Notes are only visible to the GM.
+
+The Controlled By field allows you to give Players in your game the ability to "speak" as that Character in the Text Chat. They are also able to edit the Character's information if they control it.
+
+Archiving the Character will put it in long-term storage. You can easily return it to the Journal tab by clicking on the "Archived Items" link that will appear in the list after you've archived at least one Character. 
+
+Deleting the Character will permanently remove it from the Campaign, and cannot be undone.
 
 ##Handouts
-Handouts are controlled very similarly to characters. Under the handout option, click the "+Add" button to start a new handout, which will begin with the default name "Mysterious Note."  From this point, "Edit" the handout to add images, texts, and control who can see the handout.  You can DELETE or ARCHIVE the handout from this screen as well.
 
+Handouts are very similar to Characters and have some of the same fields. The main difference is that Handouts are designed to be either one large image or a long description (or both). 
+
+You must put the Handouts into Players' Journals using the "In Player Journals" field in order for Players to be able to see them. After you've given Players permission to view the Handout, you can also use the "Show to Players" button to force the Handout to open on the screens of Players who can view it.
