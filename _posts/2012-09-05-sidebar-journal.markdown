@@ -27,6 +27,8 @@ Deleting the Character will permanently remove it from the Campaign, and cannot 
 
 ##Handouts
 
+<img src="/images/EditNote.jpg" align="right" hspace="40" vspace="40" />
+
 Handouts are very similar to Characters and have some of the same fields. The main difference is that Handouts are designed to be either one large image or a long description (or both). 
 
 You must put the Handouts into Players' Journals using the "In Player Journals" field in order for Players to be able to see them. After you've given Players permission to view the Handout, you can also use the "Show to Players" button to force the Handout to open on the screens of Players who can view it.
