@@ -7,6 +7,8 @@ published: true
 
 __Art Library__
 
+<img src="/images/SIDEBARart.jpg" align="right" hspace="40" vspace="40" />
+
 The Art Library (which is the second tab of the Sidebar) is where you search for images to use as tokens, tiles, and maps for your Campaign.
 
 To find assets, just type a keyword into the searchbox. Roll20 will automatically search through any files you have uploaded, the Roll20 Marketplace, and popular RPG forums and sites on the webs to find assets matching those keywords. When you find an asset you want to use, just drag and drop it from the Art Library area onto the tabletop to add it to your Campaign.
