@@ -23,4 +23,4 @@ published: true
   
 ## Renaming Tracks
 
-  To rename a track, simple click on its title-- this will allow you to edit the name.
+  To rename a track, simple click on its title in the Jukebox tab of the Sidebar (after you've added it to the Jukebox playlist). Type a new name and press Return to save.
