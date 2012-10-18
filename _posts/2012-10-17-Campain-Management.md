@@ -13,10 +13,13 @@ To create a new campaign, click on the button "+ Start a New Campaign".
 
 ##Campaign Management
 
-###Copy
+###Inviting & Managing Players
+-Looking for Group
 
-###Managing Players
+###Promoting Players to GMs
+
+###Comment System
+
+###Duplicating Campaigns
 
 ###Deleting
-
-###User Permissions
