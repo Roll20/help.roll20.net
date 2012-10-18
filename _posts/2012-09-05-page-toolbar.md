@@ -15,7 +15,7 @@ You manage the pages of your Campaign by clicking on the Page Toolbar button in 
 
 If you hover over a page you'll also see two new buttons appear, one (a gear icon) for accessing the Page Settings dialog box, and the other (a red X) for deleting the page.
 
-To create a new page, just click on the "Create New Page" button on the left-hand side of the Page Toolbar. Enter a name for the new page and press Enter/Return to save.
+To create a new page, just click on the "Create New Page" button on the left-hand side of the Page Toolbar. Change the page's name by clicking on the name under the Page's icon. Enter the new name and press Enter/Return to save.
 
 ## Switching Between Pages
 
