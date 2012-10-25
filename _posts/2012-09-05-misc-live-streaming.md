@@ -5,12 +5,51 @@ categories: advanced misc
 published: true
 ---
 
-
 Live streaming allows you to let lots of other people who aren't players in your game watch the game as it happens. You can have hundreds of even thousands of viewers watch your play session at once. In addition, your play session will be automatically recorded and archived so that you can make it available for playback long after your session has ended.
 
 While there are many ways to live stream, and several services, we're going to focus on one easy way to live stream a game that works well for us (we regularly live stream our game on a bi-weekly basis; in fact, you can see [previous recordings](http://twitch.tv/roll20app) if you want a preview of what the final product will look like). 
 
 We use the free [Twitch.tv](http://twitch.tv) service to actually live stream the session, so if you haven't already, the first thing you'll want to do is [sign up for an account on Twitch](http://www.twitch.tv/). You may also want to refer to [their support site](http://www.twitch.tv/p/help) if you have any questions that are outside the scope of this help article. We'll get you up and running with the basics, but they have features like sharing your previous broadcasts to Youtube, creating highlights, and chatting with your viewers that you'll probably want to take advantage of after you get the live stream going. So, assuming you have your Twitch account, the next thing you need to do is jump ahead to the section that's appropriate for your computer: either MAC or PC (Windows).
+
+## PC (Windows 7)
+
+*Note: The following instructions have been verified to work on Windows 7.*
+
+There is only one piece of software that you will need to download and install.
+
+[XSplit](http://www.xsplit.com/) ($29.94 for a 3 month Premium License/$14.94 Personal License/Free Trial License). This software takes a screencast of your Roll20 session, both audio and video, and broadcasts it to your Twitch live stream so others can view it.
+
+**Set up XSplit**
+
+Now that XSplit is installed, you need to setup and configure it. Launch the program, You'll want to (1.) select “Scene 1”, then (2.) click on "File" and then (3.) select the "Add screen region" option.
+
+<img src="/images/XsplitSS1.png" />
+
+Then (4.) Red crosshairs will appear simply select the region you wish to screencast in this case (5.) the web browser you are using for Roll20.
+
+<img src="/images/XsplitSS2.png" />
+
+Now that proper screen region has been selected for Scene 1 (6.) You can easily resize the scene by simply dragging or (7.) right click on the scene for more advanced tools( such as screen position, color, or cropping)
+
+<img src="/images/XsplitSS3.png" />
+
+Once your Scene looks just how you want it to you are almost ready to broadcast. (8.) Click on “Broadcast” and then (9.) select the  “Add channels” option.
+
+<img src="/images/XsplitSS4.png" />
+
+(10.)The XSplit Broadcaster window will open, from here (11.) click the “Add” button and then (12.) select Justin/TwitchTV.
+
+<img src="/images/XsplitSS5.png" />
+
+The Justin/TwitchTV properties window will open, from here (13.) enter all your Twitch Channel username and password , then (14.) click the “OK” button. Click “Ok” again on the Xsplit Broadcaster window to close it.
+
+<img src="/images/XsplitSS6.png" />
+
+You are now ready to broadcast your Roll20 session via Xsplit to TwitchTV. Simply (15.) click on “Broadcast” and then (16.) select your Justin/TwitchTV Channel.
+
+<img src="/images/XsplitSS7.png" />
+
+To let others view your live stream while you're broadcasting, just send them to http://twitch.tv/your\_twitch\_username, for example http://twitch.tv/roll20app.
 
 ## Mac OS X
 
@@ -55,45 +94,5 @@ Finally, on the Network tab, make sure that (1.) Transmission is set to "Automat
 <img src="/images/livestreamss6.png" />
 
 When you're ready to begin your live stream, just click (2.) the Broadcast button! You don't need to have the Record to disk box checked, as Twitch.tv will automatically record the stream for you as your broadcast it on their servers. Finally, you may want to change (3.) the Preview box from "Source" to "None" during the broadcast, it makes it a little easier on your computer. During the broadcast you will see some information telling you the current bitrate and FPS that you are broadcasting at. If the bit rate is too high for your connection or the FPS is low (less than 10), you may need to adjust some of your settings, such as the recording resolution in CamTwist and the broadcast resolution in the Video tab in Quicktime Broadcaster.
-
-To let others view your live stream while you're broadcasting, just send them to http://twitch.tv/your\_twitch\_username, for example http://twitch.tv/roll20app.
-
-## PC (Window 7)
-
-*Note: The following instructions have been verified to work on Windows 7.*
-
-There is only one piece of software that you will need to download and install.
-
-[XSplit](http://www.xsplit.com/) ($29.94 for a 3 month Premium License/$14.94 Personal License/Free Trial License). This software takes a screencast of your Roll20 session, both audio and video, and broadcasts it to your Twitch live stream so others can view it.
-
-**Set up XSplit**
-
-Now that XSplit is installed, you need to setup and configure it. Launch the program, You'll want to (1.) select “Scene 1”, then (2.) click on "File" and then (3.) select the "Add screen region" option.
-
-<img src="/images/XsplitSS1.png" />
-
-Then (4.) Red crosshairs will appear simply select the region you wish to screencast in this case (5.) the web browser you are using for Roll20.
-
-<img src="/images/XsplitSS2.png" />
-
-Now that proper screen region has been selected for Scene 1 (6.) You can easily resize the scene by simply dragging or (7.) right click on the scene for more advanced tools( such as screen position, color, or cropping)
-
-<img src="/images/XsplitSS3.png" />
-
-Once your Scene looks just how you want it to you are almost ready to broadcast. (8.) Click on “Broadcast” and then (9.) select the  “Add channels” option.
-
-<img src="/images/XsplitSS4.png" />
-
-(10.)The XSplit Broadcaster window will open, from here (11.) click the “Add” button and then (12.) select Justin/TwitchTV.
-
-<img src="/images/XsplitSS5.png" />
-
-The Justin/TwitchTV properties window will open, from here (13.) enter all your Twitch Channel username and password , then (14.) click the “OK” button. Click “Ok” again on the Xsplit Broadcaster window to close it.
-
-<img src="/images/XsplitSS6.png" />
-
-You are now ready to broadcast your Roll20 session via Xsplit to TwitchTV. Simply (15.) click on “Broadcast” and then (16.) select your Justin/TwitchTV Channel.
-
-<img src="/images/XsplitSS7.png" />
 
 To let others view your live stream while you're broadcasting, just send them to http://twitch.tv/your\_twitch\_username, for example http://twitch.tv/roll20app.
