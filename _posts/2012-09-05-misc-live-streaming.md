@@ -5,13 +5,12 @@ categories: advanced misc
 published: false
 ---
 
-<div class="alert alert-success">This documentation page is still under construction and is incomplete. Specifically, the Windows/PC instructions have not your been added.</div>
 
 Live streaming allows you to let lots of other people who aren't players in your game watch the game as it happens. You can have hundreds of even thousands of viewers watch your play session at once. In addition, your play session will be automatically recorded and archived so that you can make it available for playback long after your session has ended.
 
 While there are many ways to live stream, and several services, we're going to focus on one easy way to live stream a game that works well for us (we regularly live stream our game on a bi-weekly basis; in fact, you can see [previous recordings](http://twitch.tv/roll20app) if you want a preview of what the final product will look like). 
 
-We use the free [Twitch.tv](http://twitch.tv) service to actually live stream the session, so if you haven't already, the first thing you'll want to do is [sign up for an account on Twitch](http://www.twitch.tv/). You may also want to refer to [their support site](http://www.twitch.tv/p/help) if you have any questions that are outside the scope of this help article. We'll get you up and running with the basics, but they have features like sharing your previous broadcasts to Youtube, creating highlights, and chatting with your viewers that you'll probably want to take advantage of after you get the live stream going. So, assuming you have your Twitch account, the next thing you need to do is jump ahead to the section that's appropriate for your computer: either PC (Windows) or Mac.
+We use the free [Twitch.tv](http://twitch.tv) service to actually live stream the session, so if you haven't already, the first thing you'll want to do is [sign up for an account on Twitch](http://www.twitch.tv/). You may also want to refer to [their support site](http://www.twitch.tv/p/help) if you have any questions that are outside the scope of this help article. We'll get you up and running with the basics, but they have features like sharing your previous broadcasts to Youtube, creating highlights, and chatting with your viewers that you'll probably want to take advantage of after you get the live stream going. So, assuming you have your Twitch account, the next thing you need to do is jump ahead to the section that's appropriate for your computer: either MAC or PC (Windows).
 
 ## Mac OS X
 
