@@ -2,7 +2,7 @@
 layout: default
 title: Live stream (and record) a play session
 categories: advanced misc
-published: false
+published: true
 ---
 
 
