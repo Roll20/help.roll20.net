@@ -2,6 +2,7 @@
 layout: default
 title: Live stream (and record) a play session
 categories: advanced misc
+published: false
 ---
 
 <div class="alert alert-success">This documentation page is still under construction and is incomplete. Specifically, the Windows/PC instructions have not your been added.</div>
@@ -68,7 +69,7 @@ There is only one piece of software that you will need to download and install.
 
 **Set up XSplit**
 
-Now that Xsplit is installed, you need to setup and configure it. Launch the program, You'll want to (1.) select “Scene 1”, then (2.) click on "File" and then (3.) select the "Add screen region" option.
+Now that XSplit is installed, you need to setup and configure it. Launch the program, You'll want to (1.) select “Scene 1”, then (2.) click on "File" and then (3.) select the "Add screen region" option.
 
 <img src="/images/XsplitSS1.png" />
 
@@ -84,7 +85,7 @@ Once your Scene looks just how you want it to you are almost ready to broadcast.
 
 <img src="/images/XsplitSS4.png" />
 
-(10.)The Xsplit Broadcaster window will open, from here (11.) click the “Add” button and then (12.) select Justin/TwitchTV.
+(10.)The XSplit Broadcaster window will open, from here (11.) click the “Add” button and then (12.) select Justin/TwitchTV.
 
 <img src="/images/XsplitSS5.png" />
 
