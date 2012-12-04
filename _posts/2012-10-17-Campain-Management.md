@@ -8,7 +8,7 @@ published: false
 #Campaign Creation
 While on the **My Campaigns** page, click on the button **+ Start a New Campaign** to create a new campaign. This will bring up a new page where you’ll be able to assign a Title and keyword Tags (these keywords are how players will find your game via the Looking for Group listings). Click the **I’m Ready, Create Campaign!** button to add the new campaign to your list.
 #The Campaign Details Page
-Clicking on either the campaign’s name, icon, or “View Details” link will bring up the campaign’s Details Page. This is where most of the campaign’s management features are located.
+Clicking on either the campaign’s name, icon, or “View Details” link will bring up the campaign’s Details Page. This is where most of the campaign’s management is handled.
 ##Campaign Icon
 This image serves as the icon that represents your campaign. It’s visible from the campaign list, the details page and when your campaign is listed in the Looking for Group index. To add an icon, you can drag an image from your desktop to the indicated image box or click the **Choose a File** button to select one from your files folders. To remove or replace an image, hover your mouse over the current icon image and a **Remove** button will appear on the upper right hand corner of the image. Click the button to remove the image.
 ##Campaign Information
