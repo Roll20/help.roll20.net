@@ -1,7 +1,7 @@
 ---
 layout: default
 title: campaign management
-categories: beginner parent campaign_management
+categories: parent campaign_management
 published: false
 ---
 
