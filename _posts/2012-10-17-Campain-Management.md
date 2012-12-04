@@ -28,7 +28,7 @@ The Invite Players link opens up a new window that offers several methods for ca
 
 Once a player has joined in on a single session, the campaign is added to their campaign list. They can log into the campaign when the GM is not present to manage their character journal and macros.
 ##Looking for Group 
-The Looking for Group link starts up the process of enrolling your campaign into Roll20’s Looking for Group (LFG) listings. If your campaign is currently listed on LFG, a green indicator dot will display following the Looking for Group link on the Details Page. If the campaign is unlisted, the dot will be red. For more information on Looking for Group go here (put link to LFG page here).
+The Looking for Group link starts up the process of enrolling your campaign into Roll20’s Looking for Group (LFG) listings. If your campaign is currently listed on LFG, a green indicator dot will display following the Looking for Group link on the details page. If the campaign is unlisted, the dot will be red. For more information on Looking for Group go here (put link to LFG page here).
 ##Copy/Extend Campaign
 Click on Copy/Extend Campaign to create a duplicate of the currently selected campaign. This brings up a new page where you can set the name and keyword tags of the duplicate. Below is a series of check boxes: players_n_player (The player list), Pages, Decks, Chat Log, Journal (Characters & Handouts) and Jukebox Playlist. Select or deselect what features you’d like copied over into the new campaign. When you’re happy with your selections click on the button **I'm ready, Create Campaign!**. This will add the duplicated campaign to your list.
 ##Chat Archive
