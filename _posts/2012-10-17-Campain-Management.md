@@ -24,7 +24,7 @@ You can launch your campaign via the *Launch Campaign* link located underneath t
 
 Playing a session via Google Hangouts can only be launched via the Details Page. For more information on using Roll20 via Google Hangouts check out this [help document]( /misc-playing-in-google-plus).
 ##Inviting Players
-The Invite Players link opens up a new window that offers several methods for campaign invitation. First is sending invites via email addresses. The second method is to accept pending invitations sent via the Looking for Group listings. The third method is copying the campaign link that's listed on the bottom of the window and sharing it through email, IM, embedded hyperlink, etc. Take care with sharing the link to your campaign. The unique link is tied to the campaign.
+The Invite Players link opens up a new window that offers several methods for campaign invitation. First is sending invites via email addresses. The second method is to accept pending invitations sent via the Looking for Group listings. The third method is copying the campaign link that's listed on the bottom of the window and sharing it through email, IM, embedded hyperlink, etc. Take care with sharing the link to your campaign. This unique link is tied to the campaign.
 
 Once a player has joined in on a single session, the campaign is added to their campaign list. They can log into the campaign when the GM is not present to manage their character journal and macros.
 ##Looking for Group 
