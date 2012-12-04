@@ -20,9 +20,10 @@ This is a message board that you and the players of the current campaign can use
 ##Launching your Campaign
 (link to Launching in Google Hangouts)
 ##Inviting Players
-The Invite Players link opens up a new window that offers several methods for campaign invitation. First is sending invites via email addreses. The second method is to accept pending invitations sent via the Looking for Group tool. The third method is copying the campaign link that's listed on the bottom of the window and sharing it through email, IM, weblink, etc. Take care with sharing the link to your campaign. The unique link is tied to the campaign.
+The Invite Players link opens up a new window that offers several methods for campaign invitation. First is sending invites via email addresses. The second method is to accept pending invitations sent via the Looking for Group tool. The third method is copying the campaign link that's listed on the bottom of the window and sharing it through email, IM, embedded hyperlink, etc. Take care with sharing the link to your campaign. The unique link is tied to the campaign.
 
-Once a player has joined in on a single session, that campaign is added to their campaign list. They can log into the campaign when the GM is not present to manage their character journal and macros.
+Once a player has joined in on a single session, the campaign is added to their campaign list. They can log into the campaign when the GM is not present to manage their character journal and macros.
+
 ##Looking for Group (link to Looking for Group tool)
 ##Copy/Extend Campaign
 Click on Copy/Extend Campaign to create a duplicate of the currently selected campaign. This brings up a new page where you can set the name and keyword tags of the duplicate. Below is a series of check boxes: players_n_player (The player list), Pages, Decks, Chat Log, Journal (Characters & Handouts) and Jukebox Playlist. Select or deselect what features you’d like copied over into the new campaign. When you’re happy with your selections click on the button **I'm ready, Create Campaign!**. This will add the duplicated campaign to your list.
