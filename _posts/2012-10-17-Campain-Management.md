@@ -21,6 +21,7 @@ This is a message board that you and the players of the current campaign can use
 ##Inviting Players
 ##Looking for Group (link to Looking for Group tool)
 ##Copy/Extend Campaign
+Click on Copy/Extend Campaign to create a duplicate of the currently selected campaign. This brings up a new page where you can set the name and keyword tags of the duplicate. Below is a series of check boxes: players_n_player (The player list), Pages, Decks, Chat Log, Journal (Characters & Handouts) and Jukebox Playlist. Select or deselect what features you’d like copied over into the new campaign. When you’re happy with your selections click on the button **I'm ready, Create Campaign!**. This will add the duplicated campaign to your list.
 ##Chat Archive
 The Chat Archive opens a new tab to display the *entire* chat log from all sessions of the current campaign. This includes all chat messages, emotes and dice rolls. It does *not* include whispers between users.
 ##Delete Your Campaign
