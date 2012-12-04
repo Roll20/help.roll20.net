@@ -16,8 +16,10 @@ Underneath the campaign description is a list of every player who has ever joine
 *Tip: If a player’s avatar image uses unorthodox dimensions, it might make it difficult to access the Kick/Promote options. If this happens, right click while your mouse hovers over the avatar image. This will bring up the browser’s right click menu. While this menu is open you should then be able to access the Kick/Promote options*
 ##Campaign Discussion
 This is a message board that you and the players of the current campaign can use to pass information back and forth when not currently in a session.
-
-
-##Duplicating Campaigns
-
-##Delete Campaign
+##Launching your Campaign
+(link to Launching in Google Hangouts)
+##Inviting Players
+##Looking for Group (link to Looking for Group tool)
+##Duplicate Your Campaign
+##Chat Archive
+##Delete Your Campaign
