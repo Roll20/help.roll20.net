@@ -20,7 +20,8 @@ Underneath the campaign description is a list of every player who has ever joine
 ##Campaign Discussion
 This is a message board that you and the players of the current campaign can use to pass information back and forth when not currently in a session.
 ##Launching your Campaign
-You can launch your campaign via the *Launch Campaign* link located underneath the campaign icon (you can do this from the main campaign list too). 
+You can launch your campaign via the *Launch Campaign* link located underneath the campaign icon (you can do this from the main campaign list too).
+
 Playing a session via Google Hangouts can only be launched via the Details Page. For more information on using Roll20 via Google Hangouts check out this [help document]( /misc-playing-in-google-plus).
 ##Inviting Players
 The Invite Players link opens up a new window that offers several methods for campaign invitation. First is sending invites via email addresses. The second method is to accept pending invitations sent via the Looking for Group listings. The third method is copying the campaign link that's listed on the bottom of the window and sharing it through email, IM, embedded hyperlink, etc. Take care with sharing the link to your campaign. The unique link is tied to the campaign.
