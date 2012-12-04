@@ -6,7 +6,7 @@ published: false
 ---
 
 #Campaign Creation
-While on the **My Campaigns** page, click on the button **+ Start a New Campaign** to create a new campaign. This will bring up a new page where you’ll be able to assign a Title and keyword Tags (these keywords are how players will find your game via the Looking for Group tool). Click the **I’m Ready, Create Campaign!** button to add the new campaign to your list.
+While on the **My Campaigns** page, click on the button **+ Start a New Campaign** to create a new campaign. This will bring up a new page where you’ll be able to assign a Title and keyword Tags (these keywords are how players will find your game via the Looking for Group listings). Click the **I’m Ready, Create Campaign!** button to add the new campaign to your list.
 #The Campaign Details Page
 Clicking on either the campaign’s name, icon, or “View Details” link will bring up the campaign’s Details Page. This is where most of the campaign’s management features are located.
 ##Campaign Icon
@@ -20,15 +20,14 @@ Underneath the campaign description is a list of every player who has ever joine
 ##Campaign Discussion
 This is a message board that you and the players of the current campaign can use to pass information back and forth when not currently in a session.
 ##Launching your Campaign
-You can launch your campaign via the *Launch Campaign* link located underneath the campaign icon (you can do this from the main campaign list too).
-
+You can launch your campaign via the *Launch Campaign* link located underneath the campaign icon (you can do this from the main campaign list too). 
 Playing a session via Google Hangouts can only be launched via the Details Page. For more information on using Roll20 via Google Hangouts check out this [help document]( /misc-playing-in-google-plus).
 ##Inviting Players
-The Invite Players link opens up a new window that offers several methods for campaign invitation. First is sending invites via email addresses. The second method is to accept pending invitations sent via the Looking for Group tool. The third method is copying the campaign link that's listed on the bottom of the window and sharing it through email, IM, embedded hyperlink, etc. Take care with sharing the link to your campaign. The unique link is tied to the campaign.
+The Invite Players link opens up a new window that offers several methods for campaign invitation. First is sending invites via email addresses. The second method is to accept pending invitations sent via the Looking for Group listings. The third method is copying the campaign link that's listed on the bottom of the window and sharing it through email, IM, embedded hyperlink, etc. Take care with sharing the link to your campaign. The unique link is tied to the campaign.
 
 Once a player has joined in on a single session, the campaign is added to their campaign list. They can log into the campaign when the GM is not present to manage their character journal and macros.
-
-##Looking for Group (link to Looking for Group tool)
+##Looking for Group 
+The Looking for Group link starts up the process of enrolling your campaign into Roll20’s Looking for Group (LFG) listings. If your campaign is currently listed on LFG, a green indicator dot will display following the Looking for Group link on the Details Page. If the campaign is unlisted, the dot will be red. For more information on Looking for Group go here (put link to LFG page here).
 ##Copy/Extend Campaign
 Click on Copy/Extend Campaign to create a duplicate of the currently selected campaign. This brings up a new page where you can set the name and keyword tags of the duplicate. Below is a series of check boxes: players_n_player (The player list), Pages, Decks, Chat Log, Journal (Characters & Handouts) and Jukebox Playlist. Select or deselect what features you’d like copied over into the new campaign. When you’re happy with your selections click on the button **I'm ready, Create Campaign!**. This will add the duplicated campaign to your list.
 ##Chat Archive
