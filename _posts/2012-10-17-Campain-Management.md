@@ -22,4 +22,6 @@ This is a message board that you and the players of the current campaign can use
 ##Looking for Group (link to Looking for Group tool)
 ##Duplicate Your Campaign
 ##Chat Archive
+The Chat Archive opens a new tab to display the *entire* chat log from all sessions of the current campaign. This includes all chat messages, emotes and dice rolls. It does *not* include whispers between users.
 ##Delete Your Campaign
+Clicking on the Delete Campaign link will prompt Roll20 to ask *“Are you sure you want to delete this campaign? This cannot be undone.”* If you’re certain you want to delete the campaign click on the newly visible button **Yes, Delete**. If you got here by mistake, click Cancel to escape.
