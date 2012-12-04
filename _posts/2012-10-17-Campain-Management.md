@@ -20,7 +20,7 @@ This is a message board that you and the players of the current campaign can use
 (link to Launching in Google Hangouts)
 ##Inviting Players
 ##Looking for Group (link to Looking for Group tool)
-##Duplicate Your Campaign
+##Copy/Extend Campaign
 ##Chat Archive
 The Chat Archive opens a new tab to display the *entire* chat log from all sessions of the current campaign. This includes all chat messages, emotes and dice rolls. It does *not* include whispers between users.
 ##Delete Your Campaign
