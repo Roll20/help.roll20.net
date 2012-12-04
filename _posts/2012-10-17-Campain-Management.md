@@ -17,7 +17,6 @@ Underneath the campaign description is a list of every player who has ever joine
 ##Campaign Discussion
 This is a message board that you and the players of the current campaign can use to pass information back and forth when not currently in a session.
 
-##Promoting Players to GM status
 
 ##Duplicating Campaigns
 
