@@ -33,6 +33,8 @@ Abilities (7.) are designed to work in conjunture with Attributes. Abilites work
 
 Deleting the Character will permanently remove it from the Campaign, and cannot be undone.
 
+<div style='clear: both; height: 10px;'></div>
+
 ##Handouts
 
 <img src="/images/EditNote.jpg" align="right" width="50%" hspace="40" vspace="40" />
