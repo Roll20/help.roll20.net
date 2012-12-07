@@ -2,7 +2,7 @@
 layout: default
 title: Journal
 categories: sidebar
-published: false
+published: true
 ---
 
 The Journal is a feature which allows you to create Characters and Handouts which you can choose to keep private or share with your players. It serves as a central repository for information about your Campaign.
@@ -23,7 +23,7 @@ The (4.) GM Notes are only visible to the GM. Both Bio and GM Note fields have a
 
 The (3.) Controlled By field allows you to give Players in your game the ability to "speak" as that Character in the Text Chat. They are also able to edit the Character's information if they control it.
 
-You can add Attributes (5.) to your Characters. Each attribute has a name, as well as, a current and (optional) max value. Any players that you give permission to edit/control the Character will also be able to edit the Attributes. Attributes can be used as variables in Macros.
+You can add Attributes (5.) to your Characters. Each attribute has a name, as well as, a current and (optional) max value. Any players that you give permission to edit/control the Character will also be able to edit the Attributes. Attributes can be used as variables in [Macros](/macros).
 
 Archiving the Character (6.) will put it in long-term storage. You can easily return it to the Journal tab by clicking on the "Archived Items" link that will appear in the list after you've archived at least one Character. 
 
