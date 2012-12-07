@@ -8,7 +8,7 @@ title: Dynamic Lighting
 
 <img aligh="middle" src=”images/Dynamic_Lighting.jpg” alt="Dynamic Lighting" />
 
-*Dungeon Art by [Greg Taylor]( https://marketplace.roll20.net/browse/set/50/diy-dungeon-blank-pack).  Token Art by [Devin Night]( https://marketplace.roll20.net/browse/set/2/devin-token-pack-1-characters)*
+*Dungeon Art by [Greg Taylor]( https://marketplace.roll20.net/browse/set/50/diy-dungeon-blank-pack),  Token Art by [Devin Night]( https://marketplace.roll20.net/browse/set/2/devin-token-pack-1-characters)*
 
 Dynamic Lighting is an advanced map lighting tool currently available to Mentor & Subscriber users. It calculates line of sight on the fly as tokens are moved across the tabletop.
 
