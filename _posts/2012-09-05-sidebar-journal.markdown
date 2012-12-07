@@ -29,7 +29,7 @@ Archiving the Character (6.) will put it in long-term storage. You can easily re
 
 <img src="/images/CharacterSS2.jpg" align="right" width="50%" hspace="40" vspace="40" />
 
-Abilities (7.) are designed to work in conjunture with Attributes. Abilites work almost extacly as [Macros](/macros). By using an Attribute (8.), that is assigned to a Character, as a variable modifier you can create complex Character based Abilities. Since the variable used in the Ability is linked to a Character Attribute, the value will sync when changed in the Character editor. You can easily add and remove Abilities from your Macro Bar by the Character from the Journal Tab.
+Abilities (7.) are designed to work in conjunture with Attributes. Abilites work almost extacly as [Macros](/macros). By using an Attribute (8.), that is assigned to a Character, as a variable modifier you can create complex Character based Abilities. Since the variable used in the Ability is linked to a Character Attribute, the value will sync when changed in the Character editor. You can easily add and remove Abilities from your Macro Bar by selecting the Character from the Journal Tab.
 
 Deleting the Character will permanently remove it from the Campaign, and cannot be undone.
 
