@@ -2,7 +2,7 @@
 layout: default
 title: Macros
 categories: beginner parent macros
-published: true
+published: false
 ---
 
 __Macros__ are user-defined shortcuts to commands you regularly want to repeat. For example, you can create a macro that shouts a battlecry then performs an attack that you frequently use. Instead of needing to type all of the commands over and over again as you play, you can just type one short command instead.
@@ -65,6 +65,12 @@ Macro <code>#both</code> = <br>
   <code>#d20</code> <code>/roll 1d20+</code><br>
   then, when running the macro, type <code>#d20</code><code>4</code> to get <code>/roll 1d20+4</code><br>
   
+## Attribute Macros
+
+A culmination of the above examples can be used in what we call Attribute Macros. By using an Attribute, that is assigned to a [Character](/sidebar-journal/), as a variable modifier. You can create complex, Character based macros. Since the variables used in the Macro is linked to a Character Attribute the value will sync when changed in the [Character](/sidebar-journal/) editor. The Macro editor supports auto-complete of both nested macros (by pressing “#”) and Attributes from Characters (by pressing “@”).
+
+<img src="/images/CharMacroSS1.jpeg" class="thumb" />
+
 ## Macro Bar
 
 You can also create quick access buttons for any of your macros that will appear in a bar at the bottom of the screen. First, create your macro like normal. Then, to enable the macro quick bar, check off "Show macro quick bar" in the settings menu<br>
