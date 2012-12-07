@@ -38,4 +38,4 @@ While this approach might look very inefficient in comparison to simply tracing 
 
 #Adding Light
 
-Now that you have your obstacles drawn out on the Dynamic Lighting Layer, you now have to add light to your Page. Light is emitted via tokens. You can manage this in **Token Settings**. Under the settings for Auras is the option **Emits Light**. This option allows you to enter a light radius amount and a checkbox for **All Players See Light**. When the checkbox is left unchecked, the only one who can see that token’s light emission is the player who has the assigned permissions to that token.
+Now that you have your obstacles drawn out on the Dynamic Lighting Layer, you now have to add light to your Page. Light is emitted via tokens. You can manage this in **Token Settings**. Under the settings for Auras is the option **Emits Light**. This option allows you to enter a light radius amount and a checkbox for **All Players See Light**. When the checkbox is left unchecked, the only player(s) who can see that token’s light emission are those who have assigned permission to that token.
