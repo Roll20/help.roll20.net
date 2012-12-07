@@ -71,7 +71,7 @@ A culmination of the above examples can be used in what we call Attribute Macros
 
 <img src="/images/CharMacroSS1.jpeg" class="thumb" />
 
-Tip: When using "@" in the Macro editor use the directional Up and Down key to select appropriate Attribute.
+Tip: When using "@" in the Macro editor use the directional Up and Down key to select the appropriate Attribute.
 
 ## Macro Bar
 
