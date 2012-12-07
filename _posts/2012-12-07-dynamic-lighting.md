@@ -20,7 +20,7 @@ In addition to the Map & Background Layer, the Object & Token Layer and the GM O
 
 #How to Activate Dynamic Lighting
 
-Open up your [Page Settings] (/page-toolbar-page-settings) and check the checkbox to activate Dynamic Lighting for the page. *You can use Fog of War In combination with Dynamic Lighting, but one is not dependant on the other to function.*
+Open up your [Page Settings] (/page-toolbar-page-settings) and check the checkbox to activate Dynamic Lighting for that page. *You can use Fog of War In combination with Dynamic Lighting, but one is not dependant on the other to function.*
 
 #How to Add Light Obstructions
 
