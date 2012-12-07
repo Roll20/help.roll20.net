@@ -2,7 +2,7 @@
 layout: default
 title: Journal
 categories: sidebar
-published: true
+published: false
 ---
 
 The Journal is a feature which allows you to create Characters and Handouts which you can choose to keep private or share with your players. It serves as a central repository for information about your Campaign.
