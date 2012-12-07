@@ -25,7 +25,7 @@ With special thanks to the following folks for their contributions to the cause:
 
 **Kristin Carlson** for her razor-sharp focus in forum organization, list making, and patience in helping us write support documents. Kristin is also responsible for creating the excellent 3D dice models and textures used by default in Roll20.
 
-**Tristan Judice** for his efforts in contacting creators to bring their work to Roll20, and his considerable contributions in advertising for the platform.
+**Tristan Judice** for contacting creators to bring their work to Roll20, and his considerable contributions in advertising for the platform.
 
 **[Dylan Todd](http://dylantodd.com/)** for his amazing work creating our beautiful logo.
 
