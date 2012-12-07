@@ -27,8 +27,10 @@ Open up your [Page Settings] (/page-toolbar-page-settings) and check the checkbo
 While on the Dynamic Lighting Layer, you can use all of the drawing tools available to create lines and shapes to draw walls, columns, doors, etc. You can also utilize color to help differentiate different types of light obstructions (ex. lime green for stationary dungeon walls and bright red for doors).
 
 There are two very important factors one should consider in the design of their Dynamic Lighting scheme:
-1. Use fully closed shapes/polygons whenever possible.
-2. Avoid designs where a Token could intentionally wander *inside* a shape – don’t use convex lines.
+<ol>
+<li>Use fully closed shapes/polygons whenever possible.</li>
+<li>Avoid designs where a Token could intentionally wander *inside* a shape – don’t use convex lines.</li>
+</ol>
 
 <img align="middle" src=”images/DL_Walls.jpg” alt="Dynamic Lighting Wall Design" />
 
