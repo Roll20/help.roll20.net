@@ -2,7 +2,7 @@
 layout: default
 title: Macros
 categories: beginner parent macros
-published: false
+published: true
 ---
 
 __Macros__ are user-defined shortcuts to commands you regularly want to repeat. For example, you can create a macro that shouts a battlecry then performs an attack that you frequently use. Instead of needing to type all of the commands over and over again as you play, you can just type one short command instead.
