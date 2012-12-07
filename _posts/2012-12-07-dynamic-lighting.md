@@ -20,7 +20,9 @@ In addition to the Map & Background Layer, the Object & Token Layer and the GM O
 
 #How to Activate Dynamic Lighting
 
-Open up your [Page Settings] (/page-toolbar-page-settings) and check the checkbox to activate Dynamic Lighting for that page. *You can use Fog of War In combination with Dynamic Lighting, but one is not dependant on the other to function.*
+Open up your [Page Settings](/page-toolbar-page-settings)and check the checkbox to activate Dynamic Lighting for that page. *You can use Fog of War In combination with Dynamic Lighting, but one is not dependant on the other to function.*
+
+If you or your players suffer from sluggish dynamic lighting render results you might want to consider checking the option **Only Update on Drop**. What this option does when checked is that the tabletop only redraws the dynamic lighting *after* a token has been picked up and placed elsewhere on the map. This can lessen the render burden for users running on slower connections speeds or when a GM is working with a very large or complex map.
 
 #How to Add Light Obstructions
 
