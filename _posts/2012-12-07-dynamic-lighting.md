@@ -35,3 +35,7 @@ There are two very important factors one should consider in the design of their 
 <img align="middle" src=”images/DL_Walls.jpg” alt="Dynamic Lighting Wall Design" />
 
 While this approach might look very inefficient in comparison to simply tracing the perimeter of a dungeon map’s walls, this does ensure that lighting will work in a predictable fashion. Dynamic Lighting gets very unreliable and unpredictable when you use open, convex lines.
+
+#Adding Light
+
+Now that you have your obstacles drawn out on the Dynamic Lighting Layer, you now have to add light to your Page. Light is emitted via tokens. You can manage this in **Token Settings**. Under the settings for Auras is the option **Emits Light** where you can enter a light radius amount and a checkbox for **All Players See Light**. When the checkbox is left unchecked, the only one who can see that token’s light emission is the player who has the assigned permissions to that token.
