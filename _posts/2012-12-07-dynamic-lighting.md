@@ -32,4 +32,4 @@ There are two very important factors one should consider in the design of their 
 
 <img aligh="middle" src=”images/DL_Walls.jpg” alt="Dynamic Lighting Wall Design" />
 
-While this approach might look very inefficient in comparison to simply tracing the perimeter a dungeon map’s walls, this does ensure that lighting will work in a predictable fashion. Dynamic Lighting gets very unreliable and unpredictable when you use open, convex lines.
+While this approach might look very inefficient in comparison to simply tracing the perimeter of a dungeon map’s walls, this does ensure that lighting will work in a predictable fashion. Dynamic Lighting gets very unreliable and unpredictable when you use open, convex lines.
