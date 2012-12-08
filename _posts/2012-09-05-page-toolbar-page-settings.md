@@ -34,6 +34,6 @@ If you'd like to make your grid lines darker or lighter, you can adjust the opac
 
 For more information on using Fog of War, including how to reveal areas, consult the [Fog of War help guide](/tabletop-toolbox-fog-of-war).
 
-**5. Dynamic Lighting**
+**5. Dynamic Lighting** If you 'd like to use the Fog of war feature, you must first enable it for the page. To do so, select the "Enabled" checkbox. 
 
 **6. GM Opacity** The fog appears as a solid black area to players, but for the GM it's a semi-transparent layer. If you'd like to adjust how dark the fog appears to you (<i>handy for dark maps where it's hard to tell where it is</i>) use the "GM Opacity" slider to adjust how transparent or opaque it appears. Simply slide the slider to the left to make the fog lighter, or to the right to make it darker. If the slider is all the way to the left, the fog will be completely invisible, and if it's all the way right, it will be completely solid.
