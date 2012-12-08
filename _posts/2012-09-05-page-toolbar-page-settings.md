@@ -16,8 +16,7 @@ You will be presented with the Page Settings dialogue.<br>
 
 **1. Page Size** The size of the page canvass can be adjusted here, by changing the width and height values. Page size is measured in inches, with the scale of one inch = five feet, so if you require a map that is fifty feet squared, you would adjust your page size to be ten inches by ten inches.<br>
 
-**2. Background Color** Using the Background Color palette, you can select a fill color for the entire map. Click on the color swatch (white box by default) which will pull up the color chooser. From there, you can either select the color you'd like from the palette, or, for advanced users, enter a specific hexadecimal color code.
-(For a list of colors, try <a href="http://www.december.com/html/spec/colorhex.html">http://www.december.com/html/spec/colorhex.html</a> out).<br>
+**2. Background Color** Using the Background Color palette, you can select a fill color for the entire map. Click on the color swatch (white box by default) which will pull up the color chooser. From there, you can either select the color you'd like from the palette, or, for advanced users, enter a specific hexadecimal color code. (For a list of colors, try <a href="http://www.december.com/html/spec/colorhex.html">http://www.december.com/html/spec/colorhex.html</a> out).<br>
 
 **3. Grid**
 
