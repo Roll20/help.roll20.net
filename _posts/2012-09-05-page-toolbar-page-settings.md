@@ -2,7 +2,7 @@
 layout: default
 title: Page Settings
 categories: beginner page_toolbar
-published: false
+published: true
 ---
 
 There are a number of page specific settings that can be set for each page on your map. To access them, click the page button located on the top right hand corner of your map.<br>
@@ -31,10 +31,13 @@ Just like the background color, you can also select what color you'd like your g
 
 If you'd like to make your grid lines darker or lighter, you can adjust the opacity using the grid opacity slider. This slider will make the grid more, or less transparent, so you can make it fade into the background, or boldly stand out. Simply slide it to the left to make the lines more transparent, or to the right to make them more opaque. If you slide the bar all the way to the right, your lines will become invisible. This is handy if you still want the snap to grid feature, but don't want to see the lines.<br>
 
-## Fog of War
+**4. Fog of War**
 
 If you'd like to use the Fog of War feature, you must first enable it for the page. To do so, select the "Enabled" checkbox. This will turn it on for the page, and cover the entire map in fog.
 
 The fog appears as a solid black area to players, but for the GM it's a semi-transparent layer. If you'd like to adjust how dark the fog appears to you (<i>handy for dark maps where it's hard to tell where it is</i>) use the "GM Opacity" slider to adjust how transparent or opaque it appears. Simply slide the slider to the left to make the fog lighter, or to the right to make it darker. If the slider is all the way to the left, the fog will be completely invisible, and if it's all the way right, it will be completely solid.<br>
 
 For more information on using Fog of War, including how to reveal areas, consult the [Fog of War help guide](/tabletop-toolbox-fog-of-war).
+
+**5. Dynamic Lighting**
+
