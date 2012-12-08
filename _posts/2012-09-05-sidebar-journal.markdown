@@ -25,9 +25,9 @@ The (3.) Controlled By field allows you to give Players in your game the ability
 
 You can add Attributes (5.) to your Characters. Each attribute has a name, as well as, a current and (optional) max value. Any players that you give permission to edit/control the Character will also be able to edit the Attributes. Attributes can be used as variables in [Macros](/macros) and Abilities.
 
-Archiving the Character (6.) will put it in long-term storage. You can easily return it to the Journal tab by clicking on the "Archived Items" link that will appear in the list after you've archived at least one Character. 
-
 <img src="/images/CharacterSS2.jpg" align="right" width="50%" hspace="40" vspace="40" />
+
+Archiving the Character (6.) will put it in long-term storage. You can easily return it to the Journal tab by clicking on the "Archived Items" link that will appear in the list after you've archived at least one Character. 
 
 Abilities (7.) are designed to work in conjunture with Attributes. Abilites work almost extacly as [Macros](/macros). By using an Attribute (8.), that is assigned to a Character, as a variable modifier you can create complex Character based Abilities. Since the variable used in the Ability is linked to a Character Attribute, the value will sync when changed in the Character editor. You can easily add and remove Abilities from your Macro Bar by selecting the Character from the Journal Tab.
 
