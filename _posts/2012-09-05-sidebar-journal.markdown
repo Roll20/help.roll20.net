@@ -9,9 +9,9 @@ The Journal is a feature which allows you to create Characters and Handouts whic
 
 ##Characters
 
-<img src="/images/CharacterSS1.jpg" align="right" width="50%" hspace="40" vspace="40" />
-
 Characters are intended to represent either PCs or important NPCs in your Campaign. Each Character has a name, an avatar which represents the Character, Attributes, Abilities and a Bio and a GM Notes section.
+
+<img src="/images/CharacterSS1.jpg" align="right" width="50%" hspace="40" vspace="40" />
 
 To start a new character, click the (1.) "+ Add" button under the Character heading in the Journal tab. The system randomly generates a (2.) placeholder name and creates the character. From this point, click the "Edit" button to further customize the Character. 
 
