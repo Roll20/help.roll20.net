@@ -2,6 +2,7 @@
 layout: default
 title: Page Settings
 categories: beginner page_toolbar
+published: false
 ---
 
 There are a number of page specific settings that can be set for each page on your map. To access them, click the page button located on the top right hand corner of your map.<br>
@@ -13,9 +14,7 @@ You will be presented with the Page Settings dialogue.<br>
 <img src="/images/PageSettingsSS1.jpeg" />
 
 
-**1. Page Size**
-
-The size of the page canvass can be adjusted here, by changing the width and height values. Page size is measured in inches, with the scale of one inch = five feet, so if you require a map that is fifty feet squared, you would adjust your page size to be ten inches by ten inches.<br>
+**1. Page Size**The size of the page canvass can be adjusted here, by changing the width and height values. Page size is measured in inches, with the scale of one inch = five feet, so if you require a map that is fifty feet squared, you would adjust your page size to be ten inches by ten inches.<br>
 
 ## Background Color
 
