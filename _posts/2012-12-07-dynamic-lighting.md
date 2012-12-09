@@ -1,6 +1,7 @@
 ---
 layout: default
 published: false
+categories: tabletop
 title: Dynamic Lighting
 ---
 
