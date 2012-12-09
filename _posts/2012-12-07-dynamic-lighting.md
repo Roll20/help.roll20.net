@@ -1,7 +1,7 @@
 ---
 layout: default
 published: false
-categories: tabletop
+categories: tabletop_toolbox
 title: Dynamic Lighting
 ---
 
