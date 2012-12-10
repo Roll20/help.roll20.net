@@ -1,9 +1,11 @@
 ---
 layout: default
-published: false
+published: true
 categories: tabletop_toolbox
 title: Dynamic Lighting
 ---
+
+<div class="alert alert-info">Dynamic Lighting is currently only enabled for Campaigns created by paid supporters at the Support and Mentor level.</div>
 
 #What is Dynamic Lighting?
 
