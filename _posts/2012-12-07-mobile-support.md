@@ -2,6 +2,7 @@
 layout: default
 published: false
 category: misc
+title: Mobile Support
 ---
 
 <div class='alert alert-info'>This feature is only available to paid subscribers-- both Mentor and Supporter levels.  If this is something you’re interested in, please visit the [Supporter Page](https://app.roll20.net/account/supporter/).</div>
