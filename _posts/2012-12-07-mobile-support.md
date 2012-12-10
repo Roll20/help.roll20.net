@@ -1,9 +1,10 @@
 ---
 layout: default
 published: false
+category: misc
 ---
 
-*This feature is only available to paid subscribers-- both Mentor and Supporter levels.  If this is something you’re interested in, please visit the [Supporter Page](https://app.roll20.net/account/supporter/).*
+<div class='alert alert-info'>This feature is only available to paid subscribers-- both Mentor and Supporter levels.  If this is something you’re interested in, please visit the [Supporter Page](https://app.roll20.net/account/supporter/).</div>
 
 # How do I activate Mobile Support?
 If you are a subscriber, it should "just work" when you visit the site via tablet.  Do be advised that it is optimized for tablet, not phones, and we have no plans to attempt phone support.
@@ -38,5 +39,3 @@ There is currently a limitation in the Safari Mobile browser which will only all
 
 **Video Chat is Unsupported**
 Mobile browsers don't currently support Flash or WebRTC, so it is currently not possible to use video chat while you are playing in Roll20. You may use Skype mobile (with your desktop counterparts using Skype for desktop) to have a voice chat going while you are using the mobile browser, though.
-
-
