@@ -16,9 +16,11 @@ Dynamic Lighting is an advanced map lighting tool currently available to Mentor 
 
 #The Dynamic Lighting Layer
 
-<img style="float:left" src="/images/DL_Layer.jpg" alt=”The Dynamic Lighting Layer” />
+<img style="float:left; margin-right: 10px;" src="/images/DL_Layer.jpg" alt=”The Dynamic Lighting Layer” />
 
 In addition to the Map & Background Layer, the Object & Token Layer and the GM Overlay Layer is the Dynamic Lighting Layer. This fourth layer’s purpose is for laying down lines and shapes that will serve as walls and/or obstacles that will block out light or line of sight.
+
+<div style="clear: both; height: 10px;"></div>
 
 #How to Activate Dynamic Lighting
 
@@ -28,16 +30,20 @@ If you or your players suffer from sluggish dynamic lighting render results you 
 
 #How to Add Light Obstructions
 
-<img style="float:left" src="/images/DL_Walls.jpg" alt="Dynamic Lighting Wall Design" />
-While on the Dynamic Lighting Layer, you can use all of the drawing tools available to create lines and shapes to draw walls, columns, doors, etc. You can also utilize color to help differentiate different types of light obstructions (ex. lime green for stationary dungeon walls and bright red for doors).
+<img style="float:left; margin-right: 10px;" src="/images/DL_Walls.jpg" alt="Dynamic Lighting Wall Design" />
+While on the Dynamic Lighting Layer, you can use all of the drawing tools available to create lines and shapes to draw walls, columns, doors, etc. You can also utilize color to help differentiate different types of light obstructions (ex. lime green for stationary dungeon walls and bright red for doors). 
 
-There are two very important factors one should consider in the design of their Dynamic Lighting scheme:
+Use the drawing tools to draw outlines of all the walls and other pieces of the map that you want to block light. We suggest using the Polygon Tool for best results.
+
+<!--There are two very important factors one should consider in the design of their Dynamic Lighting scheme:
 <ol>
 <li>Use fully closed shapes/polygons whenever possible.</li>
 <li>Avoid designs where a Token could intentionally wander *inside* a shape – don’t use convex lines.</li>
 </ol>
 
-While this approach might look very inefficient in comparison to simply tracing the perimeter of a dungeon map’s walls, this does ensure that lighting will work in a predictable fashion. Dynamic Lighting gets very unreliable and unpredictable when you use open, convex lines.
+While this approach might look very inefficient in comparison to simply tracing the perimeter of a dungeon map’s walls, this does ensure that lighting will work in a predictable fashion. Dynamic Lighting gets very unreliable and unpredictable when you use open, convex lines. -->
+
+<div style="clear: both; height: 10px;"></div>
 
 #Adding Light
 
