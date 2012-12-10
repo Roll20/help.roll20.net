@@ -24,7 +24,7 @@ If you have difficulties, please report this to the [Community Help Forums](http
 
 # Tips for Using Roll20 on Mobile Devices
 
-** Right-click menu **
+**Right-click menu**
 Since there is no "right-click" on tablets, if you want to bring up the advanced menu for tokens (which you would normally do by right-clicking on a token), just tap and hold on the token for about a second and a half, then release. The advanced menu will pop up and you can proceed.
 
 **Panning vs Selecting**
