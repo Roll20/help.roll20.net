@@ -9,8 +9,6 @@ The Journal is a feature which allows you to create Characters and Handouts whic
 
 ##Characters
 
-<div class='alert alert-info'>The Abilities and Attributes features for Characters is currently only available on the Development Server, which Mentor subscribers can access.</div>
-
 Characters are intended to represent either PCs or important NPCs in your Campaign. Each Character has a name, an avatar which represents the Character, Attributes, Abilities and a Bio and a GM Notes section.
 
 <img src="/images/CharacterSS1.jpg" align="right" width="50%" hspace="40" vspace="40" />
