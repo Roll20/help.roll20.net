@@ -9,14 +9,14 @@ title: Dynamic Lighting
 
 #What is Dynamic Lighting?
 
-<img style="display: block; margin-left: auto; margin-right: auto" src=”/images/Dynamic_Lighting.jpg” alt="Dynamic Lighting" />
+<img style="display: block; margin-left: auto; margin-right: auto" src="/images/Dynamic_Lighting.jpg" alt="Dynamic Lighting" />
 <p style="text-align:center">*Dungeon Art by [Greg Taylor]( https://marketplace.roll20.net/browse/set/50/diy-dungeon-blank-pack),  Token Art by [Devin Night]( https://marketplace.roll20.net/browse/set/2/devin-token-pack-1-characters)*</p>
 
 Dynamic Lighting is an advanced map lighting tool currently available to Mentor & Subscriber users. It calculates line of sight on the fly as tokens are moved across the tabletop.
 
 #The Dynamic Lighting Layer
 
-<img style="float:left" src=”/images/DL_Layer.jpg” alt=”The Dynamic Lighting Layer” />
+<img style="float:left" src="/images/DL_Layer.jpg" alt=”The Dynamic Lighting Layer” />
 
 In addition to the Map & Background Layer, the Object & Token Layer and the GM Overlay Layer is the Dynamic Lighting Layer. This fourth layer’s purpose is for laying down lines and shapes that will serve as walls and/or obstacles that will block out light or line of sight.
 
@@ -28,7 +28,7 @@ If you or your players suffer from sluggish dynamic lighting render results you 
 
 #How to Add Light Obstructions
 
-<img style="float:left" src=”/images/DL_Walls.jpg” alt="Dynamic Lighting Wall Design" />
+<img style="float:left" src="/images/DL_Walls.jpg" alt="Dynamic Lighting Wall Design" />
 While on the Dynamic Lighting Layer, you can use all of the drawing tools available to create lines and shapes to draw walls, columns, doors, etc. You can also utilize color to help differentiate different types of light obstructions (ex. lime green for stationary dungeon walls and bright red for doors).
 
 There are two very important factors one should consider in the design of their Dynamic Lighting scheme:
