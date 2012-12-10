@@ -10,7 +10,7 @@ Any image that is placed on the **Objects and Tokens** or **GM Info Overlay** la
 
 Here is an example of a Token:
 
-<img src='/images/TokenSS1.jpeg' align="left" vspace="10" hspace="35" />
+<img src='/images/TokenSS1.jpg' align="left" vspace="10" hspace="35" />
 
 1. Radial Menu Bubbles: These three input bubbles can be used by the players or the GM as a counter to keep track of health, turns, money, fuel or whatever else proves useful for your game. Click on a bubble to change the value. You can enter a new value (e.g. "20" or "ABC"), and for numerical values you can also enter relative values (e.g. "+5" will add 5 to the current value, or "-10" will subtract 10.)
 
@@ -25,7 +25,7 @@ Here is an example of a Token:
 ##Token Settings
 Clicking the Edit button or double clicking on a Token brings up the Edit Token window:
 
-<img src='/images/TokenSS2.jpeg' />
+<img src='/images/TokenSS2.jpg' />
 
 **1. Represents Character**: Here you can select whether the token represents a [**Character**](/sidebar-journal) or is a None/Generic Token. If the token is set to represent a Character then the token will take sync with that Character and the token will aotumatically be updated with any changes made tot he Character in the [**Journal**](/sidebar-journal).
 
