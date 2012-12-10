@@ -5,7 +5,7 @@ category: misc
 title: Mobile Support
 ---
 
-<div class='alert alert-info'>This feature is only available to paid subscribers-- both Mentor and Supporter levels.  If this is something you’re interested in, please visit the [Supporter Page](https://app.roll20.net/account/supporter/).</div>
+<div class='alert alert-info'>This feature is only available to paid subscribers-- both Mentor and Supporter levels.  If this is something you’re interested in, please visit the <a href="https://app.roll20.net/account/supporter/">Supporter Page</a>.</div>
 
 # How do I activate Mobile Support?
 If you are a subscriber, it should "just work" when you visit the site via tablet.  Do be advised that it is optimized for tablet, not phones, and we have no plans to attempt phone support.
