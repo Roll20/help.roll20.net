@@ -27,7 +27,9 @@ Clicking the Edit button or double clicking on a Token brings up the Edit Token 
 
 <img src='/images/TokenSS2.jpg' />
 
-**1. Represents Character**: Here you can select whether the token represents a [**Character**](/sidebar-journal) or is a None/Generic Token. If the token is set to represent a Character then the token will take sync with that Character and the token will aotumatically be updated with any changes made tot he Character in the [**Journal**](/sidebar-journal).
+**1. Represents Character**: Here you can select whether the token represents a [**Character**](/sidebar-journal) or is a None/Generic Token. If the token is set to represent a Character then the token will take sync with that Character and the token will automatically be updated with any changes made to the Character in the [**Journal**](/sidebar-journal).
+
+<div class='alert alert-info'><strong>Useful Tip:</strong> Set up a Character to represent your PCs, then place tokens across all the pages of your campaign, and use the Represents Character setting to link all the tokens to the Character. Then when your players update their tokens or Character, all the tokens across every page will always stay up-to-date.</div>
 
 **2. Name**: Here you can set the name of the Token. If you choose to use the [**Turn Tracker**](/tabletop-toolbox-turn-tracker) in your game, the Token's name will appear next to its thumbnail picture in the turn list.
 
@@ -49,7 +51,9 @@ So if you have a token that you want all players to see the bars for (like a PC)
 
 Bars: This is where you can set whether any of the three bar elements are either visible and/or editable to the players. The green heart, blue bolt and red cardiograph icons for the bars are there for identifing purposes only. They do not have to represent anything in particular in your game.
 
-You can also input numerical values for the Bar Bubbles directly from the Edit Token window. There's two input fields available for each Bar. The first field is for the Bar's current value and is what's featured in the Token's corresponding Bar Value Bubble. The second field is for the Bar's total value. If it's supplied, Roll20 will use the comparison between the two numbers to render how full or empty that corresponding Bar appears on the Tabletop. The fill will reflect whatever the Player plugs into their Bar Value Bubble while in-game.
+You can also input numerical values for the Bar Bubbles directly from the Edit Token window. There are two input fields available for each Bar. The first field is for the Bar's current value and is what's featured in the Token's corresponding Bar Value Bubble. The second field is for the Bar's total value. If it's supplied, Roll20 will use the comparison between the two numbers to render how full or empty that corresponding Bar appears on the Tabletop. The fill will reflect whatever the Player plugs into their Bar Value Bubble while in-game.
+
+Also note that if the token Represents a Character (as chosen in the field above), you can choose to link each bar to a specific Character Attribute. If you change the value in the bar (via the token settings, radial bubbles, or in the character settings) the value will update automatically.
 
 Auras: An Aura is a translucently filled circle or square that radiates from the center of a Token. You can have up to two Auras active at once on any given Token. To turn one on, make sure it's toggled on to View first and then enter a radius value for the Aura. Next to the Aura's radius input field is a palette button where you can choose the color for the Aura. You can set the Aura to a square instead of a circle by checking off the "Square" checkbox next to the color palette button.
 
