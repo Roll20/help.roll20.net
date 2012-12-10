@@ -5,7 +5,7 @@ categories: tabletop_toolbox
 title: Dynamic Lighting
 ---
 
-<div class="alert alert-info">Dynamic Lighting is currently only enabled for Campaigns created by paid supporters at the Support and Mentor level.</div>
+<div class='alert alert-info'>This feature is only available to paid subscribers-- both Mentor and Supporter levels.  If this is something you’re interested in, please visit the [Supporter Page](https://app.roll20.net/account/supporter/).</div>
 
 #What is Dynamic Lighting?
 
