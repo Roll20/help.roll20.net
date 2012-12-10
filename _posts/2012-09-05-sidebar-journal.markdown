@@ -21,7 +21,9 @@ Players who can view the Character will see the name, avatar, and bio.
 
 The (4.) GM Notes are only visible to the GM. Both Bio and GM Note fields have a plethora of formatting options, as well as, the abilities to add tables and copy and paste from PDFs.
 
-The (3.) Controlled By field allows you to give Players in your game the ability to "speak" as that Character in the Text Chat. They are also able to edit the Character's information if they control it.
+The (3.) Controlled By field allows you to give Players in your game the ability to "speak" as that Character in the Text Chat. They are also able to edit the Character's information if they control it. In additon, if you use the Represents Character feature of the Tokens Settings, players who have permission to control this Character will also be able to control any tokens that represent this character.
+
+<div class="alert alert-info"><strong>Useful Tip:</strong> Set up all your tokens ahead of time and assign them to Characters. Then when your players join your game, just give them control of the Character and they'll be able to control all the tokens for that Character right away.</div>
 
 You can add Attributes (5.) to your Characters. Each attribute has a name, as well as, a current and (optional) max value. Any players that you give permission to edit/control the Character will also be able to edit the Attributes. Attributes can be used as variables in [Macros](/macros) and Abilities.
 
