@@ -13,9 +13,9 @@ With help from **Nolan T. Jones**, a writer and [aspiring comic creator](http://
 
 And featuring **Richard Zayas**, an entrepeneur who helps us stay in business. He is resolved to helping his friends achieve their dreams; his are still up in the air. He currently resides in Washington, D.C. with his wife, Ali, and their fat cat, Zelda. You can reach him on Twitter at [@richardzayas](http://twitter.com/richardzayas).
 
-## Special Thanks
+## Team Mod
 
-With special thanks to the following folks for their contributions to the cause:
+Roll20 couldn't function without the tremendous help of our team of volunteer community moderators. These are the folks who you can thank for making sure that we're aware of issues, and bugging us to get them fixed.
 
 **Zachary Cross** for his invaluable early (and current) aid in taming the community forums.
 
@@ -26,6 +26,12 @@ With special thanks to the following folks for their contributions to the cause:
 **Kristin Carlson** for her razor-sharp focus in forum organization, list making, and patience in helping us write support documents. Kristin is also responsible for creating the excellent 3D dice models and textures used by default in Roll20.
 
 **Tristan Judice** for contacting creators to bring their work to Roll20, and his considerable contributions in advertising for the platform.
+
+**[Gauss](mailto:guass_death1@msn.com)** for his tireless efforts to leave no plea unanswered on the forums.
+
+## Special Thanks
+
+With special thanks to the following for thier contributions to the cause:
 
 **[Dylan Todd](http://dylantodd.com/)** for his amazing work creating our beautiful logo.
 
