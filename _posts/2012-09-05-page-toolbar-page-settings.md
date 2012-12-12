@@ -11,7 +11,7 @@ To edit the settings for a specific page, click the gear icon next to the page y
 <img src="/images/ps-gear-icon.png" />
 
 You will be presented with the Page Settings dialogue.<br>
-<img src="/images/PageSettingsSS1.jpeg" />
+<img src="/images/page-settings.png" />
 
 
 **1. Page Size** The size of the page canvass can be adjusted here, by changing the width and height values. Page size is measured in inches, with the scale of one inch = five feet, so if you require a map that is fifty feet squared, you would adjust your page size to be ten inches by ten inches.<br>
