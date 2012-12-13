@@ -67,7 +67,7 @@ Macro <code>#both</code> = <br>
   
 ## Attribute Macros
 
-A culmination of the above examples can be used in what we call Attribute Macros. By using an Attribute, that is assigned to a [Character](/sidebar-journal/), as a variable modifier ou can create complex Character based macros. Since the variable used in the Macro is linked to a Character Attribute, the value will sync when changed in the [Character](/sidebar-journal/) editor. The Macro editor supports auto-complete of both nested macros (by pressing “#”) and Attributes from Characters (by pressing “@”).
+A culmination of the above examples can be used in what we call Attribute Macros. By using an Attribute, that is assigned to a [Character](/sidebar-journal/), as a variable modifier you can create complex Character based macros. Since the variable used in the Macro is linked to a Character Attribute, the value will sync when changed in the [Character](/sidebar-journal/) editor. The Macro editor supports auto-complete of both nested macros (by pressing “#”) and Attributes from Characters (by pressing “@”).
 
 <img src="/images/CharMacroSS1.jpeg" class="thumb" />
 
