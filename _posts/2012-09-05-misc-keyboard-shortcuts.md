@@ -17,7 +17,6 @@ published: true
 ## Tools
 
 * Ctrl/Cmd+S: Select tool
-* Ctrl/Cmd+D: Drawing select tool
 * Ctrl/Cmd+F: Brush tool
 * Ctrl/Cmd+G: Text tool
 * Ctrl/Cmd+U: Add selected object(s) to turn tracker
@@ -30,12 +29,10 @@ published: true
 ## Drawing
 
 * Shift+Draw: Straight line (<i>snapped to grid</i>)
-* Alt+Draw: Draw an ellipses
-* Shift+Alt+Draw: Draw a circle
 
 ## Moving and Resizing
 
 * Alt+Mouse Wheel: Zoom
-* Shift+Resize: Constrain proportions
+* Alt+Resize: Ignore grid snapping
 * Alt+Move: Ignore grid snapping
 * Right Mouse Button+Drag: Pan
