@@ -54,6 +54,14 @@ Macro <code>#attack</code> = <code>/roll 1d20+9</code><br>
 Macro <code>#both</code> = <br>
 <code>#attack</code><br>
 <code>#damage</code>
+  
+## Attribute Macros
+
+A culmination of the above examples can be used in what we call Attribute Macros. By using an Attribute, that is assigned to a [Character](/sidebar-journal/), as a variable modifier you can create complex Character based macros. Since the variable used in the Macro is linked to a Character Attribute, the value will sync when changed in the [Character](/sidebar-journal/) editor. The Macro editor supports auto-complete of both nested macros (by pressing “#”) and Attributes from Characters (by pressing “@”).
+
+<img src="/images/CharMacroSS1.jpg" class="thumb" />
+
+Tip: When using "@" in the Macro editor use the directional Up and Down key to select the appropriate Attribute.
 
 ## Using a variable with a Macro
 
@@ -64,14 +72,6 @@ Macro <code>#both</code> = <br>
   If I want a macro for 1d20+x (<i>where x is my variable value</i>) I could create the following macro:<br>
   <code>#d20</code> <code>/roll 1d20+</code><br>
   then, when running the macro, type <code>#d20</code><code>4</code> to get <code>/roll 1d20+4</code><br>
-  
-## Attribute Macros
-
-A culmination of the above examples can be used in what we call Attribute Macros. By using an Attribute, that is assigned to a [Character](/sidebar-journal/), as a variable modifier you can create complex Character based macros. Since the variable used in the Macro is linked to a Character Attribute, the value will sync when changed in the [Character](/sidebar-journal/) editor. The Macro editor supports auto-complete of both nested macros (by pressing “#”) and Attributes from Characters (by pressing “@”).
-
-<img src="/images/CharMacroSS1.jpeg" class="thumb" />
-
-Tip: When using "@" in the Macro editor use the directional Up and Down key to select the appropriate Attribute.
 
 ## Macro Bar
 
