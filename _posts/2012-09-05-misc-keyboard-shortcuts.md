@@ -28,7 +28,7 @@ published: true
 
 ## Drawing
 
-* Shift+Draw: Straight line (<i>snapped to grid</i>)
+* Shift+Draw: Draw snapped to grid (straight lines, polygon tool points on edges, squares, etc.)
 
 ## Moving and Resizing
 
