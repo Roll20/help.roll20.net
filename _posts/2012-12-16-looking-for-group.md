@@ -17,4 +17,7 @@ Additional resources for finding games include the [Reddit/r/Roll20LFG](http://w
 
 #Listing Your Game
 ## Automated Search
-To have your game appear in the automated Looking For Group listing first navigate to your campaign's homepage by clicking **Virtual Tabletop** in the top menu and then by clicking your campaign's title. Once the page loads select the **Looking for Players (List in LFG)** option, this should open a popup window. Move the slider from off to on and then hit the **Save Changes** button. Now users will see your listing if they use the automated search and can request to join your game.
+To have your game appear in the automated Looking For Group listing first navigate to your campaign's homepage by clicking **Virtual Tabletop** in the top menu and then by clicking your campaign's title. Once the page loads select the **Looking for Players (List in LFG)** option on the side menu, this should open a popup window. Move the slider from off to on and then hit the **Save Changes** button. Now users will see your listing if they use the automated search and can request to join your game.
+
+##Community Forum
+To post your game to the community forum's Looking For Group listing first navigate to the **Looking For Group** page. Click the **Start a Discussion** button at the top of the page. Enter a relevant title as well as any other additional information. This could include, but is not limited to; the type of game, the language of the game, background information for the story, the number of player required, the time of the next session, and if new players are welcome. Once you are done with your description hit the **Post Discussion** button and wait for responses!
