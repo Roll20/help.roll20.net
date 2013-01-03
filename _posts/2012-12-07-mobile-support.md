@@ -16,13 +16,16 @@ If you are a subscriber, it should "just work" when you visit the site via table
 We do all of our testing under the latest version of iOS, so please make sure that your device is up-to-date to ensure the best experience. You must be running at least iOS 5.1 for it work at all, but iOS 6+ is strongly recommended. In addition, Roll20 will not run on the 1st-generation iPad, due to its limited memory. However, iPad 2 and any generation of the Retina iPads, as well as the iPad mini, are all compatible.
 
 **Android Devices**
-Chrome for Android (latest version) is the only browser we officially support on the Android platform. We do all of our testing for Android on a Nexus 7. There are too many Android devices available to test them all, but in theory anything with the horsepower of a Nexus 7 or better should work fine. 
+Chrome for Android (latest version) is the only browser we officially support on the Android platform. We do all of our testing for Android on a Nexus 7. There are too many Android devices available to test them all, but in theory anything with the horsepower of a Nexus 7 or better should work fine. NOTE: Do not use the "Request Desktop Version" checkbox!
 
-Nook devices as well as Kindles (including the Kindle Fire) are not compatible, as they don't have the requisite computer power.
+Nook devices as well as Kindles (including the Kindle Fire) are not compatible, as they don't have access to the Chrome for Android app.
 
 If you have difficulties, please report this to the [Community Help Forums](http://community.roll20.net/categories/help-support).
 
 # Tips for Using Roll20 on Mobile Devices
+
+**Sidebar**
+Since mobile devices feature screens which have extreme aspect ratios, we automatically hide the sidebar when the device is in portrait orientation (up-and-down), and show the sidebar (chat, token library, etc.) when the device is rotated to the landscape orientation (sideways).
 
 **Right-click menu**
 Since there is no "right-click" on tablets, if you want to bring up the advanced menu for tokens (which you would normally do by right-clicking on a token), just tap and hold on the token for about a second and a half, then release. The advanced menu will pop up and you can proceed.
