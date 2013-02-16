@@ -20,12 +20,11 @@ Roll20 supports more than just your standard polyhedrons when rolling dice, belo
 
 ### Basic Roll <code>NdX</code>
 Rolls **N** traditional (almost, you can have any number of sides that you want) dice with **X** sides per die. **N** must be greater than or equal to 0 and **X** must be greater than or equal to 1.
+
+### Fate/Fudge Roll <code>NdF</code>
+Rolls **N** Fate/Fudge dice. These dice have three sides with values of -1, 0, and 1.
  
 ### Computed Dice Roll <code>(N+Y)dX</code>
+Computes the number of dice to roll based on the values in the parentheses. If the computed value is negative 0 will be used in its place. Dice coputation can be used with both Basic and Fate dice.
 
- * Allows for the number of dice to roll to be calculated using attributes/macros
- * @attr - a numeric attribute from a character sheet
- * Requires parentheses to enclose a valid (post macro/attr subsitution) mathematical expression
-* Fate/Fudge Roll - **NdF**
- * Rolls a die with "three" sides: -1, 0, and 1
- * The **Compound N** syntax can be used for Fate/Fudge rolls
+
