@@ -36,5 +36,12 @@ Modfiers that can change the behavior or outcome of dice rolls. Each modifier st
 * **B** - Basic Roll
 * **F** - Fate/Fudge Roll
 
+Many modifiers compare each die to a target number to decided if the modifier action should be applied. We'll call this a **Compare Point** or **CP** for short. A Compare Point consists of an optional compare operation <code>&lt;</code>,<code>=</code>,<code>&gt;</code> and a target number. If the operation is not specified <code>=</code> is assumed and for most modifiers the entire Compare Point can be left off for the default behavior.
 
+* Example Compare Points
+ * <code>3</code> - If the roll is equal to 3
+ * <code>&gt;2</code> - If the roll is greater than or equal to 2
+ * <code>&lt;18</code> - If the roll is less than or equal to 18
+
+### Exploding Dice <code>!</code>
 
