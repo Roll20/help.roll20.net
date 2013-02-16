@@ -25,9 +25,16 @@ Rolls **N** traditional (almost, you can have any number of sides that you want)
 Rolls **N** Fate/Fudge dice. These dice have three sides with values of -1, 0, and 1.
  
 ### Computed Dice Roll <code>(N+Y)dX</code>
+**NOT WORKING YET**
 Computes the number of dice to roll based on the mathematical expression in the parentheses. If the computed value is negative 0 will be used in its place. Dice coputation can be used with both Basic and Fate dice.
 
 
 ## Roll Modifiers
+
+Modfiers that can change the behavior or outcome of dice rolls. Each modifier states which **Types Of Dice** it can be applied to:
+
+* **B** - Basic Roll
+* **F** - Fate/Fudge Roll
+
 
 
