@@ -94,4 +94,13 @@ Some game systems ask you to roll a large number of dice, and then either drop a
  * <code>8d100d4</code> - Roll 8 d100's and drop the four smallest rolls.
  * <code>8d100dh4</code> - Roll 8 d100's and drop the four largest rolls.
 
-### 
+### Rerolling Dice (B,F) <code>rCP</code>
+Several systems require that certain dice be reroll, for example brutal weapons in D&D 4e require any 1s or 2s to be re-rolled and the orignal die value ignored. The reroll modifier can be specified multiple times to allow rerolling at multiple Compare Points
+
+* Example Rerolls
+ * <code>2d10r&lt;2</code> - Roll 2 d10's and reroll any time a 2 or lower is rolled
+ * <code>8d6r</code> - Roll 8 d6's and reroll any time a 1 is rolled
+ * <code>8d6r2r4r6</code> - Roll 8 d6's and reroll any time a 2, 4, or 6 is rolled
+ 
+ 
+ 
