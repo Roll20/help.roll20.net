@@ -46,7 +46,9 @@ Many modifiers compare each die to a target number to decided if the modifier ac
 ### Target Number / Successes (B,F) - <code>CP</code>
 Normally when you perform a roll, Roll20 reports back the total value of all the dice rolled, plus any modifiers. Some game systems, though, work by rolling a set of dice versus a target number, and then adding up the total number of successes instead.
 
-If one set of dice in a roll is using a Success check then all rolls must use it 
+* Example Success Checks
+ * <code>3d6&gt;3</code> - Roll 3 d6's and count one success for each roll of 3 or higher
+ * <code>10d6&lt;4</code> - Roll 10 d6's and count one success for each roll of 4 or less
 
 ### Failures (B,F) - <code>fCP</code>
  * Extends the **Success** modifier but subtracking from the success count dice that match against the failure CP
