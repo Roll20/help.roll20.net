@@ -112,6 +112,20 @@ You may want to see your results in either ascending or descending order. The so
 
 
 ## Grouped Rolls
-Mutliple rolls can be perfomed within a group via curly braces <code>{4d20}</code>, <code>{3d6+3, 2d8+4}</code>. 
+Mutliple rolls can be perfomed within a group via curly braces using a comma to seperate the sub-roll expressions <code>{3d6+3d4+5, 2d8+4}</code>. Grouped Rolls have their own set of Group Modifiers which perform actions across the whole group.
+
+
+## Grouped Roll Modifiers
+
+Modfiers that can change the behavior or outcome of grouped rolls. Grouped Rolls can have multiple modifiers applied to a group roll to allow for complex dice expressions.
+
+### Keep / Drop <code>khN</code>/<code>klN</code>/<code>dhN</code>/<code>dlN</code>
+The same concept as when used on Dice Rolls but with different behavior for a group.
+For a Grouped Roll with a single sub-roll expression the keep/drop is applied across all rolls in the expresion. For a Grouped Roll with more than one sub-roll expression the keep/drop is applied to the result of each sub-roll expression and entire sub-rolls are kept or dropped.
+
+* Single Sub-Roll Example
+ * <code>{4d6+3d8}k4</code> - Roll 4 d6's and 3 d8's, out of those 7 dice the highest 4 are kept and summed up.
+* Multiple Sub-Roll Example
+ * <code>{4d6+2d8, 3d20+3, 5d10+1}d</code> - Roll each of the three sub-roll expressions and total them up. Drop the sub-roll expression with the lowest total and sum the other two totals as the result.
 
 
