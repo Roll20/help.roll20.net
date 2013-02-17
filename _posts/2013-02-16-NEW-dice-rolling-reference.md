@@ -85,7 +85,7 @@ HackMaster (and some other systems) use a special style of exploding dice where 
 
 
 ### Keep / Drop Dice (B,F) <code>khN</code>/<code>klN</code>/<code>dhN</code>/<code>dlN</code>
-Some game systems ask you to roll a large number of dice, and then either drop a certain number (**N**) of the lowest rolls, or keep only a certain number (**N**) of the highest rolls. Roll20 supports this type of roll through the <code>d</code> and <code>k</code> commands, respectively. The optional **E** parameter can either be <code>h</code> to keep or drop the highest **N** dice or <code>l</code> to keep or drop the lowest **N** dice. When keeping rolls the **E** parameter defaults to <code>h</code> if not specified and when dropping rolls the **E** parameter defaults to <code>l</code> if not specified.
+Some game systems ask you to roll a large number of dice, and then either drop a certain number (**N**) of the lowest rolls, or keep only a certain number (**N**) of the highest rolls. Roll20 supports this type of roll through the <code>d</code> and <code>k</code> commands, respectively. The optional <code>h</code>/<code>l</code> parameter can either be <code>h</code> to keep or drop the highest **N** dice or <code>l</code> to keep or drop the lowest **N** dice. If not specified when keeping rolls the high rolls will be kept and when dropping rolls the low rolls will be dropped.
 
 * Example Keep Rolls
  * <code>8d100k4</code> - Roll 8 d100's and keep the four largest rolls.
