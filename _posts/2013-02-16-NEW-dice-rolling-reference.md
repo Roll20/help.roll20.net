@@ -77,4 +77,14 @@ Shadowrun (and some other systems) use a special style of exploding dice where t
 
 
 ### Penetrating Dice (B,F) <code>!pCP</code>
+HackMaster (and some other systems) use a special style of exploding dice where the the additional rolls for each dice have 1 subtracted from the roll. To do this, add a p after the exclamation mark. A die can penetrate multiple times but the modifier is only ever -1 to each additional die.
+
+* Example Compounding Dice
+ * <code>5d6!p</code> - Rolls 5d6 and explode with a -1 modifier every time a 6 is rolled
+ * <code>5d6!p&gt;5</code> - Rolls 5d6 and explode with a -1 modifier every time a 5 or higher is rolled.
+
+
+### Keep / Drop Dice (B,F) <code>kEN</code> / <code>dEN</code>
+Some game systems ask you to roll a large number of dice, and then either drop a certain number (**N**) of the lowest rolls, or keep only a certain number (**N**) of the highest rolls. Roll20 supports this type of roll through the <code>d</code> and <code>k</code> commands, respectively. The optional **E** parameter can either be <code>h</code> to keep or drop the highest **N** dice or <code>l</code> to keep or drop the lowest **N** dice.
+
 
