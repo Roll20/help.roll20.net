@@ -31,7 +31,7 @@ Computes the number of dice to roll based on the mathematical expression in the 
 
 ## Roll Modifiers
 
-Modfiers that can change the behavior or outcome of dice rolls. Each modifier states which **Types Of Dice** it can be applied to in parentheses after the modifier name.
+Modfiers that can change the behavior or outcome of dice rolls. Each modifier states which **Types Of Dice** it can be applied to in parentheses after the modifier name. Rolls can have multiple modifiers applied to a single roll to allow for complex dice expressions.
 
 * **B** - Basic Roll
 * **F** - Fate/Fudge Roll
@@ -102,5 +102,13 @@ Several systems require that certain dice be reroll, for example brutal weapons 
  * <code>8d6r</code> - Roll 8 d6's and reroll any time a 1 is rolled
  * <code>8d6r2r4r6</code> - Roll 8 d6's and reroll any time a 2, 4, or 6 is rolled
  
- 
- 
+
+### Sorting Dice (B,F) <code>sO</code>
+You may want to see your results in either ascending or descending order. The sorting modifier does just this. The order **O** parameter is optional and specifies the order to sort with <code>a</code> for ascending and <code>d</code> for descending. Sorting defaults to ascending if **O** is not specified. 
+
+* Example Rerolls
+ * <code>8d6s</code> - Roll 8 d6's and sort the results in ascending order
+ * <code>8d6sd</code> - Roll 8 d6's and sort the results in descending order
+
+
+## Grouped Rolls
