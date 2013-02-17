@@ -123,9 +123,35 @@ Modfiers that can change the behavior or outcome of grouped rolls. Grouped Rolls
 The same concept as when used on Dice Rolls but with different behavior for a group.
 For a Grouped Roll with a single sub-roll expression the keep/drop is applied across all rolls in the expresion. For a Grouped Roll with more than one sub-roll expression the keep/drop is applied to the result of each sub-roll expression and entire sub-rolls are kept or dropped.
 
-* Single Sub-Roll Example
+* Single Sub-Roll Keep Example
  * <code>{4d6+3d8}k4</code> - Roll 4 d6's and 3 d8's, out of those 7 dice the highest 4 are kept and summed up.
-* Multiple Sub-Roll Example
+* Multiple Sub-Roll Drop Example
  * <code>{4d6+2d8, 3d20+3, 5d10+1}d1</code> - Roll each of the three sub-roll expressions and total them up. Drop the sub-roll expression with the lowest total and sum the other two totals as the result.
+ 
+### Target Number / Successes (B,F) - <code>CP</code>
+The same concept as when using on Dice Rolls but with different behavor for a group. For a Grouped Roll with a single sub-roll expression the success check is done after the remaining math expressions have been totaled into each roll. Single sub-roll groups are also useful when doing a success check on a roll that has another Compare Point enabled modifer. For a Grouped Roll with a multiple sub-roll expression the success check is applied to the esult of each sub-roll expression.
 
+* Single Sub-Roll Success Example - **NOT WORKING YET**
+ * <code>{3d20+5}&gt;21</code> - Roll 3 d20's, for each roll add 5 and then count a success for each result of 21 or more.
+ * <code>{2d6!}&gt;4</code> - Roll 2d6 exploding and count a success for each roll of 4 or greater.
+* Multiple Sub-Roll Success Example
+ * <code>{4d6+2d8, 3d20+3, 5d10+1}&gt;40</code> - Roll each of the three sub-roll expression and total them up. Count one success for each sub-roll total of 40 or more. 
 
+### Failures (B,F) - <code>fCP</code>
+Failure checks on groups work just like success checks.
+
+* Single Sub-Roll Failure Example - **NOT WORKING YET**
+ * <code>{3d20+5}&gt;21f&lt;10</code> - Roll 3 d20's, for each roll add 5 and then count a success for each result of 21 or more and count a failure for each result of 10 or less.
+ * <code>{2d6!}&gt;4f1</code> - Roll 2d6 exploding and count a success for each roll of 4 or greater and a failure for each roll of 1.
+* Multiple Sub-Roll Failure Example
+ * <code>{4d6+2d8, 3d20+3, 5d10+1}&gt;40f&lt;10</code> - Roll each of the three sub-roll expression and total them up. Count one success for each sub-roll total of 40 or more and one failure for each sub-roll total of 10 or less.
+ 
+
+### Multiple Rolls <code>xN</code>
+**NOT WORKING YET**
+Executes the sub-rolls in the group **N** times, displaying each result seperately.
+
+* Multiple Rolls Example
+ * {1d20 + 2}x5 - Rolls 1 d20 and adds 2 to it 5 times.
+ 
+ 
