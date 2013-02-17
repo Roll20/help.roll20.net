@@ -103,8 +103,8 @@ Several systems require that certain dice be reroll, for example brutal weapons 
  * <code>8d6r2r4r6</code> - Roll 8 d6's and reroll any time a 2, 4, or 6 is rolled
  
 
-### Sorting Dice (B,F) <code>sO</code>
-You may want to see your results in either ascending or descending order. The sorting modifier does just this. The order **O** parameter is optional and specifies the order to sort with <code>a</code> for ascending and <code>d</code> for descending. Sorting defaults to ascending if **O** is not specified. 
+### Sorting Dice (B,F) <code>s</code>/<code>sa</code>/<code>sd</code>
+You may want to see your results in either ascending or descending order. The sorting modifier does just this. The order parameter is optional and specifies the order to sort with <code>a</code> for ascending and <code>d</code> for descending. Sorting defaults to ascending if order is not specified. 
 
 * Example Rerolls
  * <code>8d6s</code> - Roll 8 d6's and sort the results in ascending order
