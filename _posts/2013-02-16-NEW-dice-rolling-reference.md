@@ -43,6 +43,7 @@ Many modifiers compare each die to a target number to decided if the modifier ac
  * <code>&gt;2</code> - If the roll is greater than or equal to 2
  * <code>&lt;18</code> - If the roll is less than or equal to 18
  
+ 
 ### Target Number / Successes (B,F) - <code>CP</code>
 Normally when you perform a roll, Roll20 reports back the total value of all the dice rolled, plus any modifiers. Some game systems, though, work by rolling a set of dice versus a target number, and then adding up the total number of successes instead.
 
@@ -50,8 +51,14 @@ Normally when you perform a roll, Roll20 reports back the total value of all the
  * <code>3d6&gt;3</code> - Roll 3 d6's and count one success for each roll of 3 or higher
  * <code>10d6&lt;4</code> - Roll 10 d6's and count one success for each roll of 4 or less
 
+
 ### Failures (B,F) - <code>fCP</code>
- * Extends the **Success** modifier but subtracking from the success count dice that match against the failure CP
+Some systems build on success checks by also including failures. Failure checks only work when a success check is already being done and each failure subtracts one from the total number of successes.
+
+* Example Failure Checks
+ * <code>3d6&gt;3f1</code> - Roll 3 d6's and count one success for each roll of 3 or higher and one failure for each 1
+ * <code>10d6&lt;4f&gt;5</code> - Roll 10 d6's and count one success for each roll of 4 or less and one failure for each roll of 5 or more
+ 
 
 ### Exploding Dice (B,F) <code>!CP</code>
 Exploding dice, also known as "rule of 6" or "rule of 10s" depending on your gaming system, rolls an additional die if the maximum is rolled. If the additional roll is also the maximum number the additional rolls keep on going! The Compare Point can be specified to change the exploding trigger.
@@ -59,6 +66,7 @@ Exploding dice, also known as "rule of 6" or "rule of 10s" depending on your gam
 * Example Exploding Dice
  * <code>3d6!</code> - Rolls 3d6 and explodes every time a 6 is rolled
  * <code>3d6!&gt;5</code> - Rolls 3d6 and explodes every time a 5 or 6 is rolled
+
 
 ### Compounding Dice (B,F) <code>!!CP</code>
 Shadowrun (and some other systems) use a special style of exploding dice where the the additional rolls for each dice are added together as a single "roll". To do this, just use two exclamation marks instead of one. With the compounding exploding rolls a single roll can be infinitely high! The Compare Point can be specified to change the exploding trigger.
@@ -68,5 +76,5 @@ Shadowrun (and some other systems) use a special style of exploding dice where t
  * <code>5d6!!5</code> - Rolls 5d6 and compound every time a 5 is rolled, 6's will be treated as a normal roll
 
 
-
+### Penetrating Dice (B,F) <code>!pCP</code>
 
