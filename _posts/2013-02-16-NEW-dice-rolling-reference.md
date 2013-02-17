@@ -84,7 +84,7 @@ HackMaster (and some other systems) use a special style of exploding dice where 
  * <code>5d6!p&gt;5</code> - Rolls 5d6 and explode with a -1 modifier every time a 5 or higher is rolled.
 
 
-### Keep / Drop Dice (B,F) <code>kEN</code> / <code>dEN</code>
+### Keep / Drop Dice (B,F) <code>khN</code>/<code>klN</code>/<code>dhN</code>/<code>dlN</code>
 Some game systems ask you to roll a large number of dice, and then either drop a certain number (**N**) of the lowest rolls, or keep only a certain number (**N**) of the highest rolls. Roll20 supports this type of roll through the <code>d</code> and <code>k</code> commands, respectively. The optional **E** parameter can either be <code>h</code> to keep or drop the highest **N** dice or <code>l</code> to keep or drop the lowest **N** dice. When keeping rolls the **E** parameter defaults to <code>h</code> if not specified and when dropping rolls the **E** parameter defaults to <code>l</code> if not specified.
 
 * Example Keep Rolls
@@ -103,7 +103,7 @@ Several systems require that certain dice be reroll, for example brutal weapons 
  * <code>8d6r2r4r6</code> - Roll 8 d6's and reroll any time a 2, 4, or 6 is rolled
  
 
-### Sorting Dice (B,F) <code>s</code>/<code>sa</code>/<code>sd</code>
+### Sorting Dice (B,F) <code>sa</code>/<code>sd</code>
 You may want to see your results in either ascending or descending order. The sorting modifier does just this. The order parameter is optional and specifies the order to sort with <code>a</code> for ascending and <code>d</code> for descending. Sorting defaults to ascending if order is not specified. 
 
 * Example Rerolls
@@ -112,3 +112,6 @@ You may want to see your results in either ascending or descending order. The so
 
 
 ## Grouped Rolls
+Mutliple rolls can be perfomed within a group via curly braces <code>{4d20}</code>, <code>{3d6+3, 2d8+4}</code>. 
+
+
