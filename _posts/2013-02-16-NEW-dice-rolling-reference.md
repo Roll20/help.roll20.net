@@ -31,7 +31,7 @@ Computes the number of dice to roll based on the mathematical expression in the 
 
 ## Roll Modifiers
 
-Modfiers that can change the behavior or outcome of dice rolls. Each modifier states which **Types Of Dice** it can be applied to:
+Modfiers that can change the behavior or outcome of dice rolls. Each modifier states which **Types Of Dice** it can be applied to in parentheses after the modifier name.
 
 * **B** - Basic Roll
 * **F** - Fate/Fudge Roll
