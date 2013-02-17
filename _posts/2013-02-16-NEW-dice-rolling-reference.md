@@ -153,6 +153,6 @@ Failure checks on groups work just like success checks.
 Executes the sub-rolls in the group **N** times, displaying each result seperately.
 
 * Multiple Rolls Example
- * {1d20 + 2}x5 - Rolls 1 d20 and adds 2 to it 5 times.
+ * {1d20 + 2}x5 - Rolls 1 d20 and adds 2, then repeats this 4 more times. 5 seperate results will be displayed.
  
  
