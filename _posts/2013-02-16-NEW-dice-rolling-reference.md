@@ -42,6 +42,14 @@ Many modifiers compare each die to a target number to decided if the modifier ac
  * <code>3</code> - If the roll is equal to 3
  * <code>&gt;2</code> - If the roll is greater than or equal to 2
  * <code>&lt;18</code> - If the roll is less than or equal to 18
+ 
+### Target Number / Successes (B,F) - <code>CP</code>
+Normally when you perform a roll, Roll20 reports back the total value of all the dice rolled, plus any modifiers. Some game systems, though, work by rolling a set of dice versus a target number, and then adding up the total number of successes instead.
+
+If one set of dice in a roll is using a Success check then all rolls must use it 
+
+### Failures (B,F) - <code>fCP</code>
+ * Extends the **Success** modifier but subtracking from the success count dice that match against the failure CP
 
 ### Exploding Dice (B,F) <code>!CP</code>
 Exploding dice, also known as "rule of 6" or "rule of 10s" depending on your gaming system, rolls an additional die if the maximum is rolled. If the additional roll is also the maximum number the additional rolls keep on going! The Compare Point can be specified to change the exploding trigger.
@@ -51,10 +59,11 @@ Exploding dice, also known as "rule of 6" or "rule of 10s" depending on your gam
  * <code>3d6!&gt;5</code> - Rolls 3d6 and explodes every time a 5 or 6 is rolled
 
 ### Compounding Dice (B,F) <code>!!CP</code>
-Shadowrun (and some other systems) use a special style of exploding dice where the the additional rolls for each dice are added together as a single "roll". To do this, just use two exclamation marks instead of one. With the compounding exploding rolls a single roll can be infinitely high!
+Shadowrun (and some other systems) use a special style of exploding dice where the the additional rolls for each dice are added together as a single "roll". To do this, just use two exclamation marks instead of one. With the compounding exploding rolls a single roll can be infinitely high! The Compare Point can be specified to change the exploding trigger.
 
 * Example Compounding Dice
  * <code>5d6!!</code> - Rolls 5d6 and compound every time a 6 is rolled
+ * <code>5d6!!5</code> - Rolls 5d6 and compound every time a 5 is rolled, 6's will be treated as a normal roll
 
 
 
