@@ -36,12 +36,22 @@ Modfiers that can change the behavior or outcome of dice rolls. Each modifier st
 * **B** - Basic Roll
 * **F** - Fate/Fudge Roll
 
-Many modifiers compare each die to a target number to decided if the modifier action should be applied. We'll call this a **Compare Point** or **CP** for short. A Compare Point consists of an optional compare operation <code>&lt;</code>,<code>=</code>,<code>&gt;</code> and a target number. If the operation is not specified <code>=</code> is assumed and for most modifiers the entire Compare Point can be left off for the default behavior.
+Many modifiers compare each die to a target number to decided if the modifier action should be applied. We'll call this a **Compare Point** or **CP** for short in the roll modifiers below. A Compare Point consists of an optional compare operation <code>&lt;</code>,<code>=</code>,<code>&gt;</code> and a target number. If the operation is not specified <code>=</code> is assumed and for most modifiers the entire Compare Point can be left off for the default behavior.
 
 * Example Compare Points
  * <code>3</code> - If the roll is equal to 3
  * <code>&gt;2</code> - If the roll is greater than or equal to 2
  * <code>&lt;18</code> - If the roll is less than or equal to 18
 
-### Exploding Dice <code>!</code>
+### Exploding Dice (B,F) <code>!CP</code>
+Exploding dice, also known as "rule of 6" or "rule of 10s" depending on your gaming system, rolls an additional die if the maximum is rolled. If the additional roll is also the maximum number the additional rolls keep on going! The Compare Point can be specified to change the exploding trigger.
+
+* Example Exploding Dice
+ * <code>3d6!</code> - Rolls 3d6 and explodes every time a 6 is rolled
+ * <code>3d6!&gt;5</code> - Rolls 3d6 and explodes every time a 5 or 6 is rolled
+
+### Compounding Dice (B,F) <code>!!CP</code>
+
+
+
 
