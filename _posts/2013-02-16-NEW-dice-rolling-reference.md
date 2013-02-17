@@ -51,6 +51,10 @@ Exploding dice, also known as "rule of 6" or "rule of 10s" depending on your gam
  * <code>3d6!&gt;5</code> - Rolls 3d6 and explodes every time a 5 or 6 is rolled
 
 ### Compounding Dice (B,F) <code>!!CP</code>
+Shadowrun (and some other systems) use a special style of exploding dice where the the additional rolls for each dice are added together as a single "roll". To do this, just use two exclamation marks instead of one. With the compounding exploding rolls a single roll can be infinitely high!
+
+* Example Compounding Dice
+ * <code>5d6!!</code> - Rolls 5d6 and compound every time a 6 is rolled
 
 
 
