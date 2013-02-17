@@ -11,6 +11,7 @@ Roll20 features support for a wide array of dice mechanics. On this page we've c
 
 Rolling dice in Roll20 is easy. Just type the <code>/roll</code> command into the text chat box, followed by a formula. In most cases, the formula is the same as the one that's printed in your game's instructions. For example, you might know that to roll an attack roll you need to roll a "D20 plus your attack modifier". In Roll20, you would just type <code>/roll 1d20+5</code>. If you hit and you need to roll 3d6+2 damage, you would just type <code>/roll 3d6+2</code>. Finally, you can also string multiple rolls together. If you have an attack that does two types of damage, you might do <code>/roll 2d6+5 + 1d8</code>.
 
+**THIS IS USING THE OLD DICE SYNTAX! IGNORE UNTIL ON PROD**
 <div class='diceroller'>/roll 1d20+5</div>
 
 
