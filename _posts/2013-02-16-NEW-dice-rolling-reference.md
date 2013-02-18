@@ -120,8 +120,7 @@ Mutliple rolls can be perfomed within a group via curly braces using a comma to 
 Modfiers that can change the behavior or outcome of grouped rolls. Grouped Rolls can have multiple modifiers applied to a group roll to allow for complex dice expressions.
 
 ### Keep / Drop <code>khN</code>/<code>klN</code>/<code>dhN</code>/<code>dlN</code>
-The same concept as when used on Dice Rolls but with different behavior for a group.
-For a Grouped Roll with a single sub-roll expression the keep/drop is applied across all rolls in the expresion. For a Grouped Roll with more than one sub-roll expression the keep/drop is applied to the result of each sub-roll expression and entire sub-rolls are kept or dropped.
+To apply a keep or drop modifier across multiple types of dice wrap the roll in a group. With a single Sub-Roll in the group the keep/drop operation is applied across all rolls. To choose the best or worse roll expression multiple sub-groups can be used. In this case the keep/drop operation is applied to the final result of each subgroup.
 
 * Single Sub-Roll Keep Example
  * <code>{4d6+3d8}k4</code> - Roll 4 d6's and 3 d8's, out of those 7 dice the highest 4 are kept and summed up.
@@ -147,11 +146,3 @@ Failure checks on groups work just like success checks.
  * <code>{4d6+2d8, 3d20+3, 5d10+1}&gt;40f&lt;10</code> - Roll each of the three sub-roll expression and total them up. Count one success for each sub-roll total of 40 or more and one failure for each sub-roll total of 10 or less.
  
 
-### Multiple Rolls <code>xN</code>
-**NOT WORKING YET**
-Executes the sub-rolls in the group **N** times, displaying each result seperately.
-
-* Multiple Rolls Example
- * {1d20 + 2}x5 - Rolls 1 d20 and adds 2, then repeats this 4 more times. 5 seperate results will be displayed.
- 
- 
