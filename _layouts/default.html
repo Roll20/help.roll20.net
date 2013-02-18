@@ -22,12 +22,13 @@ sidebar_cats:
     <link href="/twitterbootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <link href="/twitterbootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css">
     <link href="/css/pygments.css" media="screen" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="/css/roll20help.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/css/roll20help.css?v=3" type="text/css" media="all">
+    <link rel="stylesheet" href="http://app.roll20dev.net/css/fonts.css" />
     <link href="https://app.roll20.net/assets/topbar.css" rel="stylesheet" />
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
     <script src="/twitterbootstrap/js/bootstrap.min.js" type="text/javascript"></script>
     <script src="/js/roll20help.js?v=2" type="text/javascript"></script>
-    <script type="text/javascript" src="http://app.roll20.net/assets/dengine.js?v=1"></script>
+    <script type="text/javascript" src="http://app.roll20dev.net/assets/dengine.js?v=1"></script>
     <script type="text/javascript" src="http://app.roll20.net/js/jquery.jqote2.js"></script>
     <script type="text/javascript" src="http://app.roll20.net/js/underscore.js"></script>
   </head>
@@ -175,20 +176,24 @@ sidebar_cats:
       }
     </script>
 
-    <script type="text/html" id="tmpl_chatmessage_rollresult">
-  <div class='message rollresult you'>
-    <div class="formula" style="margin-bottom: 3px;">
-      rolling <$= this.origformula $>
-    </div>
-    <div class="clear"></div>
-    <div class="formula">
-      <$= this.formattedHtml $>
-    </div>
-    <strong> = </strong>
-    <div class="rolled">
-      <$= this.total $>
-    </div>
-  </div>
+    <script id='tmpl_chatmessage_newroll' type='text/html'>
+     
+      <div class='message rollresult you'>
+  
+      <div class='formula' style='margin-bottom: 3px;'>
+        rolling <$! this.origRoll $>
+      </div>
+      <div class='clear'></div>
+      <div class='formula formattedformula'>
+        <$= this.htmlcontent.formula $>
+      </div>
+      <strong>
+        =
+      </strong>
+      <div class='rolled'>
+        <$! this.htmlcontent.total $>
+      </div>
+      </div>
     </script>
 
     <script type="text/javascript">

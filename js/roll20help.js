@@ -1,17 +1,24 @@
 $(function() {
 	
 	var engine = d20.dice_engine();
+	var rollre = /\/((roll)|(r)|(gmroll)|(gr))[ ]+/i;
 	$(".diceroller").on("keyup", function(e) {
 		var $this = $(this);
+		var origroll = $this.find("input").val().replace(rollre, "");
 		if(e.which == 13) {
 			try{
-				engine.process($this.find("input").val(), function(results) {
+				engine.process(origroll, function(results) {
 					if(results.error) {
 						$(this).find(".results").html("<div class='alert alert-danger'>"+results.error+"</div>");
 						return;
 					}
-					results.formattedHtml = engine.format(results.formula);
-					$this.find(".results").html($("#tmpl_chatmessage_rollresult").jqote(results));
+					var htmlcontent = d20.dice_formatter.getHtmlForResult(results);
+					var attrs = {
+						htmlcontent: htmlcontent,
+						origRoll: origroll
+					};
+					console.log(attrs);
+					$this.find(".results").html($("#tmpl_chatmessage_newroll").jqote(attrs));
 				});
 			}
 			catch (e) {

@@ -134,3 +134,118 @@ footer {
 	border: 5px solid #D1D1D1;
 	border-radius: 3px;
 }
+
+ .formula,  .rolled {
+	display: inline;
+	padding: 4px;
+	background: white;
+	border-radius: 3px;
+	border: 1px solid #D1D1D1;
+	font-size: 1.1em;
+	line-height: 2.0em;
+	word-wrap: break-word;
+}
+
+ .formula .parsegroup {
+	display: inline;
+}
+
+ .formula .parsegroup .parsegroupitem {
+	display: inline;
+}
+
+.withouticons .dicegrouping .diceroll .backing {
+	display: none !important;
+}
+
+ .dicegrouping {
+	display: inline;
+}
+
+ .dicegrouping .diceroll {
+	display: inline-block;
+	font-size: 1.2em;
+}
+
+ .dicegrouping .diceroll .dicon {
+	display: inline-block;
+	min-width: 30px;
+	text-align: center;
+	position: relative;
+}
+
+ .dicegrouping .diceroll .didroll {
+	text-shadow:
+     -1px -1px 1px #FFFFFF,  
+      1px -1px 1px #FFFFFF,
+      -1px 1px 1px #FFFFFF,
+       1px 1px 1px #FFFFFF;
+	z-index: 2;
+	position: relative;
+	color: black;
+	height: 29px;
+	margin-top: -3px;
+	top: 0px;
+	text-align: center;
+}
+
+ .dicegrouping .diceroll .backing {
+	position: absolute;
+	top: -2px;
+	left: 0px;
+	width: 100%;
+	text-align: center;
+	font-size: 30px;
+	color: #8FB1D9;
+	text-shadow: 0px 0px 3px #8FB1D9;
+	opacity: 0.75;
+	pointer-events: none;
+	z-index: 1;
+}
+
+ .dicegrouping .diceroll.d20 .backing {
+	font-family: "dicefontd20";
+}
+ .dicegrouping .diceroll.d4 .backing {
+	font-family: "dicefontd4";
+}
+ .dicegrouping .diceroll.d6 .backing {
+	font-family: "dicefontd6";
+}
+ .dicegrouping .diceroll.d8 .backing {
+	font-family: "dicefontd8";
+}
+ .dicegrouping .diceroll.d10 .backing {
+	font-family: "dicefontd10";
+}
+ .dicegrouping .diceroll.d12 .backing {
+	font-family: "dicefontd12";
+}
+
+ .dicegrouping .diceroll.d20 .backing:after,  .dicegrouping .diceroll.d12 .backing:after ,  .dicegrouping .diceroll.d10 .backing:after ,  .dicegrouping .diceroll.d8 .backing:after ,  .dicegrouping .diceroll.d6 .backing:after ,  .dicegrouping .diceroll.d4 .backing:after  {
+	content: "0";
+}
+
+ .rolled {
+	font-weight: bold;
+	color: black;
+	font-size: 1.2em;
+}
+
+ .parsegroup .parsegroupitem.dropped .diceroll {
+	opacity: 0.40;
+}
+
+ .dicegrouping .diceroll.dropped {
+	opacity: 0.40;
+}
+
+ .dicegrouping .diceroll.critsuccess .didroll {
+	color: #247305;
+	font-weight: bold;
+}
+
+ .dicegrouping .diceroll.critfail .didroll {
+	color: #730505;
+	font-weight: bold;
+}
