@@ -28,7 +28,11 @@ You can also include non-formula text in your roll to indicate what that roll is
 
 <div class="diceroller">/roll 1d20+5 Roll for Initiative</div>
 
-**Note:** If you want to include any numbers, parentheses, or <code>+</code>, <code>-</code>, <code>*</code>, or <code>/</code> in your additional text, you can preface it with a <code>\\</code> to separate the formula from the text and keep the roller from getting confused. So for example you can do <code>/roll 1d20+5 \\ Roll for Initiative +5</code>. If you want to include additional comments before the end of the roll (we call them "inline labels"), use square brackets. For example, <code>/roll 2d20+5[Fire Daamge] + 3d6+5[Ice Damage]</code>
+If you want to include any numbers, parentheses, or <code>+</code>, <code>-</code>, <code>*</code>, or <code>/</code> in your additional text, you can preface it with a <code>\\</code> to separate the formula from the text and keep the roller from getting confused. So for example you can do <code>/roll 1d20+5 \\ +5 Roll for Initiative</code>. 
+
+If you want to include additional comments before the end of the roll (we call them "inline labels"), use square brackets. For example, <code>/roll 2d20+5[Fire Damage] + 3d6+5[Ice Damage]</code>. When these comments are applied directly after a die roll they show up as tool-tips on the dice: 
+
+<div class="diceroller">/roll 2d10+2d6[crit]+5 Critical Hit!</div>
 
 ## Exploding Dice
 
