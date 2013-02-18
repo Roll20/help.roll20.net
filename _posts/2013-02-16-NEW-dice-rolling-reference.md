@@ -25,9 +25,8 @@ Rolls **N** traditional (almost, you can have any number of sides that you want)
 ### Fate/Fudge Roll <code>NdF</code>
 Rolls **N** Fate/Fudge dice. These dice have three sides with values of -1, 0, and 1.
  
-### Computed Dice Roll <code>(N+Y)dX</code>
-**NOT WORKING YET**
-Computes the number of dice to roll based on the mathematical expression in the parentheses. If the computed value is negative 0 will be used in its place. Dice coputation can be used with both Basic and Fate dice.
+### Computed Dice Roll <code>(N+Y)dX</code>/<code>Nd(X+Y)</code>
+Computes the number of dice to roll or the number of sides on the dice based on the mathematical expression in the parentheses. Dice coputation can be used with both Basic and Fate dice.
 
 
 ## Roll Modifiers
@@ -132,7 +131,7 @@ For a Grouped Roll with a single sub-roll expression the keep/drop is applied ac
 ### Target Number / Successes (B,F) - <code>CP</code>
 The same concept as when using on Dice Rolls but with different behavor for a group. For a Grouped Roll with a single sub-roll expression the success check is done after the remaining math expressions have been totaled into each roll. Single sub-roll groups are also useful when doing a success check on a roll that has another Compare Point enabled modifer. For a Grouped Roll with a multiple sub-roll expression the success check is applied to the esult of each sub-roll expression.
 
-* Single Sub-Roll Success Example - **NOT WORKING YET**
+* Single Sub-Roll Success Example
  * <code>{3d20+5}&gt;21</code> - Roll 3 d20's, for each roll add 5 and then count a success for each result of 21 or more.
  * <code>{2d6!}&gt;4</code> - Roll 2d6 exploding and count a success for each roll of 4 or greater.
 * Multiple Sub-Roll Success Example
@@ -141,7 +140,7 @@ The same concept as when using on Dice Rolls but with different behavor for a gr
 ### Failures (B,F) - <code>fCP</code>
 Failure checks on groups work just like success checks.
 
-* Single Sub-Roll Failure Example - **NOT WORKING YET**
+* Single Sub-Roll Failure Example
  * <code>{3d20+5}&gt;21f&lt;10</code> - Roll 3 d20's, for each roll add 5 and then count a success for each result of 21 or more and count a failure for each result of 10 or less.
  * <code>{2d6!}&gt;4f1</code> - Roll 2d6 exploding and count a success for each roll of 4 or greater and a failure for each roll of 1.
 * Multiple Sub-Roll Failure Example
