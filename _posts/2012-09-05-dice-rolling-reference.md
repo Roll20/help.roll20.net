@@ -204,6 +204,15 @@ You may want to see your results in either ascending or descending order. The so
 * Example Rerolls
  * <code>8d6s</code> - Roll 8 d6's and sort the results in ascending order
  * <code>8d6sd</code> - Roll 8 d6's and sort the results in descending order
+ 
+
+#### Order of Operations for Modifiers
+Modifiers are applied in the following order:
+
+# Exploding, Compounding, Penetrating, Rerolls
+ # These are applied while the dice are still rolling. imagine that you roll some exploding 6d6 on your table and the instant one of them settles as a 6 another die is rolled
+# Keep, Drop, Success, Failure, Sorting
+ # These are applied after all of the dice have "settled" and all of the result values are known.
 
 
 ## Grouped Rolls
