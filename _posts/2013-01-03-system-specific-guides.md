@@ -11,10 +11,10 @@ Roll20 is designed to work with a variety of systems, from D&D 4E to Pathfinder 
 
 [Tips on Playing Shadowrun 4th Edition](http://tinyurl.com/a45rrh9) by Yann
 
-<hr />
-
 ##New World of Darkness
 
 [Tips on Playing nWoD](http://app.roll20.net/forum/post/68367/nwod-systems-in-the-roll20-dice-engine#post-68367) by Nico144
+
+<hr />
 
 If you'd like to contribute a guide for your favorite system, create a post on the forums and let us know!
