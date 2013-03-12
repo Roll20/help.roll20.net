@@ -38,15 +38,15 @@ If you want to include additional comments before the end of the roll (we call t
 
 Roll20 supports exploding dice -- you may also know it as "rule of 6" or "rule of 10s" depending on your game system. With exploding dice, if you roll the maximum number on the dice (a 6 with a d6, a 10 with a d10, etc.) you get to re-roll again and add the additional roll to your total for that roll. If the additional roll is also a maximum number, you get to keep rolling! 
 
-To perform a roll with exploding dice, just add an exclamation point after the number of sides in the formula. For example, <code>/roll 3d6!</code> would roll 3 d6 dice with exploding re-rolls. 
+To perform a roll with exploding dice, just add an exclamation point after the number of sides in the formula. For example, <code>/roll 3d6!</code> would roll 3 d6 dice with exploding re-rolls. You can also define the exploding point for the dice using the greater-than and less-than symbols. For example, <code>/roll 3d6!>4</code> would explode on any dice greater-than or equal-to 4. <code>/roll 3d6!3</code> would explode only if a 3 is rolled.
 
 <div class='diceroller'>/roll 10d6!</div>
 
 **Compounding Exploding Dice (Shadowrun-Style Exploding Dice)**
 
-Shadowrun (and some other systems) use a special style of exploding dice where the the additional rolls for each dice are added together as a single "roll". To do this, just use two exclamation marks instead of one. So for example to roll 5 d6's, you would do <code>/roll 5d6!!</code>. A common Shadowrun roll would be exploding dice compared to a target number, for example <code>/roll 5d6!!>8</code>. Even though the target number (8) is higher than the possible roll from a single dice, with the compounding exploding rolls a single roll can be infinitely high!
+Shadowrun (and some other systems) use a special style of exploding dice where the the additional rolls for each dice are added together as a single "roll". To do this, just use two exclamation marks instead of one. So for example to roll 5 d6's, you would do <code>/roll 5d6!!</code>. A common Shadowrun roll would be exploding dice compared to a target number, for example <code>/roll {5d6!!}>8</code> <em>(notice the use of the brackets to show that we don't mean "explode on anything greater than 8", but rather "explode on 6's compounding, then compare to 8 for successes)</em>. Even though the target number (8) is higher than the possible roll from a single dice, with the compounding exploding rolls a single roll can be infinitely high!
 
-<div class='diceroller'>/roll 5d6!!>8</div>
+<div class='diceroller'>/roll {5d6!!}>8</div>
 
 **Penetrating Exploding Dice (Hackmaster-Style Exploding Dice)**
 
