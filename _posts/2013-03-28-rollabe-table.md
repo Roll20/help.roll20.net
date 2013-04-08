@@ -1,6 +1,6 @@
 ---
 layout: default
-published: false
+published: true
 ---
 
 <div class='alert alert-info'>This feature is only available to paid subscribers-- both Mentor and Supporter levels.  If this is something you’re interested in, please visit the <a href="https://app.roll20.net/account/supporter/">Supporter Page</a>.</div>
