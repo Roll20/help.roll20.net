@@ -1,0 +1,54 @@
+title = "Roll20 Gitleaks Configuration"
+
+[extend]
+useDefault = true
+
+[[rules]]
+id = "generic-key-roll20"
+description = "Find keys in quotes that look randomly generated"
+regex = '''('|")[0-9a-zA-Z\-_.=]{10,150}('|")'''
+entropy = 3.0
+[[rules]]
+id = "database-key-roll20"
+description = "Find keys look randomly generated and look like a DSN"
+regex = ''':[0-9a-zA-Z\-_.=]{10,150}@'''
+[allowlist]
+description = "ignore packages that might have hashes, etc in them"
+paths = [
+  '''.*go\.sum''',
+  '''.*go\.mod''',
+  '''.*translation.json''',
+  '''.*translations/(_)?(af|ca|cs|da|de|el|en|es|fi|fr|he|hu|it|ja|jp|ko|nl|pb|pl|pt|ru|sl|sv|tr|uk|zh|zu).json''',
+]
+regexes = [
+  '''roll20\.net''',
+  '''app.roll20.local''',
+  '''roll20-\d*''',
+  '''kubernetes\.''',
+  '''bridgeadapter''',
+  '''v1apps.Deployment''',
+  '''client.AppsV1''',
+  '''metav1.DeleteOptions''',
+  '''metav1.CreateOptions''',
+  '''roll20teams.net''',
+  '''v1.PullIfNotPresent''',
+  '''apiclusternode''',
+  '''v1core.ResourceList''',
+  '''v1meta.GetOptions''',
+  '''v1core.ResourceCPU''',
+  '''v1meta.UpdateOptions''',
+  '''v1core.ResourceMemory''',
+  '''rbac\.authorization''',
+  '''v1meta.DeleteOptions''',
+  '''v1meta.LabelSelector''',
+  '''v1meta.ListOptions''',
+  '''v1core.PodTemplateSpec''',
+  '''v1meta.ObjectMeta''',
+  '''roll20teams''',
+  '''\w\w\w-\w\w\w-\w\w\w''',
+  '''ios-arm64_i386_x86_64-simulator''',
+  '''_TtC11UserLeapKit''',
+  '''Roll20Core''',
+  '''net.roll20''',
+  '''\.(jpeg|jpg|pdf|png)"'''  
+]
